@@ -1,0 +1,97 @@
+<Page1>
+A few hours have passed since the massive fire in front
+of the station.
+When it first broke out, firefighters on the scene
+reported it would take two days to extinguish due to
+the intensity of the blaze, but it slowed down before
+midnight and was extinguished soon after.
+'It went out all by itself! Like it was a living
+thing', said a policeman at the scene.
+<Page2>
+"The traffic restrictions from here up to Route 305
+will be lifted by five o'clock tomorrow morning.
+The highways lifted their restrictions a little while
+ago.
+We have also disposed of any remaining traces of the
+Dead Apostles that were at the scene.
+Shall we head to the Metropolitan Police Department,
+Mario-sama?"
+<Page3>
+"Don't really wanna, but got no choice. We don't get
+these kinda commotions goin' on too often, even back
+home.
+Ain't gonna be able to solve this just by namedropping
+the ol' man. Sometimes I've gotta get out there myself
+and show I mean fuckin' well, y'know?"
+<Page4>
+"In that case, allow me to accompany you.
+Would you like to delegate command of the scene to the
+Executors we discussed before?"
+<Page5>
+"Oh yeah, those fuckers who were doin' an undercover
+investigation for whatever reason.
+They went at it as a two-man cell, yeah? Call the
+second-stringer of 'em over to my hotel and have her
+stay put. See if I can get some use outta her.
+Send the other back home as fast as you fuckin' can.
+Bother Seonator enough about it and he'll deal with it
+right quick."
+<Page6>
+"As you command. I will send a letter of protest to
+Presbyter Noi under the name of Laurentis-sama."
+"Alright, guess our job's just about done then.
+Don't really matter who we'll get to clean up the
+scene, but...
+'EY, ANDOU!"
+<Page7>
+"Yo, did you call for me, young master?
+Man, I just got assigned too. This really isn't my day.
+It'd be far-fetched to just write this off as some kind
+of gas explosion. Should we get some terrorist
+organization to make a statement?"
+<Page8>
+"That ain't gonna be needed. We can just force this
+plot's owner into takin' care of the public stuff.
+They'll come clean if we keep at it.
+ job's to retrieve the stuff that's too dangerous
+for us to leave here. Already mopped up most of the
+Dead Apostle's traces, but I ain't satisfied with how
+the casualties been treated. Get fuckin' to it."
+<Page9>
+"Sure, no prob...# wait, hold on, that battalion that
+you always keep with you still hasn't entered the
+country, right?
+So... I'm supposed to do this alone? Check every single
+corpse? To locate a bunch of 'half-turned' people who
+might be infected?"
+<Page10>
+"You ain't just gonna locate 'em. You also gotta send
+the live ones to the Church, and kill the dead ones all
+over again."
+<Page11>
+". I asked you to hire me because I hate doing that
+kinda dirty work, you know?"
+"Get to it. I'll get the folks at the morgue cleared
+out. You can get this shit done before dawn."
+<Page12>
+"Well, I guess all I gotta do is pull the trigger on
+some stationary targets. Long as I completely ignore
+the emotional toll it's gonna take on me, that is."
+<Page13>
+"Get the car goin', Karius.# Gonna go make the rounds at
+the authorities."
+"Yes, right away.
+Are there any other arrangements that need to be made?
+For a contamination of this scale, I can request for
+some immediate assistance―"
+<Page14>
+"Ain't necessary. In fact, don't you fucking dare
+report this. Gonna take care of this shit 'n make sure
+it stays here.
+For now we'll just gather info. I mean we  the good
+guys, right? Can't let the casualties pile up for no
+reason.
+We've gotta make reeeaaal sure 'bout who our enemy is,
+and who'll get in the way."
+<Page15>
+[Work in progress]"...I guess we'll just have to run."

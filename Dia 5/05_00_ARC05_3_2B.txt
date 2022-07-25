@@ -1,0 +1,248 @@
+<Page1>
+"Okay, let's take a quick break.
+You must be hungry, right Shiki? Do you want seconds of
+what I made earlier? Or shall I make you something
+else?"
+<Page2>
+"―――#No, I'll handle it.
+I'll just help myself to the ingredients in the
+fridge."
+<Page3>
+I don't usually judge a dish at first glance, but I
+didn't have the guts to eat something that only used
+the flavor of raw ingredients like that.
+For a moment, I thought I could do it if I was in
+perfect condition, but... no, even then, it'd still be
+impossible.
+I might not be able to avoid dealing with Vlov, but I
+can at least avoid  hazard.
+<Page4>
+After eating a light meal, I resume my conversation
+with Arcueid.
+The question of what we're going to do has been
+settled. All that remains is to work out how we're
+going to do it.
+The problem is those flames.
+ Until we come up with some
+sort of countermeasure, neither of us can get close to
+him.
+<Page5>
+"I guess our only option is to take him by surprise...
+It seems like you're the one he's after. We should have
+you act as a decoy and lure him out.
+While you do that, I'll hide somewhere and then jump
+out and attack him from behind while he's still focused
+on you... or something like that."
+<Page6>
+It's a pretty crude plan, but it's the only one I can
+think of right now.
+It doesn't solve the problem of getting close to him
+with all those flames in the way, though...
+<Page7>
+"Yeah. I think a plan like that should work.
+I'll be the decoy, and you'll be the one to take him
+out. It doesn't matter how much energy he has in
+reserve if you're the one who lands the finishing
+blow."
+<Page8>
+"There are still other problems though.
+Leaving me aside, you're the one that's going to fight
+him head-on. What are you going to do about those
+hand-like flames?"
+<Page9>
+"Hm? That shouldn't be a problem.
+As soon as I got hit by them, I could tell that Vlov's
+flames are only around 3000℃ or so. If I rebuild my
+body to be more heat-resistant now, I should be able to
+withstand them no problem."
+<Page10>
+"Huh...?"
+Back up, what does she mean 'only' 3000℃?
+Isn't that hot enough to melt rocks?
+<Page11>
+"The surrounding flames are much easier to handle.
+Their contamination is only strong enough to cover the
+surface, so when you come out of the shadows, I'll let
+out a little shout and blow them away.
+The only reason I couldn't do it back at the hotel is
+because you were behind me."
+<Page12>
+A shout...?
+It feels a bit too easy, but the fact is that she's
+already saved my life once.
+<Page13>
+"Yup, that pretty much settles it.
+First, I'll be the bait and lure out Vlov. Meanwhile,
+you find somewhere to hide.
+Then, when he appears, we'll fight for a little bit.
+I'm not strong enough to defeat him as of tonight, but
+I can at least put out the flames around him and hinder
+his movement."
+<Page14>
+"What do you mean 'hinder his movement'? Don't tell me
+that you're going to grab him and pin him to the ground
+from above or something."
+<Page15>
+"I'm not going to do anything that uncivilized.
+It would be futile to hold him down directly. Besides,
+I've never done it before, nor do I feel the need to."
+<Page16>
+"I-I see. In that case, how do you plan on subduing
+him?"
+"Exactly how I do it will depend on the location, but
+the long and short of it is that I'll be using chains."
+<Page17>
+"Chains? You mean like  chains?"
+"Yeah. You know, something like this."
+"!?"
+W-What the, my hands are bound by chains all of a
+sudden...!?
+Wait, where did these chains even come from!?
+<Page18>
+"They're formed by immobilizing the elements in the
+air. I find this shape easy to visualize.# As for how
+strong they are... at the moment, each chain could
+probably hold about a hundred tons? I'll pile a couple
+dozen of these on him, which should cut off his
+movement at the very least."
+<Page19>
+"I'll try and restrain him by just wrapping chains
+around his limbs, and leave his torso and head visible.
+That way you have something to aim for when you go in
+to cut his lines of death."
+<Page20>
+"O-Okay, I get it. I get it, so please untie me. I can
+feel my hands being ripped off! They're gonna be torn
+off before I can even fight Vlov!"
+<Page21>
+The chains that had suddenly appeared begin to fade
+away, disappearing as if vanishing into thin air.
+Once again, I am forced to contend with the sheer
+ludicrousness of Arcueid's existence...
+<Page22>
+Still, if she can create those chains at will, she
+should have no trouble pinning Vlov down for a bit.
+<Page23>
+"Um... like I was saying!
+If I see an opening while we're fighting, I'll bind
+Vlov's limbs with my chains.
+I'll only be able to restrain him for around ten
+seconds, so when I do, you'll have to burst out, take
+the shortest possible route, and launch a head-on
+attack on his lines.
+Don't worry. With skills like yours, he'll be dead in
+no time."
+<Page24>
+"What do you mean 'head-on'..."
+Arcueid said it casually, but I'm pretty uneasy about
+all this.
+<Page25>
+"No, we shouldn't base our plans on something we've
+never tried before.
+On second thought, I'll find some way to approach him
+from behind and cut the 'lines' on his limbs. If I do
+that, he won't be able to move around anymore―――"
+<Page26>
+That way there'll be no need for Arcueid to 'fight'
+him.
+The choice to fight should only be made if my surprise
+attack fails.
+With that in mind, I look at her face―――
+<Page27>
+"―――Shiki. If you do that, you will die."
+"Huh―――?"
+<Page28>
+"This is not a matter of how to do things safely.
+We're not talking about how to avoid death, we're
+talking about how to kill."
+<Page29>
+"Well that's―――true I guess."
+"You're about to go up against a vampire.
+That's why you must throw away your sense of morality,
+even if it's just for tonight. Carrying around that
+burden will only weigh you down when the time comes."
+<Page30>
+"That much I can understand... Our opponent is a
+monster after all, which is why I'm willing to lend a
+hand."
+<Page31>
+"No, you don't understand at all, Shiki.
+Cutting off a limb? You should give up on such a
+suicidal act. If you have the time to cut off a limb,
+you should use that time to sever his life instead. It
+would be different if he were any other creature, but
+this is something only you can do.
+Do you get it? Don't give Vlov a chance to fight back.
+The only advantage you have is that he doesn't know
+about your ability."
+<Page32>
+The look in Arcueid's eyes leaves no room for argument.
+Her red eyes assert that fact:
+'If you miss your first shot, there won't be another
+chance.'
+<Page33>
+She's right...
+It's just like she said. While I leisurely waste my
+time cutting off his limbs, my body will be completely
+reduced to ashes―――
+<Page34>
+"Vlov will show himself when night falls.
+When that time comes, we―――no, you and I must both
+go in with the intent to completely massacre him.
+Don't think about how you can come out of this alive.
+Think only about how you can kill him. Nothing more."
+<Page35>
+Arcueid gazes straight at me with her deadly eyes.
+She's really angry...
+She's angry at the fact that I still harbor such naïve
+thoughts.
+<Page36>
+"―――Fine. I won't hesitate.
+I'll cut all of his lines in one go.
+That should be fine, right, Arcueid?"
+<Page37>
+"........."
+Arcueid's gaze remains stern.
+She isn't replying... Which probably means she's at
+least satisfied with my answer.
+<Page38>
+"But where should I wait for him?
+If we stay in this apartment, it'll just be a repeat of
+what happened at the hotel. If there's some unpopulated
+place where I could hide..."
+<Page39>
+"The park at the center of the city is our best bet.
+It's deserted at night after all.#
+―――And if there do happen to be people passing by,
+then that's just their own bad luck."
+<Page40>
+Arcueid turns her back and averts her gaze.
+"What...? If you've got something to say, then say it."
+<Page41>
+"You can't do it. After all, you haven't said the word
+'kill' even once.
+At this rate, you will hesitate at the very last
+moment. And then you'll be killed before you even know
+it."
+<Page42>
+"As if that would happen. That guy is a monster that
+killed over a hundred people. There's no way that I'd
+ever hesitate to kill him."
+"―――――――"
+Arcueid breathes a tiny sigh.
+<Page43>
+"I'd be able to take down Vlov for sure if I just
+enchanted you with my Mystic Eyes... I'm not sure why,
+but even though this is the first time I've thought
+about doing it, I just can't bring myself to go through
+with it.
+It's like some sort of contradiction."
+<Page44>
+"I'll believe in you, Shiki. Let's defeat Vlov
+together."
+Arcueid turns around, her cheerful expression a far cry
+from her previous gloomy tone.
+<Page45>
+I wonder why...
+Even though her eyes are filled with trust, I can't
+help but sense a terrible apprehension in her smile.

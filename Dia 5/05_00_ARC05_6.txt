@@ -1,0 +1,18 @@
+<Page1>
+"――――――!"
+As I leave the building, I find that the area ahead of
+me has been reduced to rubble.
+I crouch down and advance, stopping just short of the
+rim of the crater.
+<Page2>
+The new crater is forty meters deep.
+This area used to be a park.
+But there's no trace of it anymore.
+The rubble forms a slope leading down to the foot of
+the pit.
+Although it'd be impossible to climb up from the
+bottom, descending should be possible even with legs
+like mine.
+With that said―――
+C:> I should descend.
+C:> I should observe the situation.

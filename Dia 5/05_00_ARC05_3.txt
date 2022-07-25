@@ -1,0 +1,65 @@
+<Page1>
+"I see. In that case, I won't say anything.
+I'm glad that you've decided to fight by my side. After
+all, with you around, we'll definitely be able to
+'kill' Vlov with a single strike."
+<Page2>
+"...No, I can't see how that would work.
+He radiates way too much heat. I won't even be able to
+get close to him.
+And besides, how are we going to find him in the first
+place?"
+<Page3>
+"Find him... you really are extreme, aren't you? You've
+only just chosen to stand your ground, and now you want
+to go on the offensive."
+"H-Hey, I was just thinking out loud! I don't want to
+hear that from the queen of extremity herself."
+<Page4>
+"I'm just more focused on efficiency.
+Well, whatever... Just so you know, it's going to be a
+war of attrition from here on out.
+The safest strategy right now is for us to stay on the
+run, at least until I regain some of my strength.
+After three days, my Lifescale will be back to around
+30% of its original level. That should be enough for me
+to defeat Vlov on my own."
+<Page5>
+"Three days...? But, that means―――"
+"Yeah. For those three days, Vlov will go completely
+unchecked. He'll go into hiding and feed on humans in
+order to replenish his supply of blood... no, that's
+not all. Judging by the state he's in, he might even
+roam the streets at night.
+He's not in his right mind after all. I don't think he
+understands that the Church will come after him if he
+doesn't lie low."
+<Page6>
+"I can't allow that. He's a monster that leaves a trail
+of flames anywhere he goes! We can't just let him roam
+freely, not even for a single day!"
+<Page7>
+"Then our only choice is to find and kill Vlov during
+the day.
+But I'm against it. I have a rough idea of where he is,
+but there's nothing more cautious than a Dead Apostle
+in slumber. If we head there as we are right now,
+there's a high chance we'll just end up getting killed
+instead."
+<Page8>
+"No way. Even though you've figured out where he is,
+you're just going to turn a blind eye...?"
+"Yeah. Like I said, it doesn't matter to me how many
+humans end up falling prey to Vlov."
+<Page9>
+I'm speechless...
+I get where she's coming from.
+If we want to play it safe... no, if we want to be
+completely certain of our victory, the best choice
+would be to wait for Arcueid to regain her strength.
+<Page10>
+But it's a tradeoff... The more time that we waste
+here, the more the victims will continue to pile up.
+I should――――
+C:> ...Search for Vlov right away.
+C:> ...Stay here until nightfall, at least.
