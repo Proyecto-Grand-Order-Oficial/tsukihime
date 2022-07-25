@@ -1,0 +1,232 @@
+<Page1>
+"What's the matter, Senpai? You don't look happy."
+"Huh? Ah, well,# I was a little surprised that you
+seemed to be more relaxed than I am."
+<Page2>
+"No, my family has always been strict, so I'm just used
+to this kind of thing. More importantly, Senpai, what
+did you want to talk to me about?"
+<Page3>
+"Oh, that's right.
+To tell the truth, I'm dying to hear more about the
+circumstances you mentioned at lunch."
+"My circumstances... you mean about my family home?"
+'Yes', nods Senpai.
+<Page4>
+"If you don't mind, that is.
+It's just a little weird for someone to move at this
+time of year, so I was wondering if you were in some
+sort of trouble."
+"I'll warn you now, it isn't all that interesting of a
+story. You'd only be wasting your time."
+<Page5>
+"I don't mind if it's boring.
+I just want to hear it."
+"...Hmm. You're very curious, aren't you?"
+'I guess so', she laughs.
+<Page6>
+"Then let's pick up where we left off.
+You said you were returning to your old house, but does
+that mean you've never been back to your family home?"
+<Page7>
+"Yes. For various reasons, I haven't been back there
+for almost seven years. I've been taking a leave of
+medical absence... or something like that. I got in an
+accident when I was ten, and I've had chronic anemia
+ever since.
+The Tohno mansion was a little too hectic for me, so I
+was entrusted to some relatives to recover in peace.
+That's where I've lived until yesterday."
+<Page8>
+"Oh... that must have been hard.
+Um, so how's your wound now?"
+"It's healed perfectly. The only lingering after-effect
+is anemia, but my father said that I had that before
+the accident, so I'm not too concerned about it."
+<Page9>
+"I see... I'm sorry I made you dredge up something
+painful.
+Um, so does that mean that ever since you were ten,
+you've been raised by these relatives in place of your
+parents?"
+<Page10>
+"That's right. Their family name is Arima, and they
+were very good people, too good for me."
+My words are filled with gratitude for those people,
+even if I do not consciously know it.
+I think I was happy to have stayed in that house for
+seven years.
+<Page11>
+"Were? You're speaking in the past tense. Are you
+saying that the Arimas didn't treat you like family
+because they knew that you would eventually return to
+your original home?"
+<Page12>
+"Huh? No, that's not what I meant.
+I didn't expect the Tohno family to call me back at
+all. Keiko-san, the rest of the Arimas, and I all
+thought we'd be living together forever."
+"You didn't think they would call you back?
+Even though you're the eldest son of the Tohno family?"
+<Page13>
+"Yes... to tell you the truth, my recovery was just a
+front. My father and I never got along. It's more like
+he threw me out of the house, using my injury as a
+pretext to keep up appearances."
+<Page14>
+"...Are you sure you're not just misunderstanding
+something?"
+"Hmm, that's a good question.
+If it is a misunderstanding, then all the better."
+<Page15>
+I respond to Senpai's words# as frankly as I can.
+I'm sure I must be smiling.
+It warms my heart to hear the concern in her voice as
+she suggests that my father and I may have simply been
+talking past each other.
+<Page16>
+"Sadly, there's no longer any way to know for sure.
+The man in question passed away just the other day. His
+death was so sudden that we didn't get a chance to
+settle anything, so that seven-year-long
+misunderstanding will forever go unresolved."
+...That is.
+If there ever truly  a misunderstanding.
+<Page17>
+"I see, so your father has passed away.
+So that's why you're now able to return to your family
+home?"
+"Yes. The new head of the family demanded that I come
+home as soon as possible. I'm a little worried about
+what's in store, but I'll be living there again
+starting today."
+<Page18>
+I finish the conversation.
+Ciel-senpai takes a small breath, then stares back at
+me as if she has something on her mind.
+<Page19>
+"Can I ask you something?"
+Her voice has a serious edge to it, and I find myself
+unconsciously straightening up.
+"By all means. So long as it's something I can answer."
+<Page20>
+"I see. Then, I'll be straight with you.
+Just now, you were talking about the Arima family in
+the past tense. You're already thinking of them as
+people you've cut yourself off from. Tohno-kun, did you
+hate your foster family that much?"
+<Page21>
+Foster family―――does she mean the Arimas? I guess
+they're the ones who looked after me for the last seven
+years.
+They may have been my mother and father, but they
+weren't my real parents.
+The house that served as my home was unfamiliar to me.
+But none of that mattered at all―――
+<Page22>
+"No, I loved them. They openly embraced me despite the
+fact I'm not even related to them by blood, and were so
+warm and caring that I'd have been ashamed if I still
+felt isolated or depressed.
+I thought that I could get used to living like that,
+believing in that unconditional love."
+<Page23>
+ ―――I knew that these people loved me.
+     So, as soon as possible.
+     I had to become a real part of their family―――
+<Page24>
+That's what I've been telling myself ever since I was a
+child.
+...For as long as I can remember, really.
+I've been repeating that mantra over and over in my
+mind for what feels like forever.
+<Page25>
+"―――But it didn't work out, did it?"
+"Yeah. I guess you could say that I fall in and out of
+love easily."
+<Page26>
+No matter how happy I was to be loved, the next day I
+still felt like a stranger.
+I just couldn't think of myself as one of them, and my
+feelings would always peter out eventually.
+<Page27>
+That's why at the very least...
+I try not to forget the fact that they cared for me.
+<Page28>
+"It's especially true when it comes to family. I
+couldn't return the love my father and mother gave me.
+I wonder why―――"
+<Page29>
+I couldn't get the thought out of my head that since I
+couldn't do that, I wasn't really a part of their
+family.
+Maybe I suffered some sort of terrible trauma as a
+child, and that's the reason that no matter where I go,
+I always feel like a stranger to my own family.
+<Page30>
+Senpai remains silent.
+She averts her gaze, her shoulders slumped
+apologetically.
+<Page31>
+"See, I warned you it'd be a boring story.
+I'm sorry for wasting your time, Senpai."
+"No, not at all. I thought it was very worthwhile."
+Trying to light up the mood, she forces a smile.
+<Page32>
+"But I have to say, I got more than I bargained for. I
+thought you were a laid-back kinda guy."
+<Page33>
+"Yeah, I'm fundamentally a pretty relaxed person. I've
+made it my motto to enjoy the present as much as
+possible.
+Isn't it better to look forward to what's ahead than
+back on what's already over?"
+Well, that's what Arihiko once told me.
+<Page34>
+"Looking forward to what's ahead, huh?
+I like the way you think. I can't help but feel like
+doing my best to cheer you on."
+<Page35>
+"Hmm, but if you're trying to enjoy life as much as
+possible...
+.... Well then, what do you say we start walking to
+school together starting tomorrow?"
+<Page36>
+"Huh―――"
+I'm a little shocked at the sudden invitation...
+Actually, I'm more shocked that I've been talking about
+myself this entire time. That's not like me at all.
+<Page37>
+"Ah, no, that's not what I meant! By enjoying myself I
+just meant having a positive outlook, that's all! If I
+was going to hit on you, I would have set the stage a
+bit more beforehand, right?!"
+"Yes, don't worry, I was just joking.
+I know that you're a gentleman."
+<Page38>
+...I can't help but feel slightly disappointed, but at
+least I didn't cause a misunderstanding.
+I regain my composure and take a sip from my teacup.
+The tea is stone cold after sitting out during our
+lengthy conversation.
+<Page39>
+We end up talking for another hour.
+It was enjoyable to have Senpai eagerly listening to
+everything I had to say, but talking this much when I'm
+not used to it is exhausting.
+<Page40>
+She particularly enjoyed my story about the school
+trip, which apparently she couldn't take part in
+because she'd come down with a cold the day before.
+<Page41>
+"That was the second year of junior high, so you must
+have been fourteen at the time.
+I would have liked to have seen you at that age."
+Anyone would blush if she said that to them with that
+smile on her face.
+<Page42>
+We could have talked on and on, but the sun would set
+soon.
+It's almost time to close down the tea ceremony room
+for the day, so I take off ahead of Senpai and start
+heading home.

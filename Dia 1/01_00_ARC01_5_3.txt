@@ -1,0 +1,54 @@
+<Page1>
+Before that, I want to explore the mansion a little
+more.
+Even though it's my home, seeing this mansion again has
+stirred up my feelings.
+<Page2>
+"Excuse me. Before we go to the living room, do you
+mind if I take a look around the other rooms? It's kind
+of nostalgic."
+There used to be a playroom on the second floor of the
+west wing...
+<Page3>
+"Oh. So you remember it."
+<Page4>
+"But, my apologies.
+The large rooms such as the playroom, the library, and
+the parlor have been locked since Akiha-sama became the
+head of the family.
+Even if you are the eldest son, you are not allowed to
+use these rooms without her permission."
+<Page5>
+"Ah... I see. That's too bad."
+She refuses me flatly. Having lost some face, I turn my
+gaze away.
+<Page6>
+"I can't use the house quite so freely after all, can
+I?"
+"No, I am sure she will allow you to as soon as you
+greet her.
+Ah, but―――"
+<Page7>
+"It would be appreciated if you would ask permission
+first before entering a locked room.
+The Tohno residence has strict security not only on the
+outside but also on the inside. If you were to enter
+any such rooms without approval, I wouldn't be able to
+guarantee your safety."
+<Page8>
+"My safety? You're exaggerating, right? Are there going
+to be darts flying at me?"
+<Page9>
+"No.
+Something more terrifying than any darts―――the
+thunder of our strict master."
+The servant smiles jokingly and once more goes to usher
+me down the corridor.
+I guess she wants me to go to the living room to rest
+first.
+<Page10>
+"Welcome home, Shiki-sama.
+I look forward to working for you."
+<Page11>
+Unable to come up with an appropriate reply to her
+polite greeting, I timidly follow her.

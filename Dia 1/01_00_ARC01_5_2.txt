@@ -1,0 +1,16 @@
+<Page1>
+I decide to stop her and ask for her name.
+I feel guilty just calling her 'maid-san'.
+<Page2>
+"Excuse me, may I ask your name?
+I just got here, so I haven't really grasped the
+situation yet."
+I call out to her.
+The girl in the kimono looks at me, eyes wide.
+<Page3>
+"My name is Kohaku. In this mansion, I serve the head
+of the Tohno family."
+<Page4>
+Smiling, the girl bows after her introduction.
+It was a gentle motion, like that of a flower blooming
+from a bud.

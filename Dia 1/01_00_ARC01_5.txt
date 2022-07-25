@@ -1,0 +1,172 @@
+<Page1>
+The main gate is firmly shut.
+As a child, I knew that the Tohno mansion was 'pretty
+big', but after living in the normal-sized Arima house,
+it's finally sinking in just how huge this mansion
+really is.
+<Page2>
+This entire hill overlooking the city is the property
+of the Tohno family.
+The plot with the mansion on it alone is larger than my
+high school, and if you count the forest that spreads
+out behind it, it's probably three times bigger.
+<Page3>
+The grounds are surrounded by a long wall and trees,
+making it impossible to peek inside.
+The main gate, which serves as the entrance to the
+property, is closed and forbidding.
+<Page4>
+Next to the bigger gate for cars, there's a doorway for
+people.
+After a moment of hesitation, I press the button that
+seems to be the doorbell.
+<Page5>
+Unlike a normal intercom, there is no ringing to be
+heard by the person who pressed the button.
+After a few seconds of waiting, the lock on the door
+releases and the intercom buzzes, inviting me to enter.
+<Page6>
+"...The door is fully automatic now. There used to be a
+guard..."
+<Page7>
+I open the heavy door and enter the premises, passing
+through the stone gate.
+The door locks tightly behind me with a satisfying
+clunk.
+<Page8>
+After passing through the main gate, a gently sloping
+path leads deeper and deeper into the forest.
+Surrounded by tall trees, the path gives me the
+impression of a tunnel.
+It extends due east, then after about forty meters
+makes a hard left turn to the north.
+<Page9>
+"――――――"
+Memories come flooding back with each step; it's like
+they're being colored in.
+I know this path.
+I ran along it countless times.
+<Page10>
+Almost there.
+Arriving at the corner and with my feet facing
+north―――on the left, there lies...
+<Page11>
+The Tohno mansion, towering high, like a great wall of
+chalk.
+I let out a sigh that could be of either admiration or
+resignation.
+<Page12>
+It hasn't changed at all.
+According to my father, the house was heavily renovated
+after the war. The basic construction, however, was
+inherited from my grandfather, who himself inherited it
+from his own grandfather.
+<Page13>
+This is a castle for a powerful man. A man from a
+family that has been in this land for hundreds of
+years.
+For Makihisa... no, for all members of the Tohno
+family, this mansion is a sanctuary.
+<Page14>
+At the annual family reunions, there would always be a
+handful of adults trying to curry favor with my father
+so that he'd rent them a corner of the mansion.
+<Page15>
+They were all probably successful businessmen with
+their own mansions. Yet, for some reason, they were
+obsessed with living here.
+They must have considered living here to be very
+prestigious.
+...Really, how ridiculous. I'm not familiar with the
+values of the upper class, so for me, it's just a
+'luxurious mansion'.
+<Page16>
+"......Alright."
+There's no turning back now; not after I've come this
+far.
+Next to the double doors, there's an incongruous
+doorbell.
+<Page17>
+I shake off my nervousness and push the doorbell.
+There's no familiar  sound.
+<Page18>
+The heavy silence continues for several seconds.
+I can hear the sounds of hurried footsteps coming from
+the other side of the door.
+<Page19>
+"Welcome, we've been expecting you."
+Despite its heavy appearance, the door opens lightly.
+<Page20>
+I squint at the light of the setting sun shining
+through the window.
+I had prepared for this situation, but I still gulp and
+look around the vast lobby.
+<Page21>
+...Any visitor would be overwhelmed by the
+architectural beauty.
+I get the striking feeling that I've been transported
+to a different country in a different time. The
+interior of the mansion is so dated that even the
+atmosphere is different.
+<Page22>
+Still, this is the Tohno residence lobby of my
+memories.
+<Page23>
+I stand there motionless, across from the person who
+came to greet me―――a girl in anachronistic clothes.
+<Page24>
+"Thank goodness. It was getting quite late, and so I
+was starting to worry that you might have gotten lost.
+If you had not made it here before sundown, I would
+have come to get you."
+The girl wearing a kimono and an apron laughs softly.
+<Page25>
+"Ah, no―――"
+I'm so bewildered by this unexpected turn of events
+that I can't speak coherently.
+I'd assumed that the person waiting to welcome me would
+have been the rugged-looking butler who had been
+Makihisa's secretary.
+<Page26>
+"Hm?"
+The girl tilts her head gently as if puzzled by my
+confused attitude.
+<Page27>
+"You are Shiki-sama, right?"
+"Y-Yes. Although, addressing me with a '-sama' is a bit
+excessive."
+<Page28>
+"You are, right? Oh, please do not scare me like that.
+I was afraid I made a mistake again."
+<Page29>
+The girl in the apron presses her forefinger to her
+lips with a warning gesture, like a mother scolding her
+child.
+It would appear that she really did worry and is now
+quite cross. Even so, the smile remains on her face,
+and she still gives off a welcoming atmosphere.
+<Page30>
+...A kimono and an apron.
+She's come to greet me and refers to me with a '-sama'.
+So, this girl is――――
+<Page31>
+"Excuse me. Are you a maid here by any chance?"
+"――――――"
+She simply smiles in response to my question.
+<Page32>
+"You must be tired, right?
+Please, come on in. Akiha-sama will be free to greet
+you shortly, so please make yourself at home in the
+living room until then."
+<Page33>
+The girl starts walking as if guiding me, her every
+movement gentle and calm.
+She heads toward the corridor on the east side of the
+lobby, next to the grand staircase.
+<Page34>
+If I remember correctly, the door to the living room is
+just inside that hallway.
+I―――
+C:> Decide to obediently follow her.
+C:> Decide to stop the girl and ask for her name.
+C:> ...Well, I think I'll explore the mansion a little.
