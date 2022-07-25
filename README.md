@@ -1,2 +1,2 @@
-# tsukihime
-datos para traducir tsukihime remake al español.
+# Tsukihime
+Estos son los datos extraidos con deepLuna utilizados para traducir el juego al idioma español.
