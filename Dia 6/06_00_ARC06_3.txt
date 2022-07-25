@@ -1,0 +1,9 @@
+<Page1>
+Having finished lunch, it's now the afternoon.
+Thanks to this morning's medical exam, I'm able to at
+least walk around without much trouble.
+Given that I can't go too far, how shall I spend my
+afternoon?
+C:> I'll take a walk around the courtyard.
+C:> I'll wander the halls of the mansion.
+C:> I'll take a quick trip into the city.
