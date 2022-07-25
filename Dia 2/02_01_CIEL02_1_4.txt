@@ -1,0 +1,78 @@
+<Page1>
+I exit into the hallway and start heading for the
+stairs.
+The cafeteria and the school store are both located on
+the first floor, so I need to head downstairs
+regardless.
+<Page2>
+...However.
+When I go to head down the stairs, I'm greeted by an
+unexpected sight.
+The new teacher, Noel-sensei, is standing in the
+hallway doing nothing.
+<Page3>
+It's unusual to find teachers in the hallway during
+lunchtime.
+The teachers at our school usually have lunch in the
+staff room, prep room, or the designated staff area in
+the cafeteria.
+There's no reason for one of them to be hanging around
+by the second-floor landing.
+Could it be...
+<Page4>
+"Sensei. Are you lost by any chance?"
+I doubt she is, but I call out to her just to be sure.
+<Page5>
+"Aw c'mon, do I look that unreliable?
+I'm just here for a change of pace, a little breather.
+The staffroom here is just way too ."
+<Page6>
+"'We'll only be with you for a short time, but please
+consider us family.'
+You can't help but be taken aback when someone says
+stuff like that to you, right?
+They invited me to a welcome party to celebrate my
+first day, but I just wasn't mentally prepared for it,
+y'know?
+When everyone's smiling at you it can actually be kinda
+scary, don't you agree?"
+"―――Huh. Well, I guess so."
+<Page7>
+ the one who's taken aback here.
+I ended up replying casually to Noel-sensei's frank
+remarks, as though the two of us were friends.
+<Page8>
+"Right? I thought that high school teachers would be
+exhausted from dealing with all the kids who act like
+adults.
+A teacher must be tough, positive, and smiling.
+I'm pretty confident in my smile, but I'm still feeling
+a little put out after seeing the other teachers."
+<Page9>
+As she says this, Noel-sensei slips the mobile phone
+she was holding into her suit pocket.
+...It didn't look like she making a call or composing
+an email. Was she taking a picture of something?
+<Page10>
+"Well, I can't sneak away from my problems forever, can
+I?
+I guess I'll give up and head back to the staff room.
+But still... . 'Are you lost'? That just cracks me
+up! We're at school! Ah, or was that a Japanese pick-up
+line?"
+<Page11>
+"N-No, not at all."
+"I know, I know. I'm just messing with you ☆
+See you later, Shiki-kun. Thank you for being so
+considerate ♥"
+<Page12>
+Noel-sensei hums as she walks down the stairs.
+She really is quite a carefree teacher.
+But...
+<Page13>
+"How did she know my name...?"
+Has she already memorized the faces and names of all
+the students in the class now that she's our new
+homeroom teacher?
+I might have misunderstood her. She might really be a
+dedicated teacher after all...

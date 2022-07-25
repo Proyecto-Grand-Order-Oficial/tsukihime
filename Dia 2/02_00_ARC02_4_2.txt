@@ -1,0 +1,300 @@
+<Page1>
+I'll drop by Kohaku-san's room.
+I think I spotted where it was earlier when I was on my
+way to the bathroom.
+<Page2>
+I make my way toward the end of the corridor on the
+first floor of the west wing.
+To give a sense of the location: the lobby is to my
+rear and I'm pretty sure that the kitchen is at the end
+of this corridor.
+I think that Kohaku-san has made herself at home in the
+small room right beside the kitchen.
+<Page3>
+"Kohaku-san's room is... this one?"
+I knock on the door.
+"Kohaku-san, are you there?"
+<Page4>
+"Yes, just a moment, please."
+I hear a cheerful voice from inside the room.
+After about two minutes, she comes out.
+<Page5>
+"Oh, if it isn't Shiki-san.
+What are you doing at this hour?"
+"Um, well. ...Actually, I was wondering if you'd let me
+use your TV."
+"Pardon?"
+<Page6>
+"Ah, you know, this mansion doesn't have a TV, right?
+After living in a normal house all this time, I've
+gotten in the habit of mindlessly watching TV for a
+while before bed, and I'm having a little trouble
+winding down without it..."
+<Page7>
+...The more I explain it, the more I realize how stupid
+it all sounds.
+It's incredibly strange behavior to barge into a girl's
+room and demand to see her TV.
+<Page8>
+Even Kohaku-san is looking at me in disgust――――or
+maybe not?
+<Page9>
+"It sounds very reasonable when you put it that way.
+You've been living at the Arima household up until now
+after all. The heavy atmosphere in this mansion must
+have come as quite a shock."
+<Page10>
+"Um, let's see... have you told Akiha-sama or
+Hisui-chan about this?"
+"By 'this', you mean about me coming to your room?"
+Kohaku-san nods.
+<Page11>
+"No, I haven't told anyone."
+<Page12>
+"Excellent. If you had, I would've needed to send you
+away."
+She replies with a smile, and then furtively glances
+around the hallway.
+<Page13>
+"Fortunately, I don't see anybody around.
+Now, it wouldn't do to be spotted out here so please
+come on in."
+She grabs hold of my arm.
+"Wait, w-w-whoa...!?"
+<Page14>
+The inside of the room is quite different from what I
+had expected.
+Half of the room is occupied by tatami mats, with a
+bunch of tansu chests closely packed in the back. That
+half of the room is entirely Japanese in style.
+On the other hand, the other half of the room, while
+still simple, is westernized, reminiscent of a school
+infirmary rather than a room in a Western-style
+building.
+<Page15>
+"Sit wherever you like.
+I'll go make some tea."
+Kohaku-san leaves the room.
+<Page16>
+"......"
+. After clearing my throat, I take a seat, opting
+for the sofa on the wooden part of the floor over the
+tatami.
+<Page17>
+Kohaku-san's room looks more like a well-organized
+office than a girl's room.
+All of the drawers in the chest at the back are very
+small.
+Each one can probably only hold a small handful.
+<Page18>
+"That chest, could it be...?"
+Isn't this a chest for storing medicine?
+...I'm pretty sure that's what it is. Back when I lived
+with the Arimas, there was a chest just like this in
+the room of the old town doctor that took care of me.
+<Page19>
+If that's the case... then is Kohaku-san also a
+certified doctor...?
+No, she can't be. She's too young to qualify.
+<Page20>
+Glancing around, I spot a TV remote on the cushion.
+I wonder if Kohaku-san had actually been watching TV
+when I knocked.
+<Page21>
+"Okay, thank you for your patience, Shiki-san.
+Here's some tea for you."
+"Ah, thanks for going out of your way."
+<Page22>
+"No no, I'm sorry that this is all I can whip up right
+now."
+With a friendly smile on her face, Kohaku-san serves me
+a cup of strong green tea and some sweet bean jelly as
+a snack.
+<Page23>
+"You came to watch TV, right?
+What do you usually watch at this time?"
+"Nothing specific... I guess the news?"
+<Page24>
+"Is that so?
+You have such a relaxed personality that I assumed
+you'd be the type to read after dinner."
+<Page25>
+"Unfortunately, I don't have such praiseworthy
+inclinations.
+I'm often mistaken for a diligent student, but I'm lazy
+at heart.
+I guess it's the glasses that make me look so earnest."
+<Page26>
+"―――Ah, that's right!
+, so about those glasses that you wear, Shiki-san.
+I was actually quite taken aback to see you in them
+when I greeted you yesterday."
+"Why's that?"
+<Page27>
+"Well, Akiha-sama never told me that you wear glasses.
+I was prepared for a man with cool and sharp eyes, just
+like her."
+<Page28>
+'My worries were unnecessary, though', adds Kohaku-san,
+smiling.
+...I see.
+I guess I'd never actually met Akiha in person since I
+started wearing these glasses.
+<Page29>
+"Well, these glasses are really just for show.
+It's certainly true that there's something wrong with
+my eyes, but my eyesight is actually above average.
+It's not as though they went bad from studying too
+hard. Ah... have I ruined your image of me as an
+intellectual?"
+<Page30>
+"No, not at all.
+I also enjoy watching TV more than reading books.
+I'm glad that you're as lively as I thought you would
+be."
+<Page31>
+"I-I see. Well, thanks."
+Feeling embarrassed, I look away.
+Getting struck by Kohaku-san's earnest smile at
+point-blank range has made me quite flustered.
+<Page32>
+"Ah, I'm sorry.
+You came to watch the news, and here I am chatting with
+you."
+Kohaku-san turns on the TV.
+<Page33>
+Images appear on the screen.
+It's a little past 9:30 PM.
+The news program is no longer a cheerful one for the
+general audience; it has shifted tone, and is now
+reporting on serious matters affecting society.
+<Page34>
+"Oh, dear. Another serial killing?"
+The news is running a special report on a series of
+murders.
+The serial killings that started in the neighboring
+district are now being replicated here near Souya
+Station.
+<Page35>
+The story is simple.
+'They indiscriminately abduct young women who are out
+late at night, kill them, and drain their blood.'
+Eight people have already fallen victim, and the
+police's ability to keep up with the investigation has
+been called into question.
+<Page36>
+No further details have been reported by the media.
+When it comes to the common characteristics of the
+victims, the precise cause of death, or any other
+information, the news has obscured all details and
+reported only that 'their blood had been drained'.
+I guess this is a way of restricting information in
+order to prevent copycat acts by amused criminals.
+<Page37>
+"It's a grim state of affairs. Just what are the police
+even doing?"
+"Hmmm... maybe they're having a hard time pinpointing a
+motive because the crimes aren't premeditated? If a
+spur-of-the-moment murder takes place in the middle of
+the night, it'd be impossible to track the culprit
+unless you caught them in the act. Motive... you can't
+find a criminal unless you know their motive."
+<Page38>
+"The people that were attacked were just unlucky... or
+perhaps you could say that the killer themselves has
+very good luck, given that there were no eyewitnesses."
+"Yes, well. Lucky or not, it's strange that the
+murderer has gone unidentified for almost two weeks
+now."
+<Page39>
+"I'm not so sure. If they were well-prepared, it
+wouldn't be that unreasonable, would it?
+All I can do is speculate, but I'd expect that the more
+murders you commit, the more evidence you leave
+behind."
+<Page40>
+"If it were eight missing people, I could understand
+there not being enough information, but you'd think
+that with all eight bodies having been found there'd be
+enough circumstantial evidence to lead somewhere.
+Therefore, there must be some reason why the culprit
+still hasn't been caught."
+<Page41>
+"――――――"
+...I can't say I expected that.
+It's a bit of an unbecoming topic, but I'm impressed
+all the same.
+Whether or not Kohaku-san's speculation is correct, I
+didn't expect her to think so deeply about the details
+of the case.
+<Page42>
+"But that would make the killer a well-prepared
+murderer, not a spur-of-the-moment thrill killer.
+...If they were only pretending to be a thrill killer,
+and were actually acting according to some secret plan,
+then wouldn't that suggest that even though the victims
+don't seem related in any way, there's really a common
+thread tying them all together?"
+<Page43>
+"Well, I don't know about that.
+If there were such a connection, the police would have
+noticed it by the second victim or so.
+After all, this is an incomprehensible case with a
+superhuman level of preparation in terms of
+concealment, but very little in terms of purpose."
+<Page44>
+...Kohaku-san talks about this disturbing topic with a
+smile.
+It seems as though she isn't particularly worried about
+it.
+<Page45>
+"Kohaku-san, this is an incident that is happening in
+this very city.
+Don't you think it's a little scary, especially for a
+young girl like you?"
+<Page46>
+"Oh no, it's okay.
+After all, serial killers only appear in the middle of
+the night. If I don't go out at night, I won't run into
+any."
+<Page47>
+What a refreshing way of thinking.
+It's a little too raw of a topic to fit a neat and tidy
+explanation to, but maybe that's just the way it is
+with incidents we learn about on the news.
+<Page48>
+"I'm sorry to have disturbed you.
+I may swing by again sometime if I feel like watching
+more, so thanks in advance."
+<Page49>
+"Yes, I'll be waiting for you."
+Kohaku-san glances around the hallway.
+<Page50>
+"As much as I would like to see you back to your room,
+Hisui-chan is waiting for you there, so this is where
+we must part ways."
+"Okay. Good night then."
+<Page51>
+"......"
+...I didn't know that bedtime was ten o'clock here at
+the mansion.
+In addition to the eight o'clock curfew, there's an
+unspoken rule that you aren't allowed to leave your
+room after ten o'clock.
+<Page52>
+"Geez. It's so strict around here even without the old
+man around."
+...Well, I suppose it's not that surprising.
+No matter how much technology advances or trends
+change, the Tohno family has maintained this way of
+life for hundreds of years.
+Nothing will change just because Akiha became the head
+of the family.
+<Page53>
+"......She's been rather good to me, hasn't she?
+She sent away all the relatives, at least."
+<Page54>
+...I'm a little worn out from the atmosphere of this
+unfamiliar mansion.
+I think I'll obediently head back to my room for
+tonight.

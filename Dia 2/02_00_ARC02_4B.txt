@@ -1,0 +1,146 @@
+<Page1>
+"I-I'm home..."
+I open and close the front door as quietly as I can and
+discreetly enter the lobby, announcing my return in a
+voice that is neither too loud nor too quiet.
+<Page2>
+The time was eight o'clock, one minute ago.
+I ran as fast as I could from the front of the station
+and just barely made it in time, but honestly, it was
+so hard that I feel like throwing up. That slope is too
+much for my heart.
+It was fine on the way to school because it was
+downhill, but I forgot that it would be uphill on the
+way back.
+<Page3>
+"Welcome home, Shiki-sama.
+I know you are tired, but before you return to your
+room, please come to the office.
+―――Akiha-sama would like to have a word with you."
+<Page4>
+"... the office, is it?"
+If Akiha's taking the trouble to call me into her
+office, she must really be in a foul mood.
+<Page5>
+"You took a detour because you had money to spare.
+As punishment, I will be reducing your monthly
+allowance by about 20%."
+<Page6>
+And there you have it.
+My sentence was handed down the instant I entered her
+office. I didn't even have a chance to plead my case.
+I hadn't thought about that... I guess I'll be
+receiving my monthly allowance from Akiha from now on.
+And to think it's already been reduced...
+Rejoice, Father. Akiha grew up to be a much stricter
+master than you.
+<Page7>
+"B-But that's not true, is it? I came back before
+curfew, remember?
+...Well, I didn't make it back before sunset, but..."
+<Page8>
+"Oh, I'm shocked. So you  aware that you made a
+promise to me. In that case, why did you not keep it?"
+"Ah. Well, I suppose that I forgot."
+<Page9>
+"Nii-san, I forgot to tell you something as well.
+As an added punishment, you will not have dinner
+tonight."
+"Wha―――"
+<Page10>
+What a tyrant...!
+If she's being this harsh even though I managed to make
+it back on time, I shudder to think what would have
+happened to Tohno Shiki if he'd broken the curfew...
+<Page11>
+...I trudge across the lobby, heading for my room.
+I'd protested to the head of the family, but could not
+undo the punishment of taking away my dinner.
+On the other hand, my allowance was only cut by 10%.
+It was a major victory in terms of a brother's dignity.
+<Page12>
+"Shiki-san, Shiki-san."
+"...Kohaku-san?"
+As I'm on my way back to my room, Kohaku-san calls out
+to me.
+She's hiding in one of the nooks in the corridor,
+addressing me conspiratorially in much the same way as
+she did this morning.
+<Page13>
+"Come on. That's no good, you should have come home on
+time today at least.
+After all, she came back incredibly early, believing
+that you'd listen to what you were told, if only for
+the first day."
+"Wait, who came back?"
+<Page14>
+"Well obviously that's...# n-no, you know what, never
+mind.
+. In any case, as a servant, I cannot overlook the
+fact that you did not have dinner.
+As such, I have prepared a light meal for you in your
+room.
+Although it's just a rice ball and some miso soup."
+<Page15>
+"...!"
+What a thoughtful maid she is...!
+And this is on top of her returning my phone this
+morning. To think that she'd go this far for me, even
+though she's the one who'd be on the hook for it if
+Akiha found out...
+<Page16>
+"Is this really okay? It'd be a huge help, but..."
+"Of course. This is about your health, after all.
+Besides, Hisui-chan has also agreed to this. Even if
+Akiha-sama finds out, I'm sure she'll forgive us if we
+both apologize."
+"I see, that girl also..."
+<Page17>
+Despite appearances, she looked out for me.
+It's hard to get a read on her because she doesn't
+really let her emotions show, but it seems that Hisui
+also felt bad about my 'no dinner' treatment.
+<Page18>
+"Shiki-san. Her name's not 'that girl'. It's
+Hisui-chan."
+"Ah, yeah, I know. But since I don't know her all that
+well yet, I'd feel bad if I used her name so casually."
+<Page19>
+"No, you shouldn't do that. That's too cruel.
+She may not look it, but Hisui-chan is very kind.
+So please, think nothing of it and call her by her
+first name as if she were family."
+<Page20>
+Kohaku-san is staring straight at me.
+...She's right. It'd be difficult for Hisui if I
+continued to act like a stranger.
+I'm sure she's just as concerned about me as Kohaku-san
+right now, so I should try to relax around her a bit
+more.
+<Page21>
+"I understand. From now on, no matter what happens,
+I'll call her Hisui-cha... no, saying 'chan' is a bit
+too embarrassing, so I'll just call her Hisui."
+"Please do. It would be much appreciated."
+<Page22>
+After that, Kohaku-san goes downstairs.
+I say a silent prayer to my savior, the Nightingale of
+the Tohno residence, and return to my room.
+Rice balls, huh... Kohaku-san made them, so they must
+be pretty tasty...
+<Page23>
+"―――, that was a nice bath."
+I'd wolfed down the rice balls specially made by
+Kohaku-san.
+After that, Hisui came by to tell me that the bath was
+ready.
+By the time I come back from my bath, it's nine o'clock
+in the evening.
+<Page24>
+It's a bit too early to go to bed.
+I have nothing at hand to read other than a textbook.
+I'm not even that tired today.
+Rather than wasting time, I decide to―――
+C:> Visit Akiha in the living room.
+C:> Go to Kohaku-san's room.
+C:> Rest here.
