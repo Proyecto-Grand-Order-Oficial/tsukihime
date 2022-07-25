@@ -1,0 +1,329 @@
+<Page1>
+"Yeah, this is a pretty nice room.
+I don't think anyone could complain about spending a
+night in here."
+<Page2>
+Arcueid happily looks around the hotel room.
+"――――"
+I'm left speechless by this turn of events.
+<Page3>
+"So, what do you want me to do specifically?"
+"Let's start by getting out of here.
+Let's see, my room probably isn't the best place to
+hole up... Aha, how about we head somewhere that's
+higher up and has a better view?"
+<Page4>
+And so, here we are.
+Arcueid flagged down a taxi on the main street and we
+took it to the next town over.
+She checked us into a room at one of the most expensive
+hotels in the area. Well, I say room―――she actually
+booked out the entire top floor. It was like she's a
+celebrity.
+<Page5>
+"Wow, it's so tall!
+Human architecture really is advancing at a remarkable
+pace.
+What's the phrase people use for this again? ' to
+the '? Or wait, was it 'Progress marches on'?
+Well, it doesn't really matter! Ooh, ooh, over there,
+Shiki! The alleyway we were just in is so tiny now!"
+<Page6>
+Arcueid has opened a small gap for herself in the
+curtains and seems to be having fun looking at the
+scenery through the window.
+I am by no means in the mood for this.
+<Page7>
+This place isn't a hotel room so much as a fortress
+that happens to have been built on top of a hotel.
+The blackout curtains, the furniture that decorates the
+room, and even the materials used for the walls and
+doors are significantly more luxurious and sturdy than
+the ones you'd find in your average hotel.
+<Page8>
+Since we've rented out the entire top floor, no other
+guests will come up here. This room even has a monitor
+that shows what's happening in the lobby on the first
+floor.
+I'm struck once again by how the pedigreed people that
+use hotel rooms like this are like a totally different
+breed to the rest of us...
+<Page9>
+"Let's hide out here tonight. Oh, and don't worry about
+the hotel fee.# I'm rich, so I'll treat you."
+<Page10>
+Speaking cheerfully, Arcueid pulls away from the
+window.
+She said it was a great lookout spot, but it appears
+she is already tired of the bird's-eye view of the
+city.
+<Page11>
+"Arcueid... What on earth are you thinking?"
+I let out a sigh.
+<Page12>
+"What do you mean, I'm thinking about a lot of things."
+"No, that's not the point.
+I mean sharing a hotel room with a man―――"
+<Page13>
+I was about to say something, but I stop.
+My role here is just to be a lookout for this
+self-proclaimed vampire.
+I don't have to say anything superfluous.
+<Page14>
+"No, it's fine. Do what you want."
+"You're a weird one, Shiki.
+You're so unpredictable, getting angry all of a sudden
+and then going silent."
+I'm not sure what's so funny, but Arcueid is laughing.
+<Page15>
+"......"
+Meanwhile, I'm standing right next to the door, still
+very much on edge, keeping a watchful eye over the
+entire room.
+I'm the complete opposite of the relaxed Arcueid.
+<Page16>
+I'm exhausted and desperately want to rest, but if I
+were to sit down on the sofa now, I can all but
+guarantee I'd be out like a light.
+No matter how desperate I get, I can't allow myself to
+become that defenseless.
+<Page17>
+"Shiki, do you want something to drink? It looks like
+there's a whole bunch to choose from here!"
+"........."
+I hear a carefree voice coming from over by the
+minibar.
+Needless to say... the bottle in Arcueid's hand is some
+form of alcohol.
+<Page18>
+"Look here. Why are you pushing alcohol when you're
+undera―――"
+I bite my tongue mid-sentence.
+I'm not actually sure whether she's underage or not. I
+don't care to know though, so I'm not about to ask.
+<Page19>
+"I'll pick out something myself later. More
+importantly―――"
+No matter how tired or bewildered I am, there's
+something I have to clear up.
+<Page20>
+What  this woman in front of me?
+In other words, how dangerous is the situation I'm in
+right now?
+Even if the answer defies common sense, I can't sit
+down and relax on the couch without first trying to
+understand things as best I can.
+<Page21>
+"More importantly, there's something that I need to ask
+you.
+I can't sit back and relax until I do."
+<Page22>
+"Hm? I don't mind, but what's the matter? You're acting
+very serious all of a sudden."
+"........."
+Well of course I seem serious, I haven't let my guard
+down for even a second since I ran into you... Anyway,
+that aside―――
+<Page23>
+"This is important.
+At the end of the day, what are you really trying to
+accomplish?"
+<Page24>
+"Me? I'm just chasing after that vampire.
+Eliminating vampires is my duty after all."
+"Yeah, I seem to recall you saying that earlier.
+But you're a vampire too, aren't you?"
+<Page25>
+"What, are you saying that you still don't believe me
+Shiki?"
+<Page26>
+"Relax, I don't like it but I believe you.
+What I'm trying to say is, why would a  like
+yourself be going out killing  ? That
+doesn't make any logical sense."
+"Oh, so you don't like it when members of the same
+species kill each other?"
+<Page27>
+"I'd prefer it if they didn't kill members of other
+species either.
+But look... vampires are demons that suck the blood of
+humans, right? Then shouldn't your target be humans and
+not other vampires?
+Wouldn't the people you kill be, you know―――"
+If it's blood you're after, then wouldn't it make more
+sense to target humans...?
+<Page28>
+"The act of sucking blood and the act of killing are
+two different things.
+Still, I understand what you're getting at. You're
+saying that we should help each other because we're the
+same species, right?
+However, even though vampires are all derived from the
+same greater <origin|p r o g e n i t o r  >, each one is a unique species that
+has evolved differently from all the others.
+We don't have the same sense of fellowship that humans
+do."
+<Page29>
+"Huh...? So, does that mean the vampire that you're
+looking for is different from you?"
+<Page30>
+"Yeah, it's a different species of bloodsucker from me.
+The vampire I'm chasing is a  , so they're
+more in line with the image you have of what a vampire
+is.
+They suck human blood and convert the people they kill
+into familiars to gradually increase their power.
+You remember those burning Dead from this morning,
+right? That's what happens to people killed by
+vampires. Even though they are dead as humans, they
+cannot truly die and continue as the living dead."
+<Page31>
+"They're dead, but they're still alive..."
+The corpses that appeared in the alleyway... According
+to the legends about vampires, people whose blood has
+been sucked become new vampires and attack people.
+As they keep doing this and growing their numbers, they
+eventually turn the entire village into a land of
+death... or so it goes.
+<Page32>
+"Yes. That's the kind of vampire that lurks in this
+city.
+I have no interest in sucking blood, and I'm no ally of
+theirs. As such, I have no problem with killing these
+other vampires."
+<Page33>
+Arcueid says this matter-of-factly.
+It appears that there are many different types of
+vampires.
+<Page34>
+"I'm starting to feel a bit shaken by all this...
+So you're telling me that the reason you told me to
+become your shield was so you could kill him."
+<Page35>
+"Yes, that was my intention at first.
+I was planning on using you as a shield whether you
+liked it or not. If you'd tried to run away, I would
+have bound you with my   and run you into the
+ground through the power of overwhelming fear.
+But as I was talking to you, I started to change my
+mind."
+<Page36>
+So she was planning to use force from the beginning...
+Okay, I'll have to make sure to remember that.
+"You changed your mind? Why?"
+<Page37>
+"Hmm, I guess because I was wrong about you.
+You know what, Shiki? I spent the entire time between
+when you killed me and when I revived under the
+impression that you were a member of the .
+If you  been, there was a chance you might have
+known where the enemy was, and I'd have been able to
+count on you as a force to be reckoned with."
+<Page38>
+"But you ended up being a completely ordinary person.
+You didn't even know the first thing about vampires,
+let alone the location of the enemy's coffin."
+<Page39>
+"Yeah... there's no way they'd send an  to an
+atheist country like this in the first place. Not to
+mention that they wouldn't be operating alone. Their
+policy is to always move in master-disciple pairs after
+all..."
+<Page40>
+Arcueid is off mumbling to herself.
+The conversation seems to have gone off the rails a
+bit, but I'm just happy not to be the subject anymore.
+<Page41>
+"All that to say, you're not the one I'm after anymore.
+I'm back to chasing after my original prey.
+Which is kind of a bummer, I guess."
+<Page42>
+Her voice is sprightly, but her words are disturbing.
+Damn... This woman still has it out for me, doesn't
+she?
+Even though it's natural for her to hate me after what
+I did, it's not good for my heart to hear her say 'I
+want to kill you' with a smile.
+Seems like she really is planning on killing me the
+moment I let my guard down―――
+<Page43>
+"Are we done with the serious stuff? Well then, time
+for bed!"
+"Wha?"
+And then,# with a spring in her step,# she strolls over
+to the bed and flops down onto it.
+<Page44>
+"This feels pretty good, so I'll sleep until the sun
+goes down.
+Ah, Shiki, you should also get some rest while you can.
+Vampires can't be active during the day, so I don't
+need you to be on lookout until nightfall."
+<Page45>
+"You... do understand that you've just said something
+that negates your entire existence, right?"
+"It doesn't bother .
+―――Oh, I think I've reached my limit. Well then,
+good night, Shiki. Wake me up when the sun goes down,
+okay?"
+<Page46>
+"H-Hey!"
+"―――――――"
+Arcueid suddenly falls asleep like a car that's had its
+engine turned off.
+<Page47>
+"―――――Seriously?"
+Unbelievable. She's really asleep...
+I feel like an idiot for spending the entire time
+hovering by the door in case I needed to make a run for
+it.
+<Page48>
+Is this okay? I know it's not for me to say, but is she
+really fine with this?
+I was dragged here more or less against my will. I
+could easily make my escape right now.
+<Page49>
+No, what's more―――
+Even though I don't have the same urges I had back
+then―――
+"I've already killed you once, you know..."
+How is this woman still able to fall asleep so
+carelessly?
+<Page50>
+"............"
+I stare at Arcueid's face.
+Judging by the gentle rise and fall of her well-rounded
+chest, it seems she's still breathing.
+She lies on the bed, her body perfectly still.
+<Page51>
+She looks like a work of art in repose.
+Softly closed eyelids.
+Long eyelashes, and pretty lips that look vibrant even
+without lipstick.
+<Page52>
+The swell of her chest is very shapely.
+The line of her hips is like a hill disappearing into
+the horizon.
+Her smooth and slender legs are stretched out across
+the bed.
+Demure, yet sensual; such contradictory words come to
+my mind.
+<Page53>
+"........."
+A woman like that is fast asleep and defenseless in
+this royal suite.
+I've only known her for a short time, and yet she
+trusts me, the person who brutally killed her, from the
+bottom of her heart.
+<Page54>
+"She really is an idiot, isn't she?"
+Yeah... she's so stupidly honest it's enough to make
+you worry for her.
+<Page55>
+In any case, this is a critical juncture.
+This may be the final crossroads where Tohno Shiki has
+a chance to turn back.
+<Page56>
+She said 'I'll have you be my shield'.
+But I...
+C:> ...Have had enough of this madness. I'll run away.
+C:> ...Won't lose my way again. I'll stay.

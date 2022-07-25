@@ -1,0 +1,212 @@
+<Page1>
+"―――I see. Yeah, you're a good person, aren't you?"
+"...?"
+<Page2>
+I look up, surprised.
+The woman is smiling.
+Even though she said she's a vampire, she has a very
+honest face.
+<Page3>
+"That settles it.
+I think I'll make you help me out after all."
+<Page4>
+"Wha―――?"
+She smiles at me again, but it feels like this time
+there's something meaningful behind her smile.
+Help... help her...?
+<Page5>
+"Hey. What do you mean 'help'?"
+"You know, like a    for me forgiving you.
+I thought I might have you help me get rid of the
+vampire that has infiltrated this city."
+"――――"
+Wait... I'm only getting more and more confused.
+<Page6>
+"Hold on, this is in exchange for your forgiveness? Are
+you really going to forgive me just like that?
+Also, back up for a sec―――what do you mean get rid
+of the vampire? Aren't you a vampire yourself?!"
+<Page7>
+"Ah, no, it's not what you're thinking. I  a vampire,
+but a totally different type to the one that's taken
+root in this city.
+You live in this city, right?
+Then you must know about the recent murders."
+<Page8>
+"Uhh... well, yeah."
+The familiar words cool down my confused mind. It's
+strange, but the crazy story of the serial killings
+feels way more real than the current situation.
+<Page9>
+"Yeah... I know about them. The serial killings right?
+Quite a lot of people have already been killed, and all
+the victims were found drained of their blood―――"
+<Page10>
+As soon as I say that, I realize what she's getting at.
+So that means...
+<Page11>
+"Right.  the vampire I was talking about.
+You keep telling me to kill you, but they're the only
+person I have it out for right now.
+Wouldn't you say that this serial killer is your enemy
+too?"
+<Page12>
+"――――――"
+My thoughts are racing as I try to make sense of this
+new information.
+I understand the context. I understand what she's
+saying. But my abilities to reason through this have
+just been left in the dust.
+<Page13>
+"Humans are honestly just sooo inefficient, I really
+don't understand them at all.
+You're all going around saying 'this is the work of a
+vampire', but nobody is actually doing anything to
+exterminate them. You're like squirrels that won't run
+away even though the forest is on fire."
+<Page14>
+"Sure, but like, it's not as though vampires actually
+ right?"
+"."
+The woman scowls sullenly.
+Oh... right.
+I remember that the person in front of me is some
+unknown being who calls herself a vampire.
+<Page15>
+"Okay, so... now what?
+You're going to get rid of the vampire behind the
+murders that have been happening in this city for us?"
+And... are you saying that  supposed to help you
+with that?
+<Page16>
+"Yeah. You see, my plans have fallen apart in a big
+way.
+Yesterday, I was unfortunately attacked and killed by a
+random murderer for whatever reason. Yeah, that really
+threw a wrench in my plans. It was a perfect surprise
+attack, and I was cut into seventeen pieces before I
+could even try to fight back."
+<Page17>
+"How can one pursue a person they've only just met,
+kill her, and walk away satisfied? It's so cruel that
+it makes me sick. Whoever did it really is nothing more
+than a cold-blooded murderer."
+<Page18>
+"――――"
+Damn it... She's pretty clearly talking about me here.
+Much as I'd like to deny it, there's nothing I can say.
+<Page19>
+"I'll have you know that before I finished reviving, I
+really was planning on killing you.
+I've never been humiliated like that before, and I had
+to use up more than 80% of my energy just to
+reconstruct my body."
+<Page20>
+"But more than anything else, it  hurt like
+hell. It hurt so much that I felt I was about to go
+insane, but then it hurt even more and snapped me back
+to consciousness again.
+Do you have any idea how it feels to be constantly
+swinging back and forth between those extremes for an
+entire night?"
+<Page21>
+"........."
+I'm sorry. As a human being, this is beyond anything I
+can imagine.
+<Page22>
+"And then, I began to hate you so much that I searched
+for you.
+I got so mad that I even neglected my original goal,
+which was to find that vampire."
+<Page23>
+"It was only a couple of hours ago that I found out
+from the municipal records that your clothes belonged
+to that school.
+I'd originally planned on waiting until night fell to
+catch you, but just couldn't wait any longer. That's
+why I decided to wait for you back there instead."
+<Page24>
+"........."
+I see... so that's why she was waiting for me in front
+of the school.
+I'm sure that after experiencing that much pain, she
+must have been dying to kill me.
+But...
+<Page25>
+"I don't get it... If you hated me so much, why are you
+willing to forgive me now?"
+<Page26>
+"―――I wonder.
+I guess the long and short of it is that I cooled off
+over time... or something.
+I've also used up a bunch of my power, so I figured
+that instead of mindlessly killing you, it might be
+more efficient to have you be my meat shield."
+<Page27>
+"Hey... Didn't you just say something really awful?"
+"Huh? Did I really say something like that?"
+"You just said something about using people as
+shields."
+A particular  of shield, too.
+<Page28>
+"What, I mean isn't it natural that I would?
+I've forgiven you, sure, but only insofar as it
+concerns my own personal feelings.
+You still need to atone for the murder you committed
+with deeds rather than words, don't you think?"
+"I mean, that's true, but..."
+<Page29>
+I was expecting to be killed in revenge, but becoming
+someone's shield is something else entirely.
+Well... I can't really put into words why they're
+different, but I still have a bad feeling about it
+either way.
+<Page30>
+"I really can't tell whether you're an honest person or
+not.
+In case you forgot,  were the one who killed ,
+remember?
+I know it may be hard to imagine, but it takes a lot of
+energy to come back to life after dying."
+<Page31>
+"It wouldn't have mattered if you'd merely killed me.
+But the way you cut me was like nothing I've ever seen
+before. Since I couldn't piece my body back together
+again, I had no choice but to make a new one from
+scratch.
+As a result, I had to use practically all of my
+strength just to come back to life!"
+<Page32>
+The woman is so angry that she is positively fuming.
+Her anger from last night, forgotten until now, seems
+to have rekindled itself while she was rambling.
+<Page33>
+"All that to say, I'm weak right now.
+I'll probably be back to normal in two days' time, but
+if I get attacked before then, it's game over for me.#
+That's why I'm going to have you act as my shield in
+the meantime."
+"No, you can't just go ahead and decide to make me your
+shield!"
+<Page34>
+"It's your fault that I'm in this situation, so you
+should at least do that much, right?
+Or are you saying that you don't actually regret
+anything after all?"
+<Page35>
+The woman stares straight into my eyes.
+"..."
+<Page36>
+That's not fair.
+Don't look at me like that before I've had the chance
+to repent or say that I deserve it.
+If you're going to call yourself a monster like a
+vampire, at least stop condemning me with those pure
+eyes.
+<Page37>
+"Are you serious..."
+I try to steady my wavering heart.
+I want to repent and atone for what I've done.
+But my heart is frantically telling me that to
+cooperate with this person would be    
+ .

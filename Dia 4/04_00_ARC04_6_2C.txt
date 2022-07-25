@@ -1,0 +1,235 @@
+<Page1>
+"Let's start by dividing them up into different types.
+Although they're all generally referred to as vampires,
+they can broadly be categorized into two groups."
+<Page2>
+"Those that were vampires from the start, and those
+that were turned into vampires.
+The former are known as   and the latter
+are called  ."
+<Page3>
+"Dead Apostles are the ones you people are referring to
+when you talk about vampires.
+My explanation of the hierarchy earlier also doubled as
+a crash course on the ecology of Dead Apostles. They
+suck the blood of humans and make underlings of them,
+they're weak to sunlight, and they can be defeated by
+way of a Baptismal Rite.
+Our enemy is also a vampire that would be classified as
+a Dead Apostle."
+<Page4>
+At some point, she switched from saying 'my enemy' to
+'our enemy'. I wanted to point this out, but under the
+circumstances it's not wrong, so I'll let it slide.
+<Page5>
+"Hmm... You said that Dead Apostles don't start out as
+vampires; what did you mean by that?"
+<Page6>
+"Dead Apostles are beings that start off as humans,
+animals, or anything else that isn't a bloodsucker by
+nature.
+Some attain eternal youth through , while
+others have their blood sucked and become underlings.
+Well, in either case, the result is basically the same.
+Those who become vampires gain an imperfect but
+immortal body, and cease to be something that could be
+considered human."
+<Page7>
+"......"
+So there are two types of vampires: the True Ancestors,
+who were vampires from the very beginning―――
+And Dead Apostles, who are humans that were turned into
+vampires.
+But... something doesn't add up.
+I feel like there's a discrepancy or structural
+inconsistency somewhere in what she said.
+<Page8>
+"Hey, Shiki. How much do you know about the
+characteristics of vampires?"
+<Page9>
+"I only know the basics.
+People say that they suck the blood of virgins and can
+paralyze others with a stare, turn themselves into
+mist, or transform into wolves... stuff like that."
+<Page10>
+"Yeah, everything you said is pretty much true.
+The reason why they suck the blood of virgins is
+because their blood―――which hasn't been mixed with
+the bodily fluids of any other humans yet――― is more
+suitable for replenishing their genes. The main
+difference is that it's more nutritious when compared
+to regular blood."
+<Page11>
+"Dead Apostles―――those who  
+vampires―――possess only an imperfect immortality. To
+be clear, they've transformed into lifeforms with
+dynamic cells, making them very difficult to kill.
+However, just like a burning flame, they must
+constantly replenish their energy or else they will be
+extinguished."
+<Page12>
+"All living things need nourishment in order to
+function, right? It's the same idea. The only
+difference is that so long as they continue to consume
+blood, a bloodsucker's lifespan has no limit."
+<Page13>
+"Dead Apostles suck blood because they need it in order
+to survive.
+They were originally human, so it's impossible for them
+to obtain a truly immortal body."
+<Page14>
+"The longer they live, and the more power they gain,
+the less the genes that make up their own bodies are
+able to bear the build-up of atoms. If they don't
+continue to increase their strength they'll collapse,
+but if they increase their strength too much, they will
+no longer be able to maintain their own form."
+<Page15>
+"So what do they do to make up for it?
+It's simple. As their own genes become corrupted, they
+take in normal ones from elsewhere to supplement the
+ones that are lost."
+<Page16>
+"It's the same as how humans like to have organic
+compounds in their diet.
+Vampires gather both that normal genetic information
+and calories from blood. The soul's calorific value, if
+you will."
+<Page17>
+"In other words, they fix their own bodies by sucking
+human blood and taking in their genetic information.
+For the Dead Apostles, sucking blood is not only a way
+to feed and pool their power, but it's also essential
+for their continued existence."
+<Page18>
+"......"
+How complicated. Not to mention long.
+Despite the fact that I'm barely keeping up with these
+explanations, Arcueid continues to plow on without a
+care.
+<Page19>
+"Alright, next up is... the thing about paralyzing with
+just a stare right?
+That's one example of what we refer to as Mystic Eyes.
+The eyeball is a useful and powerful  , so
+there are many bloodsuckers that have Mystic Eyes."
+<Page20>
+"It might be easier to think of it as a 'Directional
+magical energy release function'.# It's sort of like...
+a beam coming out of the eye? Just picture it like
+that."
+<Page21>
+"Wait, they can do that, shoot a beam!?"
+I involuntarily jerk forward at the mention of such a
+ridiculous word.
+<Page22>
+"Huh...!? Well... I mean, it's not an actual beam.
+There's no way there are any vampires that can actually
+do something that ridiculous. It's just a mental image.
+A way to visualize."
+I see. That's both good and disappointing.
+<Page23>
+"Okay so, what are Mystic Eyes anyway?"
+"They're a special type of eye―――an ability that
+discharges single-action magecraft through the usage of
+one's Magic Circuits... I guess you could think of them
+like a skill."
+<Page24>
+"I mean, humans have things like fencing right? It's
+the same general idea.
+There are many different kinds, but it's a skill that
+can be used by any Dead Apostle. That said, regardless
+of how much they train, their strength is limited by
+the user's own talents."
+<Page25>
+"The ones that we vampires have are the   
+. They're basically the most powerful type
+there is... in the world of vampires, Mystic Eyes
+outside of Enchantment are considered pretty useless."
+<Page26>
+"The Mystic Eyes of Enchantment don't let the holder
+enchant someone just by looking at them. They only take
+effect when the target looks into the vampire's eyes.
+Powerful vampires can use their Mystic Eyes to tap into
+a person's brain and take complete control of their
+thoughts... Although, Dead Apostles who possess that
+level of Mystic Eyes are rare."
+<Page27>
+Hmm...
+So they function kinda like brainwashing or hypnosis.
+You could order someone to 'Forget what you saw here'
+for example.
+If you had eyes like those, you could easily cover up a
+murder, even if a third party witnessed it.
+<Page28>
+"Ignoring how they work for a minute, the point is that
+I shouldn't look into these eyes, right?"
+"Yep, you got it. So, when you're up against a vampire,
+you should try to just look in their general direction
+rather than at their face.
+Making eye contact with an enemy vampire is essentially
+suicide."
+<Page29>
+"The next point was about turning into mist, right?
+I guess this can also be classified into two different
+types.
+The high-grade type is the one that involves actual
+particle transformation. It's a technique that diffuses
+one's 'self', scattering the particles that make up
+one's body. There are only a few Dead Apostles who can
+do this over a wide area and for a long period of
+time."
+<Page30>
+"The lower-class type is really more like sleight of
+hand. You can think of it as being similar to
+.
+Cautious vampires will create clones and pilot them
+around by imbuing them with some of their
+consciousness. Once they're done with them, they cut
+off the magical energy that was animating the clone.
+This causes it to turn to dust and fizzle out, making
+it look like it just disappeared in a cloud of mist."
+<Page31>
+Mmm-hmm.
+'Kagemusha' means 'Shadow warrior', right?
+This foreigner... no, this foreign  knows a
+surprising amount about Japanese culture.
+<Page32>
+"Turning into a wolf, or any other animal for that
+matter, is a side effect of using a familiar to
+compensate for a damaged body.
+The longer a vampire lives, the harder it is for
+ordinary cells to make up for their decaying body.
+That's why they capture powerful beasts and use them to
+supplement their body.
+When necessary, these beasts are returned to their
+original state and put to work, which makes it look
+like the vampire 'turned into a wolf' or 'called forth
+a wolf'."
+<Page33>
+"Dead Apostles are able to take ancient beasts into
+their bodies in order to repair their life force.
+However, one is the limit―――if they take in too
+many, the vampire's soul will become clouded by the
+beasts.
+There's only one vampire among the Dead Apostles who
+has ever taken in more than one beast as a familiar.#
+That vampire is already gone, though."
+<Page34>
+"Well, I think that about wraps it up.
+I've only given you a rough outline based on the points
+you gave me, but do you understand what vampires are
+like now?"
+<Page35>
+"To give a rough definition, bloodsuckers with the same
+shape and intelligence structure as a human are called
+vampires.
+No matter how foreign the contents are, as long as
+their basic form is human, that's pretty much a
+vampire."
+<Page36>
+"........."
+If anything, I'm getting more and more confused.
+I understand how monstrous these so-called vampires can
+be, but that's why I can't believe that the woman in
+front of me is a vampire...

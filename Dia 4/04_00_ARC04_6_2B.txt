@@ -1,0 +1,345 @@
+<Page1>
+"Ah――――"
+As you can see, Arcueid is shocked. It's as if she's
+only now considered that possibility.
+<Page2>
+"I guess you're right, now that you mention it.
+I wonder why. I guess I felt like I could trust you
+after talking to you in that back alley."
+"――――――"
+Well... it's not like that's bad or anything.
+<Page3>
+"I see... If you really trust me that much, then I'll
+also make an effort. All I have to do now is keep an
+eye out, right?"
+<Page4>
+"Yeah. At least until the sun comes up.
+I won't be leaving this room, so I want you to be on
+guard against anyone that comes to this floor."
+<Page5>
+"Right......"
+You say 'on guard', but it's not as though I'll be much
+use if something like the black panther from this
+morning appears.
+I'm painfully aware that this sort of responsibility is
+well beyond my capabilities, and simply saying 'roger
+that' isn't going to suddenly make me fit for guard
+duty.
+<Page6>
+Let's step back for a second and examine what we know
+before going any further.
+We need to have some way of dealing with things like
+the black panther or the burning corpses, but I still
+don't know very much about Arcueid or her enemies.
+<Page7>
+"I'd like to confirm something, Arcueid.
+Those things that attacked us in the alleyway, were
+they sent by your enemy?"
+<Page8>
+"I wouldn't say they were 'sent' by him so much as they
+were 'on patrol'.
+Their role was probably to follow a certain route in
+order to monitor the city. Since we happened to be
+chatting at a location along their patrol route, my
+presence here has been discovered."
+<Page9>
+"Discovered... as in, by your enemy?"
+"Yep. If I'd been in perfect condition, this would have
+saved me a lot of trouble, but with things as they are,
+there's a chance they could defeat me instead.
+That's why we ran all the way here. If they attack me
+before I regain my strength, there'll be nothing I can
+do."
+<Page10>
+So in other words, Arcueid's enemy―――the serial
+killer wreaking havoc in the city―――is another
+vampire just like her.
+Based on this conversation, it sounds like these two
+vampires are searching for each other's 'whereabouts'.
+<Page11>
+However, they aren't on equal footing.
+Because at the moment, Arcueid is critically weakened.
+<Page12>
+"Plus, this enemy has subordinates to do their dirty
+work for them, but you on the other hand have no one to
+rely on, is that right?"
+'', grumbles Arcueid as she scowls in
+dissatisfaction.
+<Page13>
+Judging by her lack of reply, I guess she really is
+alone...
+Well, nothing for me to complain about, at least―――
+<Page14>
+"You said before that vampires are all different, so is
+this one of those differences?
+If it is, what's the proper name for a 'vampire that
+has many allies'?"
+<Page15>
+"That's...
+Uh... What's the easiest way to explain this..."
+<Page16>
+Arcueid casts her eyes around the room as she tries to
+think of something.
+It seems like she's not used to talking to people.
+<Page17>
+"It's fine, you can do it the difficult way. Anything
+you can tell me would be useful, so just say what's on
+your mind.
+I don't really know what's going on, but I'll try to
+follow along as best as I can."
+<Page18>
+"Really? Thanks a lot, Shiki."
+"Right, sure. No need for thanks, just keep going."
+'Okay', murmurs Arcueid as she nods meekly.
+<Page19>
+"'Vampires with tons of allies' are kind of a broad
+category, but the Dead Apostle that lurks in this city
+belongs to a more traditional class of vampire."
+<Page20>
+"To borrow Church terminology, this vampire is a
+.
+Suzerains invade towns and villages through a series of
+stages."
+<Page21>
+"For starters, we have stage 1.
+The vampire first picks out humans with outstanding
+abilities and then turns them into their underlings by
+sucking their blood.
+Humans that have their blood sucked by the vampire die
+and become puppets of the Suzerain, though they still
+retain the personality they had when they were human.
+In other words, a 'corpse that retains its sense of
+self'. In    terms, these  are the
+third lowest tier, about equal to a high-grade
+familiar."
+<Page22>
+Great, she's only just gotten started and I'm already
+lost...#!
+Well, I managed to get some sleep as well, so at least
+my head is clear.
+I'm just going to skip over the words I don't
+understand and ask about the parts that I do.
+<Page23>
+"A 'corpse that retains its sense of self'... does that
+mean they are vampires that are still human?#"
+"Hmm, maybe I shouldn't refer to Rank IIIs as
+'vampires'.
+Their bodies are superhuman, sure, but they can't
+create their own offspring. It's best to think of them
+as a sort of leader-class for the lower-ranked
+workers."
+<Page24>
+"Then what about those things that appeared in the
+alleyway...?"
+"Those things are one step below: Rank II .
+They're basically just workers who can't do much more
+than follow orders, let alone pass as human."
+<Page25>
+Arcueid seems to have gotten really into it, and starts
+explaining the various vampire stages using a diagram.
+This woman sure is strangely versatile...
+<Page26>
+"Once the vampire has made a certain number of the
+townspeople into their underlings, they prepare
+themselves a coffin and go to sleep.
+Suzerains can't go out and about during the day since
+their presence alone would draw attention. Instead,
+it's up to their underlings to stockpile 'food' and
+expand their influence."
+<Page27>
+"And so, Rank III underlings and above blend in with
+society and gradually start preying on other humans.
+Human flesh and blood are the underlings' source of
+nutrition too, but most of it is sent to the Suzerain.
+As they sleep in their coffin, the Suzerain accumulates
+power, eventually turning the entire community into
+their own flesh and blood.
+―――That is the nature of the vampire that lurks in
+this city."
+<Page28>
+"Right now, they don't have that many underlings and
+aren't all that threatening. Still, as the number of
+victims increases, so too does the power of the
+Suzerain.
+I was hoping to find their coffin and kill them before
+that could happen, but I still have yet to locate the
+enemy's resting place.
+They've never hidden themself this well before... I
+can't even feel their presence."
+<Page29>
+"If I could only find out where they're sleeping,
+dealing with this vampire would be a piece of cake.
+I didn't have any leads this time, so I had no choice
+but to walk around the city during the day to
+investigate.
+And while I was out and about, I got killed by a
+passing murderer. What a pickle!"
+<Page30>
+She claps her hands together, smiling at me.
+It seems that she's taking a dig at said murderer. It
+doesn't feel great.
+<Page31>
+"I see... I think I'm starting to get the picture.
+So, a monster who preys on humans has built a nest in
+this city, and you came here to exterminate it.
+But while you were looking for its hiding place...
+that's when you were, well... attacked by me, meaning
+you're now so weak you have to stay hidden until you
+recover... Did I get all that right?"
+<Page32>
+"Yeah, I guess that about sums it up."
+"Then next question. Why would the enemy go through all
+this trouble in the first place?
+Wouldn't it be easier to just do it by yourself without
+creating all these underlings?"
+<Page33>
+"To put it simply: they're weak.
+No matter how great their superpowers; no matter their
+scale of existence―――their ... a vampire
+cannot survive on their own.
+They have so many weaknesses that they can never stay
+above the surface for long.
+That's why they stay in their safe zone and collect
+blood by using humans as their familiars. Humans might
+be frail, but at least they don't have many weaknesses.
+Basically, they're just being risk-averse."
+<Page34>
+"A lot of weaknesses... such as what?"
+"Sunlight and running out of magical energy are two of
+the big ones. As for their biggest weakness, well...
+They just have   of enemies, I guess?"
+"They have a lot of enemies...? You mean people like
+you?"
+<Page35>
+"I'm an exception. Or should I say, a special case.
+You see... humans hate vampires. The greatest weapons
+humans have at their disposal are their numbers and the
+way they cooperate, right?
+So yeah, there actually do exist people who've made it
+their sole purpose to kill vampires, and they tend to
+come running whenever a vampire incident occurs
+somewhere in the world."
+<Page36>
+"Most insidious and tenacious of all when it comes to
+this is the Church... heresy hunters from a religion
+based in Western Europe. They claim their purpose is to
+ the Lord's will by human hands, so naturally,
+they're called .
+These people have spent hundreds of years refining
+their Dead Apostle slaying techniques. They're way more
+of a nuisance than some lowly vampire."
+<Page37>
+"That's why vampires try to lay low for a while. If
+they had to deal with the Church all the time, they
+wouldn't be able to gather enough blood. Plus, more
+importantly, they'd run the risk of being sealed."
+<Page38>
+"........."
+Heresy hunters of the Church... I guess it's kinda like
+the witch hunters and inquisitors from the Middle Ages?
+These hunters must be real anti-vampire specialists if
+the vampires feel the need to go into hiding.
+Still...
+<Page39>
+"'Lay low   '... then does that mean there's
+no need for them to hide once they've collected a lot
+of blood?"
+<Page40>
+"That's right. Once they're strong enough, there's no
+need for them to hide anymore.
+At that point, even if the Executors were to show up,
+it would be too late. The vampire would use the power
+they accumulated in that city to wreak as much havoc as
+they possibly could.
+Then, once they have completely devoured the city, they
+move on to find a new hunting ground."
+<Page41>
+"If you humans want to exterminate vampires, you need
+to notice these incidents before they happen. By the
+time vampiric activity is visibly evident, that city
+will already be rotten to the core.
+I'm sorry for putting it like this, Shiki, but with
+this many underlings already roaming around, this city
+is at a point where you humans can't do much about it
+anymore."
+<Page42>
+"........."
+Arcueid's explanation goes in through one ear and out
+the other.
+I understand what she's saying.
+But accepting it is a whole different story.
+<Page43>
+Even if she says that it's too late to save our city,
+there's no way I could just say 'Oh, okay' and accept
+it like that.
+And besides―――
+<Page44>
+"Yeah... I can't really believe any of this."
+". What, are you saying that I'm lying to you?"
+<Page45>
+"No, that's not it. I know that everything you just
+said is true. You're not the type to lie, right?"
+"Of course I'm not. I have no use for lies."
+<Page46>
+"Like I said, it's not that I don't believe you, it's
+that I don't get these so-called 'vampires'.
+You keep repeating the word 'vampire', but it still
+doesn't make sense.
+I know you're not human...  I'm confident of.
+But even so, they still don't feel all that real to me,
+intuitively speaking."
+<Page47>
+"I guess I see where you're coming from.
+The way you see vampires is extremely different from
+how I see them."
+<Page48>
+"Yeah... That's exactly what I mean.
+It's not a question of whether they're real or not;
+it's more that I can't imagine what they're like.
+You say stuff like 'traditional class' and I'm already
+lost. I don't even know the difference between you and
+them."
+<Page49>
+That's right...
+I shouldn't even be talking to her if I don't know that
+difference. I can't just trust her for no reason.
+I mean, there's the possibility that she's actually
+more dangerous than that Suzerain vampire.
+<Page50>
+"I see... I guess that makes sense from a human's
+perspective.
+They'd both look equally dangerous if you can't tell
+the difference."
+<Page51>
+"In that case, allow me to introduce you to yet another
+special lesson!
+This time, we'll cover Vampires 101: Fundamentals!"
+<Page52>
+Arcueid is proudly holding her finger aloft.
+"Fine with me but... what the hell do you mean by
+'Vampires 101'?"
+<Page53>
+"You're still a novice after all, so we'll have to
+start with the things even a kitten could understand,
+wouldn't you agree?
+Hence: 'Vampire Fundamentals'. Don't worry, Senpai over
+here's gonna give you a quick lesson."
+<Page54>
+Senpai in what... Wait, if we're only now about to
+cover the fundamentals, then what was all that...?
+<Page55>
+".... Fine. At the very least, try to keep it
+short, alright?"
+"Of course, I'll try my best to do so."
+<Page56>
+For some reason, I have a hard time believing that.
+I already said something like this earlier, but it
+seems that Arcueid isn't used to having conversations.
+<Page57>
+Well... she does call herself a vampire, so maybe she's
+never had a chance to talk to a human before.
+<Page58>
+I look at my watch and see that it's just before
+midnight.
+I'm surprised that it has already been that long but,
+fortunately, I have plenty of time.

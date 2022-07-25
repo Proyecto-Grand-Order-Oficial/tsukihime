@@ -1,0 +1,20 @@
+<Page1>
+"Okay, sorry to have kept you waiting―♪
+Here comes the porridge with plum paste and egg!"
+Kohaku-san comes in, vigorously pushing a servant cart.
+<Page2>
+"So much for chatting.
+I don't have much time, so I'd better scarf this down
+fast."
+<Page3>
+"Nii-san, please stop using such coarse language."
+"Hey, you're all back to normal. I liked you better
+when you were quietly fretting over me."
+<Page4>
+"Please refrain from making such baseless remarks. It
+isn't as though I was concerned about whether or not
+you would return."
+<Page5>
+Akiha looks away haughtily.
+As I watch her charming display, I thank Kohaku-san for
+the porridge.
