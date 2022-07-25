@@ -1,0 +1,6 @@
+<Page1>
+Morning classes are over, and it's now time for lunch.
+Now, where should I have lunch?
+C:> Eat in the classroom.
+C:> Eat in the cafeteria.
+C:> Maybe in the tea ceremony room...?

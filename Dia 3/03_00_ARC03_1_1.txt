@@ -1,0 +1,70 @@
+<Page1>
+"Yo. Morning, Akiha."
+I decide to greet Akiha first.
+<Page2>
+"...Good morning, Nii-san.
+That was a rather lackluster greeting, did you not
+sleep well last night? You look like you're on the
+verge of collapse."
+<Page3>
+"Unfortunately, this is just how I look. Don't expect
+my greetings to be bursting with energy this early in
+the morning."
+Ignoring what happened last night for the moment, I'd
+appreciate it if she didn't label me as a delinquent
+night owl off the back of a single greeting.
+<Page4>
+"Good morning, Shiki-san.
+Breakfast is normally served in the dining room, so
+please let me know when you'd like me to prepare some
+for you."
+On the other hand, Kohaku-san has this soothing effect.
+She and Akiha are like... the north wind and the sun
+maybe?
+<Page5>
+"Thank you very much.
+But have you eaten already, Akiha? It looks like you've
+already moved on to some post-breakfast tea."
+<Page6>
+"Of course. I don't care all that much what time you
+wake up, but I would ask that you at least allow
+yourself enough time to have breakfast.
+Having breakfast after seven o'clock is a sign you're
+getting soft."
+<Page7>
+I resist the urge to say, 'No, seven o'clock is
+normal'. It's this household that's abnormal.
+<Page8>
+"Hmm. What time do you get up, Akiha?"
+"I wake up at five o'clock, what of it?"
+"...Never mind, I surrender."
+Despite saying something that would be unthinkable for
+a normal person, she's wearing an expression that says
+'is it really that bizarre?'. I can't help but be
+dumbfounded.
+I've never heard such a perfect response.
+<Page9>
+"What do you mean, you 'surrender'?"
+"Ah, nothing... Still, why do you get up so early?
+Trying not to be late?"
+<Page10>
+"Listen here. I will  be late. Not unless
+something has gone drastically wrong.
+Your school is about a half-hour walk from here,
+correct? It isn't that far, so do try not to be late.
+It would be embarrassing if you were."
+<Page11>
+Geez, she's prickly as ever.
+Unfortunately, everything she said was also right, so I
+can't come up with any objections.
+It's natural for Akiha to be concerned about the
+reputation of the Tohno family. Rather, as the head of
+the family, she  to be.
+<Page12>
+"Yeah, yeah. I'll do my best not to be late, but no
+promises about my grades.
+And about staying up late―――"
+Mid-sentence, I remember what happened last night.
+I'm not the type to stay up late, but if something
+keeps me up all night then it's all the same in the
+end.
