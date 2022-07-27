@@ -1,0 +1,31 @@
+<Page1>
+"Well, even if you ask me...
+You're a vampire, right? You probably don't think about
+things the same way that we do."
+<Page2>
+"...! What the hell! My thought patterns are the
+same as any human. There's barely any difference
+between me and you!
+It's like the difference between a cat and a mouse, if
+anything!"
+<Page3>
+Isn't that super different, though...?
+Eh, I take that back. It's true that they're both
+vertebrates, I guess. The only difference is that one
+is a hunter and the other is being hunted.
+...I'm not about to ask which one of us is the cat
+here.
+<Page4>
+"Well, putting that stuff aside, I can't tell you what
+other people are feeling. I don't even know my own
+feelings that well. Understanding the feelings of a
+vampire is beyond me."
+<Page5>
+"I guess so! I mean, I don't know what kind of person
+you are, and maybe I don't even want to know!
+Right, right, it was silly of me to even ask you in the
+first place!"
+<Page6>
+Arcueid turns away from me in a huff.
+It seems I made her upset, but on the bright side, it
+looks like she reached some sort of understanding.

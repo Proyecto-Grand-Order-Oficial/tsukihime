@@ -1,0 +1,74 @@
+<Page1>
+"...I sincerely apologize. Please punish me as you see
+fit.
+I did not notice that anything was amiss... I am to
+blame for my oversight."
+"It's not your fault. This happens all the time. It's
+not that big of a deal, honest."
+<Page2>
+I try and talk Hisui down off the ledge while lying in
+bed, the upper half of my body propped against the
+headboard.
+Hisui had found me collapsed on the floor when she came
+back to check on the room and helped me back into bed,
+where I'm now resting comfortably.
+<Page3>
+"Nee-san has contacted the school for us.
+...I assumed that you would not be attending today in
+light of your present condition, was that correct?"
+"Yeah, thanks. I feel a little guilty for taking the
+day off though, especially over something as minor as a
+bit of accumulated fatigue."
+<Page4>
+"―――I believe that when you are no longer capable of
+standing up, 'fatigue' is no longer the appropriate
+word. You are the eldest son of the Tohno family. It'll
+be a problem if you do not take better care of your
+body."
+<Page5>
+"Hey, I am taking care of it."
+Hisui scolds me, and I respond while putting on a
+forced smile.
+<Page6>
+It's incredible just how panicked Hisui was after
+finding me on the floor.
+When she first opened the door, she froze in her tracks
+for a few seconds.
+Next, she rushed over as though to hoist me upright,
+but then seized up with a strained look on her face for
+another minute.
+<Page7>
+She then spent another few minutes pacing anxiously
+around the room before finally going to call for
+Kohaku-san.
+In the end, Hisui never actually touched my body, but I
+could still tell how devoted she was.
+<Page8>
+After that, I returned to the bed with Kohaku-san's
+assistance, was treated to some easy-to-digest rice
+porridge, and now, here we are.
+<Page9>
+The one silver lining in all this is that Akiha had
+already left for school.
+If I had collapsed thirty minutes earlier, she might
+have ended up late for school as well.
+<Page10>
+"Anyway, thank you, Hisui.
+I've had a delicious meal, and if I keep resting like
+this, my anemia will clear up in no time. It's alright
+if you need to get back to your duties."
+<Page11>
+"Understood.
+However, I strongly suggest that you receive a medical
+examination.
+Arach-sensei happens to be present this morning,
+perhaps you would like to take advantage of this
+opportunity to receive a thorough physical
+examination?"
+<Page12>
+Oh, so that eccentric doctor is here as well.
+...To be honest, I don't need a medical exam, but I
+don't think Hisui will leave unless I agree.
+If I have to, then―――
+C:> I'll have Prof. Arach take a look.
+C:> I think I'd much rather Kohaku-san do it.

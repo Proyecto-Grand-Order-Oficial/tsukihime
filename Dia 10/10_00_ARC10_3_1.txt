@@ -1,0 +1,255 @@
+<Page1>
+It's not like we're going out on a date, but a movie is
+standard fare.
+There should be no risk of her getting bored so long as
+the movie is interesting enough, and once we've seen
+it, we can use it as a jumping-off point to get to know
+each other's preferences and interests a little better.
+<Page2>
+Yeah, that's not a bad idea at all.
+At times like this, nothing beats the movie theater.
+But just to reiterate, this is by no means a date.
+<Page3>
+"This place is always bustling, huh. I don't really
+know what everything is, but there's a bunch of
+attractions around here, right?"
+<Page4>
+I walk through the daylit city with Arcueid by my side.
+As we went along, other passersby were―――or rather,
+still are―――stealing furtive glances at the two of
+us.
+Needless to say, it's because Arcueid is the sort of
+beautiful woman you don't come across every day.
+<Page5>
+With all the extra eyes on me, I've gotten so
+self-conscious that I'm unable to respond to the
+questions she's been hurling at me.
+<Page6>
+"Hey, are you even listening, Shiki?
+I'm trying to ask you where we're going from here."
+<Page7>
+"I'm listening. We're already here, though.
+See that? That's the movie theater we're headed to."
+<Page8>
+"A movie theater... Hmm, so we're watching a movie."
+...Maybe it was a bit too plain after all.
+The princess is clearly not feeling it.
+However, we've already come all the way here, so
+there's no backing out now.
+<Page9>
+Besides, how am I supposed to know what kind of place
+would make a vampire girl happy?
+When one has come this far, there's no other option but
+to rush headlong past the complaints and the
+grumblings.
+<Page10>
+"Let's just go in.
+If you aren't happy with it, you can go off and do
+something else on your own."
+"Ah... Well, it's not like I'm  it."
+<Page11>
+With a heavy sigh, Arcueid trudges after me.
+Seeing her shoulders fall dejectedly like she's
+complaining about how useless I am makes my back ache.
+<Page12>
+"I'll buy the tickets, what do you want to watch?
+Right now they're showing, uhh... a romance, a romance,
+and more romance.#"
+What kind of overly saccharine movie theater is this?
+<Page13>
+"You've got to be kidding me... even I want to go home
+now."
+"I'm fine with whatever. They all look the same to me.
+I'll put up with it, even if it's boring. We've made
+our bed, so now we have to lie in it, right?"
+<Page14>
+I think I've heard that phrase somewhere before... This
+is all on me for not checking the showings online
+beforehand.
+<Page15>
+"...I'm ashamed. I'll try my best to pick something
+that looks interesting, at least."
+<Page16>
+I join the small queue and purchase tickets for two.
+Arcueid is... a vampire... but, she's also a foreigner,
+so maybe she'd prefer a Western film to a Japanese one.
+I'll go with the one made in France.
+The screening starts in ten minutes.
+<Page17>
+"Thanks for waiting. The movie begins in ten minutes,
+so why don't we wait in the coffee shop over there. It
+must be painful to be out here in the sun, right?"
+<Page18>
+"Geez, didn't I tell you that whether I'm in pain or
+feel sleepy has nothing to do with the time of day?
+I have no problem with standing here if it's just ten
+minutes. The next time you bring up that I'm a vampire,
+I'll seriously get mad!"
+<Page19>
+Her anger rose at mach speed...
+But she's right. I may have overstepped my bounds.
+Arcueid is many times stronger than I am, so being
+overly protective of her would just make her more
+annoyed than anything.
+<Page20>
+"Understood. In that case, let's kill some time here."
+I lean against the wall of the department store.
+Arcueid watches the passing crowds, her ill temper
+written on her face.
+I steal a glance at her profile.
+<Page21>
+I would never have taken her to the movie theater if I
+knew she was going to be like this... I should have
+taken her to the park, or perhaps even spent more money
+to go to an amusement park. If I had done that, maybe
+she wouldn't look so bored and gloomy.
+<Page22>
+"Shiki.# I'm bored. Do something."
+...That was fast.
+So she's already at the point of 'I'm bored, show me a
+magic trick'.
+<Page23>
+"...Man, could you act any more like a princess?
+Besides, what do you mean 'do something'?"
+"Hmm, how about <shiritori|w o r d   c h a i n    >?"
+"Huh?"
+I raise my eyebrows. Why that all of a sudden?
+<Page24>
+...I look behind her. Standing a little ways away by
+the wall is another couple, engrossed in a game of
+shiritori.
+<Aishiteru|I   l o v e   y o u    >, <ruamondo|l u m o n d e    >, <dokomademo|w h e r e v e r     >, <montesukyuu|M o n t e s q u i e u     >... I doubt
+I'm the only person that would be dizzy after hearing a
+string of words like that.
+This is why couples who don't pay attention to the
+people around them are so...!
+<Page25>
+"Let's not. I don't like shiritori."
+"But why? The people over there said that couples like
+to play it while waiting for a movie."
+<Page26>
+"That's a load of nonsense, forget it. Besides, playing
+shiritori to kill time? You can only get so
+old-fashioned. Go look up news on your phone or
+something."
+"Really? But those two look like they're having fun."
+<Page27>
+"That couple would have fun no matter what they do!
+Besides, I'm bad at that game. I get sad when I play
+it. That's the only thing I absolutely refuse to play."
+"You aren't very skilled at it? Is it because your
+vocabulary is too small?"
+<Page28>
+"I'm not unskilled, I'm just not good at it. Plus like,
+it's boring, right? All you're doing is stringing words
+together.
+...Whatever. The movie starts in five minutes, so we
+should head in. Here's your ticket. You just have to
+show it to them when we enter. They'll take half of it
+away, but that's just the procedure, so don't get upset
+about it, okay?"
+<Page29>
+"I'm aware of how it works, thanks. You think I'm just
+some utterly clueless woman, don't you?"
+"Ah... no, not really. I just thought that you would be
+unfamiliar with the norms of human society."
+<Page30>
+"Didn't I tell you that I've done my homework? Even I
+know what a movie theater is."
+<Page31>
+Arcueid spins on her heel and heads into the theater.
+...This really wasn't the right choice.
+Even though I brought the princess all the way to the
+movie theater, it seems she doesn't find it interesting
+after all...
+<Page32>
+―――We leave the theater.
+The movie that we watched was a romance, so it wasn't
+exactly boring, but it wasn't particularly interesting
+either.
+It was a typical French movie, so it focused on
+maintaining a quiet atmosphere without any stand-out
+action scenes.
+<Page33>
+Arcueid walks beside me in silence.
+"......"
+...This silence is awkward.
+Perhaps she also would've been happier if it had been
+an action or a horror movie.
+<Page34>
+"Hey, Arcueid. I know the one we saw today
+wasn't―――"
+<Page35>
+"Yeah, that was soooo fun, Shiki!"
+―――Wait, it was actually a smash hit?!
+<Page36>
+"Huh, but..."
+Fun and boring are subjective, but was  really that
+fun?!
+<Page37>
+"Man, I didn't know seeing it would be so different
+compared to hearing about it.
+I had some intel on what to expect, sure, but the real
+thing was far beyond anything I could have possibly
+imagined!"
+<Page38>
+"Maybe being in the dark is what made it so special.
+The sound was loud, but somehow it wasn't overbearing,
+and it was also fun sitting next to you.
+But most of all, the story was spectacular!
+How extravagant! I'm surprised at how a fictional story
+could be taken to such lengths! The images I create in
+my head are like child's play compared to the fine
+details in those scenes. I'm seriously in awe!"
+<Page39>
+Arcueid is grinning from ear to ear from the bottom of
+her heart.
+It seems that she truly took enjoyment from that
+refined romance movie.
+<Page40>
+"I-Is that so? Well, I admit that Eiffel-Tower-looking
+building was quite impressive."
+But come on, isn't it just a rip-off of the Skytree?
+<Page41>
+"Huh? Shiki, you don't seem very excited.
+Don't tell me you were bored?"
+"Well, it's not that it was boring, but it felt
+pretty... average.
+If you wanted something like that, there are much more
+interesting films out there."
+<Page42>
+"No way. But the one we saw was absolutely incredible!"
+<Page43>
+"...Hmm, I think your standards may just be a bit low.
+They're not showing them right now because they're out
+of season, but any major blockbuster would put a movie
+like that to shame. To put it bluntly, the one we just
+saw was somewhat below average."
+<Page44>
+"No way."
+"...You really wear your emotions on your sleeve, don't
+you, Arcueid?"
+<Page45>
+I'm just as amazed as she is surprised.
+She'd been acting so cold about the movie going in that
+I fully assumed she'd come out complaining about it,
+but instead, she's like an excited child.
+<Page46>
+"...It's a shame. There's a recent movie that was
+really top-notch, but they stopped showing it in
+theaters yesterday. If I'd known that you would enjoy
+it so much, I'd have taken you the other night."
+<Page47>
+...I have to admit, I didn't think of it because I
+wanted to thank her, or show her my gratitude. It's
+more that I genuinely wanted to see how she'd smile
+after seeing a movie like that.
+<Page48>
+"Is that so? How unfortunate, for the both of us."
+Arcueid slumps her shoulders in disappointment.
+"I know, right? It's like we just keep striking out."
+I slump my shoulders in the same way.
+<Page49>
+...Yeah, it's a shame.
+I would have liked to see that joyful side of hers for
+a little while longer.

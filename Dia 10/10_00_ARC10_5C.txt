@@ -1,0 +1,325 @@
+<Page1>
+...In the end, Arcueid makes me show her around the
+broadcasting room, fine arts room, and many other parts
+of the school. By the time we finally leave, the sun
+has already set.
+It's just past 7:30.
+It's a bit early, but we should begin searching for
+vampires.
+<Page2>
+"It's gotten pretty dark. I can't think of anywhere
+else to go, so shall we get started,# Arcueid?#"
+"What, already? There's still plenty to do in town,
+isn't there?"
+<Page3>
+"The sooner we do it the better, right? We already
+messed around plenty during the day, so we should at
+least get some work done during the night."
+<Page4>
+"You seem way too into this. Why'd you break your
+promise yesterday if you're this serious about it?"
+"...I mean, I didn't exactly do that on purpose, did I?
+I could barely even move by the time yesterday evening
+rolled around. I'd been planning on going to the park
+up until the last minute."
+<Page5>
+...Though, now that I think about it, doing so would've
+been pretty reckless.
+If Akiha hadn't stopped me from going to meet up with
+Arcueid in that condition, I would almost certainly
+have held her back at a critical moment.
+<Page6>
+"Hmm, really now? Then let's get to it."
+"...What's up with that face? Against my better
+judgment I'll ask... what do you mean by that?"
+<Page7>
+"You said that you had intended to go to the park,
+right?
+We still have some time, so if you couldn't get there
+yesterday, you can just make up for it now."
+<Page8>
+Arcueid begins galloping off, her footsteps echoing
+lightly.
+It looks like she's seriously headed to the park.
+"―――Wait, hold on, hey...!"
+I break into a sprint as well so as not to lose sight
+of her as she dashes off.
+<Page9>
+"See?# You always follow along, no matter what I say."
+<Page10>
+"...You idiot... if I... leave you... on your own...
+who knows... what will happen..."
+I'm doubled over, panting, my shoulders heaving as I
+work to get my ragged breathing back under control.
+I had to push my way through the crowds in order to
+keep up with her. She really has been dragging me
+around by the collar all day.
+<Page11>
+"But I guess there are a lot of people# around at this
+time of night.
+I can feel their presence all around us. It makes it a
+little hard to relax."
+"...Then why... didn't you... listen to what... I said
+earlier... you..."
+<Page12>
+"I didn't? But I'm sure I heard your voice just fine."
+"...I see. So you were ignoring me... even though...
+you heard me. That's just... plain evil."
+<Page13>
+"I wasn't ignoring you. You always call me an idiot
+whenever I respond to your complaints, so I just kept
+silent."
+"...I see. I guess... I'm partially... to blame... as
+well, huh."
+<Page14>
+Huffing and puffing, I get my breathing under control.
+It's roughly 1.5 kilometers from the front of the
+school to the park.
+It's not a particularly large distance to cover at a
+jog, but even so, my heart is taking its sweet time to
+calm back down again.
+<Page15>
+...Arcueid wasn't even running all that fast.
+In fact, I'd say that she ran  than usual, if
+anything. I'm simply not in the best shape right now,
+no doubt due to the lingering effects of yesterday's
+bout of anemia.
+<Page16>
+"...You okay, Shiki? Why don't you take it easy and
+rest on the bench?"
+"...I will. Once my body's settled down, we're going to
+the city, right, Arcueid?"
+"Geez. I'm glad that you're so eager, but it's still
+too early for that."
+<Page17>
+"Vampires don't tend to act recklessly unless it's done
+on their own time. This was true of Vlov as well,
+remember?
+They won't be active until the night becomes darker, so
+we have some time to kill."
+<Page18>
+"――――"
+I would have appreciated her saying that earlier.
+<Page19>
+With nothing else to do, I sit on the bench and stare
+at the clock.
+The park's clock reads just past nine o'clock.
+There are fewer and fewer people around, and the night
+is getting darker by the minute.
+<Page20>
+Arcueid doesn't seem to feel like sitting down for
+whatever reason, and is pacing around by the fountain
+instead.
+Everything is still, save for the hands of the clock#.
+A silent night.
+The shining moon illuminates both Arcueid and the empty
+park around her.
+<Page21>
+"...The moonlight, huh..."
+I think back to when I was attacked in front of the
+Tohno mansion two nights ago.
+If it had been this bright out back then, I might have
+been able to make out that black shadow more clearly...
+"Ah―――――――!"
+With a sudden jolt, I leap up from the bench.
+<Page22>
+"Shiki?! What's wrong? Did you# see one of the Dead?!"#"No, it's not that―――#I forgot something incredibly
+important."
+<Page23>
+I'm more scatterbrained than I thought.
+I can't believe I was attacked on my way home and
+completely forgot about it until now!
+<Page24>
+"Arcueid. I was attacked by a strange guy two nights
+ago."
+"Huh? What do you mean by 'strange guy'?"
+"Well, that's――――"
+I calm myself down and explain what happened two nights
+ago in as much detail as I can.
+<Page25>
+"―――Well, that about wraps it up..."
+After I finally finish explaining everything that
+happened, I steal a glance at Arcueid's face to try and
+get a read on her mood.
+Her gaze has remained unyieldingly sharp from the
+minute I started talking up until now.
+<Page26>
+"Are that black Dead and Noel-sensei―――you called
+her an 'Executor'―――your enemies?"
+"...I guess so. Both of them are enemies to me.
+I don't know much about that black Dead, but I have a
+good idea of who that woman in nun's clothing is."
+Arcueid narrows her eyes in displeasure.
+No, rather than displeasure, it's more like nervous
+irritation.
+<Page27>
+"That person who saved you is certainly an Executor.
+...Just to confirm, that person was there alone?"
+"Y-Yeah. Noel-sensei was the only one there..."
+Come to think of it, didn't she say that Executors
+operate in groups of two?
+<Page28>
+"I see. Perhaps she acted on her own, or maybe there's
+a reason the other one couldn't make their move...
+It'll be a real pain if the other one is  .
+If it really is her, she'll be able to locate the
+coffin before I can... Perhaps I should get rid of her
+first."
+<Page29>
+Her irritation has already reached an all-time high.
+I couldn't say why, but it seems like she can't stand#
+Noel-sensei's 'partner'.
+I've felt her hostility, thirst for blood, and
+intimidating aura at close range before, but it's
+unusual for her to bare her hatred this openly. I
+wonder if Arcueid and 'that woman' are just that
+incompatible.
+<Page30>
+"I understand that you consider Noel-sensei to be your
+enemy. She said the same of you as well.
+But you two have the same objective, so wouldn't it be
+better to cooperate?"
+<Page31>
+"...I suppose so. There are actually times when I've
+lent a hand when the situation called for it.
+But this time, that's not an option. I can't hand him
+over to a human, and if that woman is the Executor,
+I'll have to deal with her first."
+<Page32>
+"........."
+Her attitude is utterly uncompromising.
+I think it will be better to drop the idea of working
+together with Noel-sensei.
+<Page33>
+"...Okay. So you won't cooperate with them.
+If that's your stance on it, then I won't bring it up
+again. I won't pry as to your reasons."
+<Page34>
+"Huh? ...R-Right.# Thanks.
+...Shiki, aren't you being a bit too nice? You'd
+normally be hounding me for answers at this point."
+<Page35>
+"It's because I know that you would hate it.
+But your relationship with Noel-sensei and her
+background are two different things. I need you to at
+least explain to me what an Executor is."
+<Page36>
+"...You're right. I didn't tell you before because it
+was unnecessary information at the time, but now that
+it's come to this, I guess I have to."
+<Page37>
+"As I've explained before, Suzerains try to hide their
+own existence. Even when they take lives, they deploy
+various kinds of magecraft to prevent people from
+noticing anything is out of the ordinary.
+Do you know why this is the case?"
+<Page38>
+"To avoid attracting the attention of external enemies,
+right? If they cause a scene, won't those
+vampire-slaying specialists start descending on them?"
+<Page39>
+...Well, there's also the regular human police, but
+vampires don't really see them as much of a threat.
+The fight with Vlov really drove that point home.
+The only things vampires are afraid of are other
+monsters just like them.
+<Page40>
+"Right. Vampires have a natural enemy.
+Even now, the power balance is in that enemy's favor.
+On the side of that organization of killers.
+The reason why vampires exploit humans behind closed
+doors is for their own self-preservation. They don't
+conceal their corpses because they're worried about
+humans starting rumors, but because they hate being
+sniffed out by their natural enemy."
+<Page41>
+"...So that's the kind of group that Noel...sensei is a
+part of.
+A natural enemy of vampires... I guess that's a whole
+new class of monsters to worry about."
+As a normal person, I'd really appreciate if it all
+these outlandish creatures would stop intruding on my
+life.
+<Page42>
+"What are you talking about? It's true that these
+Executors are superhuman, but they're still humans
+nonetheless.
+The natural enemy of vampires... of Dead Apostles, is
+simply you humans."
+"―――Their natural enemies... are us?"
+Even though we're helplessly slaughtered as food...?
+<Page43>
+"A long time ago, back in the infancy of the Common
+Era.
+Humans created organizations based on various kinds of
+magecraft, occultism, and ritualism, and then began
+eliminating non-human Paragons.
+The most extreme of these is the Holy Church―――the
+most prominent religion throughout Europe, whose name
+literally means 'universal'. They've been waging a
+comprehensive elimination of those who are not human
+for a while now, but their hostility toward vampires is
+on a whole other level."
+<Page44>
+"If you compare all the religions in the world, there
+are none more hostile toward vampires than the Church.
+They've become possessed. Far too fanatical. So much so
+that even I don't want to get involved with them if
+possible."
+<Page45>
+Arcueid breathes out a sigh of exasperation.
+...But still. Despite what she just said, I get the
+sense that she still has some sort of connection with
+the Church.
+If she didn't, she wouldn't have used words like 'if
+possible'.
+<Page46>
+"And so, the one who saved you was a member of a group
+that specializes in hunting heretics. Since they are
+the ones carrying out the teachings of the Lord,
+they're referred to as Executors.
+They are exorcists that behave like assassins, careful
+never to reveal themselves in the open, taking care of
+any discrepancies in the Church by way of force rather
+than law."
+<Page47>
+"......"
+Exorcists. Priests who slay vampires...
+It feels so fitting that I don't really have any
+questions.
+<Page48>
+"Well,  Executors are no big deal.
+Executors from the Burial Agency are a whole different
+kettle of fish. Those people will do whatever it takes
+in order to capture a Dead Apostle.
+If the Executors deployed here had been theirs, this
+city would have been wiped off the map before Vlov
+could go out of control."
+<Page49>
+"That's worse than Vlov... Are these people really that
+indiscriminate?"
+"Yeah. If their opponent is a vampire, they have the
+authority to do whatever they want. Cities targeted by
+Dead Apostles are no different. Whether it's inhabited
+by humans or not, if it's already been corrupted, then
+they'll burn it to the ground all the same."
+<Page50>
+"The reason that Executor, Noel, hasn't done anything
+until now is probably because she was waiting for a
+chance to deal with me and the Dead Apostle at the same
+time. After all, to the Burial Agency, any non-human
+Paragon is 'evil' in and of itself."
+After she finishes venting, Arcueid begins to pace
+around the park.
+<Page51>
+"........."
+It seems that things are starting to get complicated.
+Arcueid is being targeted not only by her fellow
+vampires, but by a group that's hostile toward
+vampires.
+<Page52>
+"...What the hell.# Wouldn't that make Arcueid all on
+her own?"
+I watch Arcueid as she wanders around aimlessly.
+Under the moonlight, that figure looks like a lost
+child with no place left to go.

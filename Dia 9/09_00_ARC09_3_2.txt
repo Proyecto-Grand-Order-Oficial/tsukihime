@@ -1,0 +1,40 @@
+<Page1>
+After pondering what to do for a bit, I decide to take
+my first real stroll around the mansion in seven years.
+I'll start by wandering around on the second floor.
+<Page2>
+The Tohno mansion consists of two wings: east and west.
+To the east is the office reserved for the head of the
+family, and beyond that are Akiha's private quarters.
+You could consider the whole area to be her domain.
+...I'm a bit hesitant to go there, so I'll stick to the
+west wing today.
+<Page3>
+I go out into the corridor of the west wing.
+The passage directly to my right leads to the lobby.
+If I continue straight, the corridor will take me to
+the heart of the west wing.
+And of course, if I go backwards, I'll be right back in
+my own room.
+<Page4>
+I was told that the rooms opening onto this corridor
+are, for the most part, entirely vacant.
+It seems like they were rented out to our relatives
+back when my father was alive.
+<Page5>
+"If I remember correctly, that door at the end of the
+hall..."
+I'm pretty sure that's the room Tohno Makihisa used as
+a study.
+<Page6>
+"........."
+Arcueid's words from last night come to mind.
+'You can't assume you're the only special one, it's
+something that runs in the family―――'
+<Page7>
+...That's ridiculous.
+It's ridiculous, but she would never say something like
+that without good reason.
+I'll―――
+C:> ...Investigate Makihisa's study.
+C:> ...Not pursue this any further.

@@ -1,0 +1,11 @@
+<Page1>
+"Isn't it just because you get upset so easily?
+You're essentially selfish at heart, after all."
+I give her my blunt opinion.
+<Page2>
+"I see, that does make a lot of sense. I really have
+become super emotional after getting killed by you."
+<Page3>
+Arcueid nods in satisfaction.
+Regardless of whether or not it's true, if the person
+in question is convinced, then problem solved.

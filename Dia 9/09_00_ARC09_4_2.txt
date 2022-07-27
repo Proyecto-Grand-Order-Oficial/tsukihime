@@ -1,0 +1,426 @@
+<Page1>
+...I appreciate that Akiha is concerned for my health,
+but I can't break my promise with Arcueid.
+<Page2>
+"...Alright, I'll behave. Nothing but rest for me
+tonight."
+I lie back down on the bed.
+<Page3>
+"Do you mean that? You're not going to sneak out of the
+room later, right?"
+<Page4>
+"...Come on. Do you really think I'd be able to give
+you the slip with my body in this state?"
+"―――Alright. You make a valid point."
+Akiha slumps her shoulders as she breathes a sigh of
+relief.
+<Page5>
+"Hisui, go inform Kohaku that Nii-san has woken up.#
+Nii-san, what do you want to do about dinner?"
+"Hmm, dinner might be a bit much... Give my apologies
+to Kohaku-san, but I don't think I can stomach eating
+anything right now. I'll be better off going to sleep
+as-is tonight.
+Ah, but I should be able to manage something liquid. If
+we have any vegetable juice, that would go down great."
+<Page6>
+"Understood. Hisui, please relay what he said to
+Kohaku."
+<Page7>
+"As you wish.
+Vegetable juice... A mixture of carrots, tomatoes,
+cabbage, red bell peppers, plums, and the like is to be
+prepared at once."
+"Huh?"
+I've never heard of a recipe like that before, is it
+some sort of Kohaku-san special?
+<Page8>
+"Well then, I will also take my leave. Please don't
+hesitate to call me if you need anything. I will come
+running, regardless of whatever time it may be."
+Akiha switches off the lights and leaves the room.
+<Page9>
+"...I'm sorry, Akiha."
+I mutter to myself before sitting up.
+"..."
+Even though the lights are off, my surroundings flicker
+between light and dark.
+<Page10>
+Simply sitting up is enough to make me lightheaded.
+This anemia attack isn't like the ones I've had before.
+I understand that, but even so, I have to go to the
+park.
+...This is her we're talking about, after all. If I
+leave that idiot hanging, she'll definitely keep on
+waiting for as many hours as it takes.
+<Page11>
+I unsteadily make my way over to the desk.
+I take my knife from the drawer, and put on my jacket.#
+"... I'm screwed. There's no way I can sneak out of
+here like this."
+<Page12>
+...I need to wait until I've recovered enough to at
+least walk properly, otherwise Hisui will catch me and
+send me back to my room.
+<Page13>
+"...Well, I tried."
+Arcueid will probably be mad at me if I arrive even
+later than I did yesterday. Still, I guess that isn't
+the end of the world.
+I sit down on the bed.
+One hour. If I rest for just one more hour, I ought to
+recover to the point where I can walk around again.
+<Page14>
+I arrive at the park just before midnight.
+I may have regained the ability to walk, but can only
+manage a snail's pace. It took me almost an hour to get
+here as a result.
+<Page15>
+"...... ..."
+I cast my eyes around my surroundings, shoulders
+heaving from my labored breathing.
+<Page16>
+The twilit park. A solitary white figure stands
+motionlessly by the pavilion where we'd arranged to
+meet.
+<Page17>
+"...So she did wait."
+It seems like she's noticed that I've finally arrived.
+Arcueid starts stomping over to me, her footsteps
+echoing loudly.
+<Page18>
+"Your cruelty knows no bounds tonight as well. I'm
+honestly amazed.
+It's great that you decided to turn up, but you'd
+better have a good reason for being two hours
+late#―――"
+Arcueid is rendered speechless the second she sees my
+face.
+<Page19>
+"Hold on, what's wrong, Shiki...?
+Your face is pale as the grave, and you don't seem
+lively at all... Don't tell me you were out searching
+for the Dead until now?"
+<Page20>
+"What kind of adventure-loving freak do you take me
+for...
+You're way off the mark. I'm just feeling a little
+anemic, that's all.
+I suffer from spells like this from time to time, it's
+nothing to be too surprised about.
+...More importantly, I'm sorry. I tried to get here as
+fast as I could, but I still kept you waiting for two
+hours."
+<Page21>
+"A-Ah, well, I don't really mind, I suppose..."
+<Page22>
+"I may have spent the entire time wondering why you
+were so late, but...
+I really don't get it... Why would you come all the way
+here with your body in that state, Shiki?"
+<Page23>
+"Well, I made a promise, right? I said that I would
+help you out, so I'm not going to bail over something
+like this.
+And I mean, that's not all. Just think about what
+happened yesterday. If I'd let you go off alone, who
+knows what might have happened to you."
+<Page24>
+"Well, I'm happy to hear you say that... except for
+that last bit, though.
+All the same, it just doesn't sit right. Say what you
+will, but it still seems overly cruel."
+"Cruel? What is...?"
+<Page25>
+"The fact that you don't understand your own body at
+all.
+Human lives may be naturally unstable things, but even
+by that standard, yours is far too turbulent."
+<Page26>
+"You're in a position that has you brushing up against
+death on a regular basis.
+Maybe it's the backlash from your Mystic Eyes of Death
+Perception, or maybe it's simply the price you pay for
+the life you've been fated to live... Either way, you
+teeter back and forth atop the line separating life
+from death, like the waves breaking on the shore.
+That's why you can't just brush off your anemia,
+thinking 'I was fine last time, so I'll be fine this
+time'."
+<Page27>
+"Listen, Shiki. You have a resistance to external
+causes of death.# I assume this is because you had a
+near-death experience resulting from that sort of cause
+before.
+But on the other hand, your resistance to internal
+causes of death is virtually nonexistent."
+<Page28>
+"The anemia attacks you keep having are almost
+certainly your body's way of trying to protect itself.
+Humans aren't able to perceive abnormalities that occur
+inside of them, but your body is instinctively able to
+tell that something's wrong. When it senses that you're
+nearing the point of no return, this is its way of
+forcing you to take a break."
+<Page29>
+"The anemia you're suffering from now is so
+debilitating it honestly wouldn't be surprising if it
+killed you. You need to appreciate that it's only by
+some stroke of luck that you were even able to wake up
+at all."
+<Page30>
+"――――――"
+...I wouldn't go so far as to call this a revelation,
+but I still nod my head in understanding.
+Up until now I'd thought of it like a computer being
+forcibly shut down, but I guess you could take a
+different perspective on it.
+For instance, the hypothesis that rather than being the
+result of a weak constitution, this anemia is actually
+a safety mechanism my body employs in order to protect
+my life.
+<Page31>
+"Hmm... it sounds a little far-fetched, but..."
+Still, if something like that is true...
+"So, does that mean that whenever I start feeling
+anemic, all it would take is a little extra poke to
+send me over the edge?"
+If that's the case, then every morning for the past
+seven years has been a cruel  .
+<Page32>
+"Geez, I'm giving you a serious warning here, you know!
+That isn't to say I don't appreciate you coming,
+though!
+But tonight you need to go home and get some rest, you
+hear me?"
+<Page33>
+Arcueid suddenly approaches me.
+Maybe she really is genuinely concerned about my
+health. Whatever the reason, she unguardedly brings her
+body close to mine.
+"――――"
+Before I have a chance to pull myself away, I feel her
+chest brush against mine.
+<Page34>
+....
+My brain is once again assailed by dizziness, but this
+time my anemia has nothing to do with it.
+I'd been doing my best to not be too aware of her
+feminine allure―――the softness of her breasts, her
+pure white skin, her beautiful golden hair...
+<Page35>
+"Sorry. Arcueid, could you step back a bit?"
+<Page36>
+"What, are you saying that you can't trust what I say?
+Because I'm a vampire?"
+"Where's that coming from all of a sudden? There's no
+way I wouldn't trust you by now."
+<Page37>
+"Liar. Why are you trying to look the other way then?"
+"Please, I need you to give me some space for, uh...
+personal reasons. I'm a guy you know, I can't help but
+get a little flustered if you're so close."
+<Page38>
+....
+I've escaped from the combined torture of being dizzy
+from anemia and dizzy from being too close to Arcueid,
+at least for the time being.
+<Page39>
+"Anyway, there's no need for you to be worried about
+me.
+Besides, I'll die for sure if I get attacked again like
+I did last night, so it's not as though I can afford to
+be taking things easy here."
+"Hold on. What do you mean by that?"
+<Page40>
+"Like I said, when I was on my way back to the
+mansion... Oh, right. I probably should have mentioned
+this earlier.
+Arcueid. Last night, I was attacked by one of the Dead.
+I think it was lying in wait to catch me on my way back
+to the mansion, when I'm alone."
+<Page41>
+Arcueid's facial expression turns grim.
+"...I can't believe this. How could you forget
+something as important as that?"
+<Page42>
+"I'm ashamed. But hey, you know what they say,
+'whatever doesn't kill you...'"
+"You idiot! This is exactly why I'm so worried about
+you!"
+<Page43>
+...I feel like you can't really blame me here.
+I mean, just today I had something even stranger happen
+to me.
+<Page44>
+"...Well, I'll let it slide. More importantly, start
+filling me in on the details."
+Arcueid begins interrogating me, a stern look on her
+face.
+I calm myself down, and try and explain everything as
+clearly as I can.
+However, I don't mention to her that the man in black
+was able to see the lines of death. I don't have any
+proof that they definitely could, so it's possible that
+I was just imagining it.
+<Page45>
+"―――Well, that about wraps it up..."
+After I finally finish explaining everything that
+happened, I steal a glance at Arcueid's face to try and
+get a read on her mood.
+Her gaze has remained unyieldingly sharp from the
+minute I started talking up until now.
+<Page46>
+"What do you think, Arcueid? Are the pitch-black Dead
+and the woman in nun's clothing enemies of yours?"
+"...I suppose so. I would consider both of them to be
+'enemies'.
+I don't know who that Dead was, but I have a pretty
+good guess as to who the woman in the nun's habit was."
+<Page47>
+"There's a possibility that the person who saved you is
+an acquaintance of mine... If it really is her, then
+she might actually find my target before I do."
+Arcueid bites her lip in frustration.
+Her irritation is borderline murderous.
+<Page48>
+"...Arcueid. The nun that saved me―――you mentioned
+people like her before, right?"
+"Yeah. The Church's heresy hunters. The one who saved
+you was an Executor from their most troublesome
+department.
+...But it's strange. The Burial Agency shouldn't have
+been able to dispatch an Executor this quickly."
+<Page49>
+"More importantly, why did you decide to fight?
+You said that you would work together with me, but you
+never said that you would fight alone."
+<Page50>
+Arcueid casts a scowl in my direction.
+She's worried about me after I put myself in danger all
+on my own...
+<Page51>
+"Ah geez, I feel so left out!
+I can't believe you would do something so fun behind my
+back!
+It's like I've lost my chance to get in on the action!"
+――――Perhaps I spoke too soon.
+<Page52>
+"Can I ask you something? What happened to the serious
+atmosphere we had a second ago?"
+"I'm seriously upset here! I thought I was finally
+going to get a chance to fight alongside you!"
+"......"
+It's certainly a dangerous desire, but it's equally
+true that I don't hate hearing her say it.
+<Page53>
+"...Listen. I know I fought on my own, but I had to,
+okay? My hands were tied.
+I have no intention of fighting another vampire without
+having you there."
+<Page54>
+"...Hmm. And why did you have to, exactly?"
+"I guess people would call it a sense of justice...
+something along those lines, anyway. Right now, I'm
+regretting it a little."
+<Page55>
+"A sense of justice?"
+Arcueid tilts her head in bewilderment.
+I feel exactly the same way inside. I was painfully
+reminded yesterday that such things are nothing more
+than a pretext.
+<Page56>
+...At that time.
+When I noticed that there was a figure in front of me,
+I was filled with fear.
+As I realized that my opponent was something
+extraordinary, I could do nothing but tremble.
+After that, I took out my knife as if in answer, and we
+began our fight to the death.
+<Page57>
+A sense of justice alone isn't enough to allow one
+person to kill another person.
+Not even the instinct to save one's own life is enough.
+That's because the 'death of oneself' and the 'death of
+another' are fundamentally unrelated concepts.
+It takes a powerful motive to allow someone to act
+under such extreme circumstances.
+If I kill, then I'll be saved.
+If I don't, then I'll perish.
+A conclusion to end all conclusions. Purified
+ and . In that moment, I consisted of
+nothing else.
+<Page58>
+"...No, it's nothing.
+Come on, now that we've got that out of the way, let's
+get started.
+I dragged myself all the way over here, so it'd be a
+shame if we don't track down at least  of the Dead
+stalking the city."
+<Page59>
+"...Hey now. I'm getting seriously upset here, Shiki.
+That was an entirely separate conversation.
+I told you to get some rest, didn't I?
+We've already cleaned out most of the Dead's feasting
+grounds, so we should just use tonight to reassess the
+situation and prepare for tomorrow."
+<Page60>
+The look on Arcueid's face as she says this doesn't
+leave much room for argument.
+...I can't really help but go along with her reasoning,
+either.
+On top of that, it's not as though I'd be able to find
+a vampire on my own, even if I did go out looking for
+them.
+<Page61>
+"...Alright then. If you're going to be so insistent
+about it, then I'll behave and use tonight to rest up."
+<Page62>
+"I'm glad you're being understanding.
+This isn't just because you were attacked last
+night―――you've been running your body into the
+ground recently. If you don't get a good night's sleep
+tonight and come back as your usual self tomorrow, I
+won't be too happy about it."
+<Page63>
+"...Ah, I see what you mean. Yeah, it would definitely
+be a problem if the person that's supposed to be
+helping you ended up dragging you down instead.
+Okay, I'll make sure I'm back in fighting shape by
+tomorrow."
+"...That's not what I meant, though..."
+<Page64>
+Arcueid grumbles, seemingly discontent about something.
+...As usual, I have no idea what's going on inside that
+head of hers.
+<Page65>
+"Well then, I'm off back to the mansion. See you
+tomorrow, Arcueid."
+I give her a wave and set off home.
+"Hey, Shiki."
+But then Arcueid calls me to a halt.
+<Page66>
+"What's up? Is there something else you need?"
+"Ah, I just feel like I should offer...
+Would you like me to walk back with you?"
+<Page67>
+Arcueid makes a shy proposal, averting her gaze as she
+does so.
+It seems like she's worried about what happened
+yesterday in her own way.
+Having her accompany me back wouldn't be a bad idea in
+that regard, but...
+<Page68>
+"No, I think I'll pass. I'm terrified to think of what
+might happen to me tomorrow morning if someone spots
+you in the vicinity of the mansion.
+It's okay, I can walk by myself now. You don't need to
+worry yourself over something like this."
+<Page69>
+"Ah―――Right."
+It's brief―――#but Arcueid lowers her head, only for a
+moment, before looking back up―――
+<Page70>
+"In that case, I'll see you tomorrow!"
+After waving goodbye, the vampire in white walks away
+into the darkness of the night.

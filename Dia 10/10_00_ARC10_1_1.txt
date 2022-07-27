@@ -1,0 +1,55 @@
+<Page1>
+I arrive at the front gate.
+I chose a more roundabout route to avoid being seen, so
+it took me a little while to get here.
+Arcueid is... ah, there she is.
+<Page2>
+"Sorry to keep you waiting. We'd better get a move on
+though, Arcueid. Kohaku-san might spot us if we stick
+around by the mansion."
+"Huh? Ah, yeah. I guess we'd better get going."
+Compared to her attitude earlier, her reply lacks
+vigor.
+<Page3>
+"What's up with you? You're acting weird.
+Did something happen  while you were waiting for
+me?"
+<Page4>
+"...No, not really."
+I'd emphasized the word 'again' when I asked, but
+judging from Arcueid's absent-minded response, she
+didn't pick up on it.
+<Page5>
+"...Are you not feeling well because it's light out
+right now?
+There's no need to force yourself to walk around. If it
+hurts, then we should call this off―――"
+<Page6>
+"Hmm, no, my body feels fine. It's just that looking at
+this wall reminded me of what happened yesterday."
+"What happened yesterday... you mean when you waited
+all that time for me at the park?"
+Arcueid nods meekly in confirmation.
+<Page7>
+"Last night I went barreling over this wall at full
+tilt and then snuck inside your room... It feels so
+hard to believe, now that I look back on it.
+Why was I so angry? If it was just that single
+promise... I couldn't even tell you how many promises
+people have broken up to now."
+Arcueid folds her arms in deep thought, unable to come
+up with an answer.
+<Page8>
+"Aha, of course―――I should just ask you.
+You always talk down to me and call me an idiot, so you
+should have no problem answering a simple question like
+this, right?"
+<Page9>
+"Hey now..."
+If Arcueid herself doesn't even know why she was mad, I
+don't see how I'm supposed to be able to work it out. I
+have no idea what goes on in that head of hers.
+But if I had to hazard a guess――――
+C:> It's because you're selfish.
+C:> It's because you want to take revenge on me.
+C:> It's because you're a vampire.

@@ -1,0 +1,574 @@
+<Page1>
+It's past two o'clock now, so we decide to have a late
+lunch.
+Since I'm here with Arcueid, I wanted to splurge and
+eat somewhere a little more expensive than I normally
+would. Alas, the contents of my wallet won't stretch
+ that far.
+<Page2>
+"I want to go somewhere you usually eat!"
+Arcueid says she wants something ordinary anyway,# so I
+suck it up and take us to the food court.
+<Page3>
+It's an open question whether or not Arcueid even eats
+this sort of food, so this is somewhat of an
+experiment.
+After intensely studying the menu, Arcueid ended up
+getting the same meal that I ordered.
+<Page4>
+"......"
+I take a seat across from Arcueid.
+After nervously glancing around at her surroundings,
+she brings a fry to her mouth in a manner that suggests
+familiarity with such food.
+<Page5>
+"You're used to this.
+I thought for sure this would be your first time in a
+place like this."
+<Page6>
+"Well, this  my first time. I knew what sort of
+establishment this was beforehand, but it was just
+second-hand knowledge."
+<Page7>
+"Second-hand knowledge... I see. You watch the news, so
+you must have read magazines as well. Your clothes are
+normal too, so I guess you've adapted pretty well..."
+<Page8>
+The traditional Western image of a vampire, combined
+with Vlov's old-fashioned look, had left me with the
+impression that vampires are Gothic creatures. I guess
+it's possible that vampire society may also have
+modernized along with the rest of the world.
+<Page9>
+"Hmm, that's not quite the process I use to acclimate.
+Either way, if I'm to blend in with human civilization,
+I need to develop some baseline level of general
+knowledge, right?
+That's why whenever I wake up, I spend some time
+learning about the current time period before I begin
+to act. I usually settle my business within a day or
+two though, after which all that knowledge just becomes
+dead weight."
+<Page10>
+"Hm...?"
+Every now and then, she says things that can be
+difficult to understand.
+<Page11>
+"What do you mean by dead weight?"
+"I mean, I go straight back to sleep as soon as I'm
+done.
+I don't know how many years it'll be before I wake up
+again, so I have to throw out everything I've learned
+and prepare for my next awakening."
+"Hmm...
+<Page12>
+ But it feels like by doing so I'm losing out.
+You see, up until now, I knew nothing about this world
+outside of raw information#.
+Even though I knew that people gathered here like this,
+I'd never experienced it first-hand."
+<Page13>
+"I see... but isn't knowledge enough? In fact, just
+now, you seemed a little lost when confronted with the
+menu, but when the time came to actually place your
+order, you were totally prepared."
+"Of course. I've read up on how to handle those kinds
+of interactions, after all."
+<Page14>
+"But that had only been in a numerical sense.
+Seeing the world as pure information is 'real' in and
+of itself, but the tangible 'reality' of lived
+experience has a pith to it that surpasses any theory,
+no matter how correct it may be on paper.
+This must be what they mean when they say experience
+outweighs theory.
+No matter how many billions of words you learn, you
+won't get anywhere if you don't start stringing them
+together yourself."
+<Page15>
+Arcueid lets out a miserable sigh.
+<Page16>
+"I'm not so sure about that. There's also a saying
+along the lines of 'theory supplements experience',
+isn't there?"
+"That's something only a person without any real
+experience would say though, right?
+Well... I guess that included me up until recently."
+<Page17>
+Arcueid's facial expression grows darker and darker.
+...
+I must've gotten swept up in her words. I'm starting
+to feel depressed myself. I don't feel like I could
+eloquently express , but I just can't bear seeing
+her face like this.
+<Page18>
+"Isn't that conclusion a bit premature, though? I think
+that what it all boils down to is that there are people
+who can make up for their lack of experience with
+theory alone, and those who can overturn theory with
+the benefit of their experiences.
+I mean, look around us. In this shop alone, we have
+such a breadth of different people. Yet even among all
+these different people, none of them are the same as
+me, right?"
+<Page19>
+"Wow,# you're saying something serious for once."
+"You're the one who brought up a serious subject, I'm
+just following your lead. Please don't derail the
+conversation now."
+Especially not now that you've finally decided to talk
+about yourself.
+<Page20>
+"Yeah, I know. You're there for me when I have
+something I want to talk about, whenever I want to talk
+about it.
+Even though you yell at me all the time, you always
+listen when things get serious, right?"
+<Page21>
+Arcueid lets out a cheery laugh.
+I can't say this out loud, but her smile really isn't
+vampire-like at all.
+That said... have I really been yelling at her that
+often?
+<Page22>
+"I'm quite narrow-minded, aren't I? Whenever I decide
+on something,# I end up blind to everything else.
+'I don't need anyone else but myself'. 'It's fine as
+long as I'm right'. I only ever thought along those
+lines."
+<Page23>
+"But you're right. When you consider how many different
+kinds of individuals there are, it's only natural to
+assume that there are plenty of people in the world who
+can do things I can't like it's nothing."
+Arcueid's tone is gentle as she muses. I guess she's
+feeling a little introspective.
+<Page24>
+"Then again, no amount of reflection is actually going
+to change my personality.
+Besides, I like the way I am right now the best. I
+still believe this is the correct way for me to be."
+<Page25>
+After making such a gallant statement with a smile,
+Arcueid once again furtively looks around her
+surroundings before sinking her teeth into her
+hamburger.
+<Page26>
+. .
+She chows down on the junk food as if to dispel my
+image of her as a vampire.
+"......"
+I wonder how she manages it.
+ Eating a hamburger is the
+sort of thing that's basically impossible to do
+elegantly, which only makes the fact that Arcueid looks
+so beautiful doing it seem all the more out of place.
+<Page27>
+"...What? It's rude to stare.
+Ah, am I eating this wrong...?!"
+<Page28>
+Arcueid puts the hamburger back on the tray in a panic.
+She wipes her lips with a napkin. Even that commonplace
+action looks so elegant and graceful when she does it.
+<Page29>
+"No, not at all. You're doing it right, but it feels
+kind of strange seeing  do it. It just doesn't suit
+you, so you shouldn't eat it."
+"What's up with that? What do you mean it doesn't suit
+me?"
+<Page30>
+"It's an image problem. Fast food doesn't suit a person
+with a small mouth like yours. It's fine when you
+daintily nibble on the fries, so you can have mine as
+well."
+<Page31>
+I put my fries on Arcueid's tray.
+Even I don't understand why I'm acting like this.
+<Page32>
+"I don't want them. I finally get a chance to eat
+something, but if I only eat soft things like those, it
+barely feels like I'm eating anything at all."
+<Page33>
+Arcueid pouts before digging back into her hamburger.
+This time, her movements are highly exaggerated, like
+she's conscious of the fact that I'm watching her.
+The mysterious beauty from before has faded slightly,
+making the scene just about bearable.
+<Page34>
+But... just what the hell is going on? A vampire eating
+a hamburger?
+If a creature doesn't eat and receive the nutrients it
+needs to function, then it won't survive very long.
+<Page35>
+Arcueid said before that she doesn't drink blood.
+Then... does that mean she derives sustenance from the
+same sorts of food that people eat?
+<Page36>
+"Hey... Arcueid."
+"What do you want you bully?"
+<Page37>
+"Look, I won't complain any more.
+There's something I want to ask you, if that's okay."
+"Sure but―――what is it?"
+<Page38>
+"So, you're a vampire, right? What I was wondering
+is... well, vampires only feed on blood, don't they?"
+<Page39>
+Arcueid stares at me, eyes wide.
+Looks like it was an inappropriate question after
+all...
+I mean look,# her face has become so stiff...# Or not?
+<Page40>
+"Listen, Shiki. I don't actually  to eat.
+It's true that consuming nutrients like this allows me
+to move under my own strength, but whether I do so or
+not is simply a matter of preference."
+<Page41>
+"My method of replenishing calories is different from
+yours. I do have an appetite, but it's more analogous
+to the sex drive in human beings.
+I get irritated when I don't eat, sure, but since I
+don't place a lot of importance on food, I don't get
+struck by   very often."
+<Page42>
+Arcueid flatly refutes my blood diet theory.
+It seems like she really  get by just fine without
+drinking any blood.
+<Page43>
+"I see――――"
+Thank goodness. I'm so glad that she's not like the
+other vampires that kill humans in order to feed.
+<Page44>
+Geez... If Arcueid had been like:
+'I'm a vampire that doesn't need to suck blood.'
+From the get-go, I'd have been more than happy to help
+her... out...
+<Page45>
+"Wait, hold on!#Wouldn't that make you not a vampire?!"
+<Page46>
+"No, I still am. If you had to eat something with no
+flavor all the time, it would be unbearable, right?
+There are times when you want to eat something that
+contains more poison than it does nutrients. Kinda like
+this hamburger you just ate."
+<Page47>
+"Shiki, why did you choose this restaurant?
+Was it simply to replenish energy?
+Or maybe―――you had a deep-seated craving for this
+haphazardly-cooked, mass-produced lump of low-quality
+processed meat, cheap bread, and artificial
+flavorings?"
+"... It pains me to admit it, but it's because I
+wanted a hamburger..."
+<Page48>
+"Yeah, that's okay. I don't think that's anything to be
+embarrassed about.
+Even I see it as something delicious, despite knowing
+that it's bad for me."
+<Page49>
+"For me, human blood is much the same thing.
+We're the same in that we both have cravings for things
+that we don't strictly need."
+<Page50>
+"I mean, whether we're talking food or we're talking
+mating, intelligent creatures wouldn't bother with it
+if it didn't provide some secondary benefit, right?
+You eat things because they taste good#.
+You mate because it feels good.
+You human beings are the ultimate examples of this. You
+know that connecting things with pleasure is a more
+powerful tool for prosperity than any other. It's a
+cosmically rare example of a relatively weak species
+demonstrating the absolute strongest capability to
+survive."
+<Page51>
+Arcueid's voice has a sing-song quality to it.
+I couldn't feel any contempt for humans in what she
+said.
+On the contrary, she almost sounded like a mother
+watching over her child as it grows.
+However―――
+<Page52>
+"W-Wait―――what do you mean by that?"
+I'm finding it a little hard to accept being told that
+humans can't live without chasing after pleasure...
+<Page53>
+"It's not like there's anything wrong with it. It's
+what made you people the dominant species on the planet
+today. From the planet's standpoint, a lifeform that
+searches for meaning in its own existence is an
+extraordinary result of evolution.
+It's certainly something that the planet itself never
+thought of."
+<Page54>
+"Anyway#.
+For bloodsuckers of the True Ancestors type like
+myself, blood is the highest grade of food that
+provides such secondary metaphysical benefits.
+However, if my only objective is to simply 'remain
+active', then I have no need to consume human blood at
+all."
+<Page55>
+"In other words... for vampires like True Ancestors,#
+blood is used more for satiating our 
+hunger than anything else...
+But you said that you hate sucking blood, right?
+Ah, I got it! All humans have their individual likes
+and dislikes when it comes to food―――Could it be
+that you just hate the taste of blood?"
+<Page56>
+Having hit upon a convincing revelation, I can't help
+but blurt it out.
+However, Arcueid frowns as though something is weighing
+on her.
+<Page57>
+"I don't know... the taste of blood―――#is unknown to
+me."
+"Hm...?"
+She doesn't know what blood tastes like...?
+<Page58>
+"I told you before that I'm a failure of a bloodsucker,
+right? I've never even tasted blood. I have no idea
+what it's like.
+All I know―――is that to drink someone's blood would
+be to no longer recognize them as human."
+Arcueid looks away from me as she mutters that#.
+<Page59>
+"Hey, Shiki. Hypothetically speaking, if birds and fish
+had the same intelligence and lifespan as you, would
+you still eat them?
+Would you still consider them food and choose to eat
+them despite that?"
+<Page60>
+"―――Well, that's..."
+I―――probably would?
+I don't know. But... if there were other animals of
+lower intelligence, I would probably eat those first.
+<Page61>
+"See? That's what I mean.# That's sort of my line of
+reasoning for hating blood... Well, maybe you were
+right, maybe I simply don't like it. If possible, I'd
+rather not look at blood at all.
+But―――what if I didn't possess the same intelligence
+or values as humans? Maybe then I wouldn't hesitate to
+suck their blood.
+That's the natural order of things: to take the lives
+of others in order to survive."
+<Page62>
+"――――――"
+I start upright in shock.
+'It is not a sin to kill in order to live.'
+It sounds like a natural thing for a vampire to say,
+but when  says it, I can't help but be taken
+aback.
+I'm here to kill a vampire who thinks like that.
+I'm not here to deem her an accomplice to that thought
+process...
+<Page63>
+"Well... it's true that the natural order of things is
+for animals to prey on each other to survive. But
+aren't you similar to humans? Don't the laws of nature
+also say it's taboo to eat your own kind?
+That's why you should stop with those hypotheticals...
+I don't like what-ifs.#"
+<Page64>
+"Really? I kinda like them.
+You might not know where you're gonna end up, but in
+the moment, you always feel like there's some kind of
+salvation out there, right?"
+<Page65>
+What-ifs... huh.
+In that case, what if Arcueid wasn't a vampire? Would I
+not have to feel this way?
+Or what if she was a monster who drank blood like the
+other vampires? Then would I not be as irritated as I
+am right now?
+<Page66>
+"What's wrong, Shiki?# Your face looks gloomy all of a
+sudden.
+Ah, do you need to go to the bathroom?"
+"Come on... I'm weighed down by serious stuff here and
+that's where your mind goes?"
+<Page67>
+I breathe out a sigh.
+But I guess in a way, I'm saved by her carefree
+attitude.
+Regardless of how much thought I dedicate to it, I get
+the impression that the question of whether she should
+drink blood or not doesn't weigh on Arcueid's mind at
+all.
+<Page68>
+"That's right... I guess at the end of the day, it's
+none of my business."
+<Page69>
+"Geez, what are you mumbling about over there?
+It's not fair to hide things from me, Shiki!"
+Arcueid is once again growling at me like an indignant
+cat.
+<Page70>
+"I'm not hiding anything from you.
+If anything,  the one hiding things from . Or
+at least, you certainly seem to have fun talking about
+things I don't understand all the time."
+<Page71>
+"Having fun?―――Well, you're not wrong."
+"Oh, so you really did enjoy seeing me at my wit's end.
+Do you just like messing with me, or is it more the
+thrill of holding all the cards?
+Well, I guess it doesn't matter either way. I'm a
+totally different organism after all."
+<Page72>
+"I-It's not like that at all...!
+I've been completely forthcoming in all my
+conversations with you.
+If you feel like you're in the dark, isn't that down to
+you not asking me any questions, rather than me
+refusing to answer them...?"
+<Page73>
+She hits me where it hurts...
+It's true that I consciously avoid asking Arcueid
+questions.
+<Page74>
+As a human being, I'm terrified of wading any further
+into the world of vampires.
+And as Tohno Shiki, I want to hold on to the idea that
+I can still turn back, even now.
+<Page75>
+However. After last night, I'm certain I've crossed a
+threshold―――There's no going back to the safety I
+once knew. And now that I've come this far, there are
+things that I need to know.
+<Page76>
+"Alright then―――so you'll answer me, no matter what
+I ask?"
+"Yeah. We're a team after all."
+<Page77>
+Well, she asked for it. I guess I'll start grilling her
+on things I'm still not clear on.
+Starting with the main question... the one she keeps
+avoiding.
+<Page78>
+The true identity of our enemy.
+I should use this chance to find out what kind of
+person they are.
+<Page79>
+"Then let me ask you.
+Arcueid, just what kind of vampire is your enemy
+anyway? You must have some sort of relationship with
+them if you've gone to this length to chase after them,
+right?"
+"Well―――that topic――"
+<Page80>
+"What? Didn't we  agree to not hide anything from
+each other?"
+<Page81>
+"We did, but don't get upset when you hear the answer.
+I only recently discovered that the vampire is lurking
+in this city, so I haven't even had a chance to see his
+current form yet.
+I don't know what form the enemy has taken this
+time―――#whether he's a man or a woman, or even if
+he's a child or an adult."
+<Page82>
+"Well... what about his special traits?
+I mean, Vlov had a superpower, right? Doesn't our
+target have something special like that?"
+<Page83>
+"There's no way of knowing until we can see him up
+close.
+The enemy I'm after isn't that powerful of a Dead
+Apostle, but I can't predict what his strong point will
+be this time, or what form he's taken."
+<Page84>
+"Yeah... I guess you could say that his adaptability is
+his special trait. All I can say for sure is that there
+are signs of him in this city."
+<Page85>
+"........."
+Arcueid isn't lying.
+But I get the feeling she isn't exactly telling me the
+whole truth either.
+For example―――
+<Page86>
+"So... we won't know what his traits are until we find
+him...# Alright, I buy that. It makes perfect sense.
+But you at least know his name, right?"
+"His―――name..."
+"Yeah, his name."
+<Page87>
+Arcueid silently hangs her head.
+It seems like she has some reason she can't tell me his
+name, and it's eating her up inside...
+At least, that's what I thought.
+<Page88>
+"―――His name―――"
+A shiver runs down my spine.
+There's so much ice in her words that it feels like our
+surroundings have been frozen solid.
+<Page89>
+"You want to know his name, Shiki?"
+There is no sign of her hiding the truth.
+<Page90>
+"His name is Michael. Michael Roa Valdamjong. He is a
+human turned vampire, a run-of-the-mill Dead Apostle."
+Her beautiful lips move, but she does not look up.
+All that I can sense from her is raw, blood-curdling
+hatred.
+<Page91>
+"Arcueid, you―――"
+"―――――"
+Arcueid's shoulders are trembling.
+She looks like she's struggling to suppress the
+emotions raging within her.
+<Page92>
+"I'm sorry for asking you something stupid...
+Telling me his name is more than enough. I'll see the
+rest for myself after we hunt him down."
+<Page93>
+Arcueid shakes her head slightly.
+It's as if she's saying that she can't forget it so
+easily.
+<Page94>
+Time passes, neither of us saying a word.
+<Page95>
+"Sorry, Shiki.
+That was shameful, huh. Seems like I can't keep my cool
+when I say his name."
+<Page96>
+Arcueid apologizes with her head still hanging.
+This temperate appearance isn't like her at all.
+<Page97>
+"You don't have to worry about it. Even if you feel bad
+about it, I'm actually a little relieved. It was
+honestly very human of you."
+"R-Really? How so?"
+<Page98>
+"Well. You hate this person so much that you're hunting
+him down, and only allow yourself to refer to him as
+'the enemy' because you're worried about letting your
+emotions get the better of you, right?
+I can empathize with that way more than I can the idea
+of you going around coldly exterminating vampires like
+it's just a job.
+If I'd known you had your reasons, I'd have―――"
+<Page99>
+I was about to say 'lent you a hand' but stopped
+halfway.
+I've been claiming that I'm only helping Arcueid in
+order to protect this city. To finish that sentence
+would be to contradict the excuse I continue to cling
+to.
+<Page100>
+"Anyway, that's all the questions I have. Let's eat
+while it's still hot.
+This sort of food tastes pretty dire once it gets
+cold."
+<Page101>
+"Yeah...
+Though, I have to say it doesn't taste that great to
+begin with? Your palate may be, well, ."
+The princess averts her gaze, as though to avoid saying
+out loud exactly how boorish my tastes are.
+I'm sure we just weren't feeling this menu today.
+That's all. I maintain that there are still times when
+a burger really hits the spot.

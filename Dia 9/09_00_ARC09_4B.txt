@@ -1,0 +1,139 @@
+<Page1>
+...I hear the sounds of people talking.
+<Page2>
+"...Akiha-sama. Will you not be calling a doctor?"
+"You know better than to suggest something like that,
+Hisui. What good would calling a doctor do... Nii-san's
+wound is hardly normal, now is it...!"
+<Page3>
+...Akiha and    Hisui are    talking    to each other.
+This is    my room.
+It seems I was    sleeping    in my    bed.
+<Page4>
+...I've finally regained consciousness.
+I try to get up or call out to them, but my body won't
+move like I want it to.
+<Page5>
+My chest doesn't hurt, but my body feels heavy as lead.
+It seems like my eyes and mouth are the only things I
+can move properly.
+<Page6>
+"Just what on earth were you thinking, Hisui?
+You knew full well not to allow Nii-san to get anywhere
+near that place...!"
+<Page7>
+"I have... no excuse."
+<Page8>
+"This isn't something that can be solved simply by
+apologizing. Did I not appoint you to be his servant
+specifically to prevent something like this from
+happening?
+How could you possibly manage to forget something so
+critical...!"
+<Page9>
+Akiha is furious, her emotions on full display. This
+sort of behavior would normally be unthinkable for her.
+On the receiving end of the scolding is Hisui, who
+continues to look down in shame.
+<Page10>
+I don't fully understand what's going on here.
+Even so, I can at least tell that Hisui is being
+scolded because of me.
+<Page11>
+"Come now. Do you not have anything to say for
+yourself?
+Why don't you explain to me what it is that you were
+doing all day?
+...Not only did you fail to report that he had
+collapsed this morning, but you failed to prevent him
+from entering the forest. This was clearly intentional,
+wasn't it? If not, then you must be more feebleminded
+than a dog.
+―――Answer me, Hisui. Do you also intend on
+disobeying me?"
+<Page12>
+Hisui doesn't answer.
+The air between them grows heavier and heavier.
+<Page13>
+Akiha bites her lip and takes a step toward Hisui.
+...It's plain even to me that Akiha is about to hit
+Hisui.
+Hisui continues to stare at the floor, silently
+accepting what's coming to her.
+<Page14>
+"―――Hold on    a sec,    Akiha."
+"Nii-san! You're awake?!"
+"Yeah, the ruckus you were making just woke me up."
+<Page15>
+"Ah..."
+Akiha awkwardly averts her gaze.
+Hisui doesn't even look this way, she just stands there
+with her head lowered.
+<Page16>
+"...Listen, I don't want you to be hard on Hisui.
+I'm not totally up to speed, but it seems like the
+cause of all this fuss is the fact that I collapsed,
+right? That's hardly something you can blame Hisui for.
+All that happened here was me going off and keeling
+over of my own accord."
+<Page17>
+I put strength into my arms, and somehow manage to
+heave myself at least partially upright in bed.
+That simple act took everything I had in me. I don't
+think I could move another muscle at this point.
+But with Hisui looking this despondent right in front
+of me, I need to put on a show of being healthy even if
+it kills me.
+<Page18>
+"Geez, you shouldn't be getting into a scuffle over
+someone like me anyway. You may look mature, but I
+guess you're still a child after all."
+<Page19>
+"But―――you've been unconscious this whole time! You
+were comatose for over ten hours! Nothing like that has
+ever happened before. Just what would I do if you
+stayed like that and never woke up, Nii-san...!"
+<Page20>
+"You idiot. Don't say something so ominous.
+This is just the usual anemia―――#wait, what?! Did you
+say that it's been ten hours?!"
+"...I did. Like I said, you've been completely
+unconscious since this afternoon."
+<Page21>
+Akiha speaks in a reserved tone.
+However, I'm not worried about my body so much as I am
+the promise I made with Arcueid.
+<Page22>
+'Tomorrow night, you'd better be here at ten o'clock
+sharp.'
+The look in Arcueid's eyes when she said that was more
+serious than usual.
+If I break that promise, who knows what sort of
+unreasonable demands she'll make of me in return...!
+<Page23>
+"Crap, I gotta go...!
+Sorry, Akiha. I'm going out, so I'll leave the rest to
+you. Don't bully Hisui too much, okay?"
+<Page24>
+"P-Please don't say something so outrageous!
+I won't ask about your nightly outings anymore. I
+won't, so please, take care of yourself, at least for
+tonight...!"
+<Page25>
+"Akiha..."
+Akiha's tone has become pleading.
+If she keeps worrying about me this earnestly, I won't
+be able to maintain my resolve.
+<Page26>
+"This sort of thing happens all the time, right?
+Heck, I used to collapse twice a day back in middle
+school."
+<Page27>
+"...That's what has me so worried.
+―――Nii-san. I'm begging you, please listen to what I
+say, even if only for today."
+<Page28>
+Akiha looks at me with a serious gaze.
+I'll―――――
+C:> Do as she says.
+C:> Go and meet with Arcueid.

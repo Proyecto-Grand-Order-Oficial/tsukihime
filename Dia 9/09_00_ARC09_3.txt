@@ -1,0 +1,11 @@
+<Page1>
+It's now the afternoon.
+After finishing a light lunch in the dining room, I
+return to my room.
+<Page2>
+Hisui had been emphatic about the fact that I should
+spend today resting, but I now find myself without
+anything to do.
+"...I've already recovered anyway, so I'll―――"
+C:> Walk around the first floor of the mansion.
+C:> Walk around the second floor of the mansion.
