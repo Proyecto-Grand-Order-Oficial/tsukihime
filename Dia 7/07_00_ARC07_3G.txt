@@ -1,0 +1,448 @@
+<Page1>
+By the time I'm finally released from Arcueid's
+one-sided handshake, it's almost nine o'clock.
+<Page2>
+Just thinking about everything that's happened since I
+got back is enough to make my head hurt, but now that
+I've decided to help out, the night is still far from
+over.
+From here on, the vampire extermination begins in
+earnest.
+<Page3>
+"...So, what do we do now?
+I assume we just keep walking around the city searching
+for more Dead?"
+<Page4>
+"Yeah. If we wipe out all the Dead in this city, then
+their vampire sire will have no choice but to come out
+of hiding.
+That's all we can do right now, but..."
+Arcueid gives me a look, as if asking whether I'm
+really okay with it.
+<Page5>
+"You don't have to ask me, wherever you go, I'll
+follow. You're the expert after all, so just tell me
+what to do."
+<Page6>
+......
+This girl's just standing there watching me, an
+outsized grin on her face.
+<Page7>
+"What? Did I say something strange?"
+"Nope. I was just marveling at how honest you are."
+"........."
+...Maybe I should be a little more brusque with her
+from now on.
+I get the feeling that if I keep buttering her up like
+this, she'll ask me to do something outrageous again.
+<Page8>
+"Let's go. We just need to wander around the city,
+right? Should we go back and take another look at that
+underpass from earlier?"
+<Page9>
+"No, there's no need to revisit that area.
+The Dead are each assigned their own non-overlapping
+routes, both to prevent them from trying to feed on
+each other and to ensure that the victims aren't all
+clustered around the same location.
+The number of Dead that will go out to feed on a given
+night is planned in advance. I'm pretty sure the one
+from earlier was the last of them, but... Since you're
+already here, we might as well search for a little
+longer."
+<Page10>
+"Everything is planned out so that they don't consume
+each other... I'm surprised at how well-orchestrated
+this all is. I'd been under the impression they were
+just acting at random."
+<Page11>
+"Well, think about it from the vampire sire's
+perspective. They aren't just collecting blood for fun,
+it's a vital requirement for them to continue existing.
+It's work, so of course they'd value consistency and
+reliability."
+<Page12>
+"Hmm, so the Dead are a pretty crucial labor force.
+Though, if that's the case, won't the enemy start to
+take countermeasures soon?
+Since you've been out here thinning the herd, maybe
+he'll start to deploy them in even greater numbers? Or
+maybe he'll have all the Dead withdraw and go into
+hiding..."
+<Page13>
+"This guy is stingy by nature, right?
+However, as a vampire, he has no choice but to milk
+other people for their blood and energy if he wants to
+survive.
+That's why even if the sire knows that I'm after him,
+he still has to send his Dead out to gather the bare
+minimum for subsistence."
+<Page14>
+I see...
+Arcueid's modus operandi is to attack the enemy's
+supply lines.
+<Page15>
+Working out where in the city the sire is sleeping
+would be far too difficult.
+So instead of searching for him, she plans to smoke him
+out.
+Cut off from their workers, and by extension the
+nourishment they need to keep on living, the sire will
+eventually have no choice but to take action
+themselves.
+<Page16>
+As soon as the enemy goes on the move, Arcueid will be
+able to sense their presence.
+...That's where the vampire slaying comes in.
+Just like when we put our lives on the line to kill
+Vlov, we'll face the one responsible for these
+incidents head-on and exterminate him.
+<Page17>
+"Okay, I'm up to speed. Each night, we just need to
+patrol the city and keep an eye open for any Dead that
+are still out and about, right?"
+<Page18>
+"Yeah. On that note, Shiki―――Would you be willing to
+take off your glasses while you're accompanying me?"
+"Take off my glasses? ...Why?"
+<Page19>
+"Because it's more reliable that way.
+I can sense the presence of human and non-human beings.
+You can visually perceive the difference between the
+living and the Dead.
+It's not like we have many other ways of finding them,
+right?"
+<Page20>
+"―――――"
+...I understand what Arcueid is getting at.
+I was the one that said we should cooperate, so it's
+not like I can refuse.
+But moving around without my glasses on is―――
+<Page21>
+"I'm sure it will place a significant strain on your
+body.
+However, since we have the opportunity, there's
+something I want to confirm one more time.
+If you think you can handle it, then take off your
+glasses and follow me."
+<Page22>
+...Walking around the city without my glasses on, huh.
+In the seven years since I've received these glasses,
+I've never once tried something like that.
+<Page23>
+I mean, just seeing things with my glasses off is
+enough to give me a headache. It's easy to imagine what
+would happen to me if I were to then go wandering
+around the city without them.
+Even so―――
+<Page24>
+"......"
+...I'll be fine, it's just a headache after all.
+It's nothing compared to the pain that Arcueid is
+dealing with right now.
+<Page25>
+"Alright, I'll take them off.
+If doing so makes things easier, then it's a
+no-brainer."
+<Page26>
+"―――I see. Then let's get moving."
+I take a single deep breath, remove my glasses, and
+walk toward the city.
+<Page27>
+Walking side by side, Arcueid and I move through the
+crowds.
+The last time I walked amidst a landscape this riddled
+with scribbles was back when I was first hospitalized.
+<Page28>
+"――――"
+I don't feel any dizziness so far.
+I guess simply looking around isn't enough to give me a
+headache.
+Though, the thin lines that are present on the
+buildings aren't the real issue. It's when I look at
+the 'lines' on the people walking down the street that
+I start to feel ill.
+<Page29>
+...I just can't stop my thoughts from turning dark.
+It's not as though the people covered in lines make me
+feel sick, per se.
+What makes the bile rise in my throat is the fact they
+remind me how cheaply―――how easily the life of a
+human being can be snuffed out.
+<Page30>
+We wander amidst the bustle of the city's nightlife.
+Arcueid doesn't utter a single word the entire time.
+She simply marches resolutely onward, as though she has
+some ultimate destination in mind.
+<Page31>
+Over the course of about two hours, we visited every
+prominent location around the station.
+In the end, we didn't turn up even a single person with
+the abnormal '<lines|d e a t h   >' we were searching for.
+<Page32>
+"Shiki, you can put your glasses back on now.
+As I thought, there aren't any more Dead tonight."
+<Page33>
+I put on my glasses#.
+I feel a sense of relief as my vision returns to
+normal.
+<Page34>
+"Should we really be giving up so easily? We only did
+one lap of the city."
+<Page35>
+"Yeah, one look around is all we need. Traces of
+someone's presence linger around for a while, even
+after they're gone. Despite that, I didn't pick up even
+a hint of the Dead anywhere in the city.
+It's possible that the Dead from earlier was the last
+one out collecting food. From here on, we'll be
+grinding our way through the Dead on the next rung up."
+<Page36>
+"You seem upset, Arcueid."
+"Of course I am. Even though you came all this way for
+me, it was a total bust. . I really wanted to show
+you my cool side too."
+<Page37>
+"――――――"
+...
+Now that I know what's got her down, I start to feel
+the urge to do something about it...
+<Page38>
+"W-Well, I don't really mind if it ends up being a
+waste of time... If you're that unhappy about it, then
+why don't we take another lap around the city?
+I'll see if I can sharpen my senses this time around as
+well. You never know, we might still be able to find
+something."
+<Page39>
+"No. I can't let you push yourself any further
+tonight."
+"What do you mean? I'm not pushing myself that hard..."
+<Page40>
+"But you are. You just haven't realized it. Even now,
+your face is extremely pale. Come on, sit down on the
+bench. You'll be able to relax a little that way,
+right?"
+<Page41>
+Arcueid firmly ushers me over to the bench.
+Well, if we're being honest, I do actually feel like
+I'm on the verge of being sick. I'll just take a seat
+for the time being.
+<Page42>
+"Ah..."
+Even that small comfort is enough to make me let slip a
+sigh.
+I wonder if sitting down released the tension that had
+been holding me together, or if the fatigue that had
+been building up simply hit me all at once. Despite my
+shoulders feeling heavier, I feel a lot better
+overall... I guess that's proof I really was pushing
+myself.
+<Page43>
+"Thanks... I needed that.
+But, this really doesn't come close to the headaches
+that I've suffered from in the past. There were times I
+got such bad vertigo I thought I was about to lose
+consciousness, this is nothing in comparison."
+<Page44>
+If I rest here for a little while, breathing deeply as
+I allow the night breeze to play over me, my nausea
+should fade in due time.
+My problems are trifling compared to Arcueid's wounds.
+That's why you don't have to worry―――#Arcueid?
+<Page45>
+"You're a frail creature, so don't push yourself.
+You think you're fine just because you didn't faint?
+You're dead wrong. Simply using those eyes of yours at
+all puts you in danger.
+You shouldn't strain yourself to make out things you
+can't see. If you abuse your brain like that, you run
+the risk of turning into a cripple."
+"Huh? Who's going to become a cripple?"
+<Page46>
+"You are! Why don't you feel any sense of danger?!
+To think that you're a pacifist despite being in
+possession of such rare Mystic Eyes! Do you have any
+idea how juicy of a target this makes you? You've
+honestly done well to make it this far. Normally,
+someone would've plucked you out and gobbled you up by
+now!"
+<Page47>
+...In what country would that be considered normal?
+Or rather, I'd appreciate it if you'd stop looking down
+on one of the most law-abiding countries in the world.
+Call me a peace-loving idiot, but isn't it amazing that
+we've maintained this degree of public order for so
+long?
+<Page48>
+"...Fine. I didn't want to tell you all this, but let
+me explain things to you properly."
+<Page49>
+"Ready? Shiki, you said that you could make out the
+lines of death on living things a lot easier than you
+could on inanimate objects, right?
+The reason for that all comes down to the transmission
+lines in your brain.
+The death of things. We say that you're 'seeing' the
+fate of an object, but in reality, it's a bit more
+nuanced; it's more like you're 'reading' it than
+'seeing' it."
+<Page50>
+"All events have a foundational cause: an absolute
+first.
+The point where the universe began, yet also the point
+where it will end.
+At this point, there is an 'archive of all things'.
+Though it's less of an 'archive' and more of just an
+'existence'; not really information. It is 'existence',
+nothing more. It has no will unto itself, and no
+possible directive either. It simply lets causes flow
+out of itself, almost like it's this  ."
+<Page51>
+"Everything that exists in this world flowed from that
+maelstrom, and all things derive their current form
+from it. You and me, bloodsuckers and humans... all
+nothing more than atoms that originated there.
+By now we are all too far removed――too hopelessly
+complex, to return to that initial cause... Anyway, you
+should at least be able to understand that such a
+'first' exists, right?"
+<Page52>
+"But you see, no matter how far removed we become from
+that foundation, we are still existences that were
+derived from it. As such, we are still connected to it,
+even if by the thinnest of threads."
+<Page53>
+"The Source of all things: a record of the beginning
+and end of everything.
+To be connected to it would be to 'discern' the end of
+all existences.
+In higher animals, the brain is what governs the
+faculties of reception and transmission, but in nearly
+all humans, these transmission lines are non-receptive
+to things other than themselves. However, among them
+there are those who have dormant lines that 
+receptive; Humans who aren't otherworldly beings, yet
+are still capable of enacting supernatural phenomena
+without the use of Magic Circuits."
+<Page54>
+"These are what mages classify as .
+Mutants who, in spite of being human, are inherently a
+kind of Magic Circuit in and of themselves.
+―――Like, say, a person who has never studied the
+arcane but is able to see the 'death of things'."
+<Page55>
+"――――――"
+...I'm sorry, Arcueid.
+I know you've gone out of your way to tell me this, but
+my brain can't keep up with this conversation at all.
+<Page56>
+"It's fine. You don't have to understand any of it.
+The only thing I wanted to say was that you shouldn't
+force yourself to look at things that are hard to see.
+Since I can't perceive any of this, I can't be certain,
+but I'd imagine those 'lines' aren't the only thing you
+see. Separate to the 'lines', you can also see their
+originating 'point', can't you?"
+"――――――"
+<Page57>
+She's spot-on...
+When I'm concentrating on trying to see the lines, if I
+try hard enough, I also start to see points as well. In
+fact, during the final moment I spent face to face with
+Vlov, I could see a giant vortex-like 'point' inside
+his body.
+<Page58>
+Now that I think back on it, that wasn't the only time
+I've seen them.
+Whenever I do, I'm assailed by a <phantom pain|s h o c k     >, as
+though my brain is being hacked off at the stem, and I
+lose consciousness. But I definitely still see those
+points.
+<Page59>
+"Right...# Back then―――back when I killed you, I'm
+certain I saw those points. There were a bunch of them,
+and the lines flowed from point to point, as if weaving
+them all together."
+<Page60>
+To use a metaphor, they were like blood vessels.
+If the lines are blood vessels, then those points are
+something that gives rise to those blood vessels.
+<Page61>
+"'Lines where things are prone to death' and 'death'
+itself... I wonder what it all means.
+If you really wanted to, I think it'd be possible for
+you to see the death of inorganic matter. But in order
+for your brain to do that, its transmission lines would
+have to go from being receptive to the living
+frequency, to being receptive to the inanimate
+frequency, and then try to understand their death.
+But in reality, that is an impossible task. If you
+overload your brain like that, you will stop working."
+<Page62>
+Stop working... huh?
+"Do you mean that these eyes won't be able to see death
+anymore?"
+<Page63>
+"Absolutely not. Shiki, what do you think happens to an
+engine that's blown out from being pushed too hard?"
+"It's destined for the junk pile, right? If an engine
+seizes up even once, it's never going to work
+agai―――"
+<Page64>
+Ah, so that's what she meant.
+Simply put, the headaches I get from looking at death
+are like the screaming of an engine pushed past its
+redline.
+<Page65>
+"Do you get it now? Just looking at things that appear
+easily should be no problem, but you should stop trying
+to see the things that can't be seen.
+If nothing else, at least stop when you reach the point
+where your blood vessels start to burst and put a
+strain on your brain. If you go any further, you may
+end up living out the rest of your days as a
+vegetable."
+<Page66>
+"You should show some appreciation for the mage that
+created those glasses for you.
+Most psychics use their powers without knowing the
+risks, and end up crippling themselves as a result.
+Though... given that they're destined to be outcasts
+from human society despite being human themselves,
+maybe they're better off that way."
+<Page67>
+"―――――"
+"That seems to be the reason I'm here.
+I'll give you your old life back."
+<Page68>
+Having said that, Sensei then created these glasses for
+me.
+...I owe such an incredible amount to her that it makes
+my heart ache.
+On that day, seven years ago, that person saved the
+Tohno Shiki of today in more ways than one.
+<Page69>
+"By the way."
+"?!"
+<Page70>
+As I sat there grappling with these profound emotions,
+Arcueid popped up right beside me and peered into my
+face.
+My heart can't take that right now.
+We just had a good talk, so I would've liked it if
+she'd been a bit more respectful.
+<Page71>
+"What do you want? If it's about the glasses, I'm not
+handing them over."
+"It's not that.
+What do you want to do now? It doesn't seem like any
+more Dead will come out tonight, so do you want to call
+it a day?"
+<Page72>
+"......"
+The time is now eleven o'clock.
+The curfew of the Tohno residence has long been broken.
+I―――
+C:> Talk with Arcueid a little longer.
+C:> ...Had better get going.

@@ -1,0 +1,209 @@
+<Page1>
+"Before you eat, there is something we must discuss.
+Please, take a seat on the sofa."
+<Page2>
+They are stern words, ones that I cannot disobey.
+Phrases such as 'you reap what you sow' and 'a foolish
+brother ought to die' revolve inside my head.
+...I guess I have no choice but to make my stand and
+accept my fate.
+<Page3>
+"...Alright, but please keep it brief if you can."
+I defeatedly take a seat on the sofa across from Akiha.
+<Page4>
+Kohaku-san prepares a cup of tea for me without a
+moment's delay.
+It gives me a small amount of courage, as if she was
+silently telling me 'hang in there'.
+<Page5>
+That's right. Akiha may be the family head, but she's
+still my younger sister.
+This shouldn't end up being a totally one-sided match.
+I take a sip of the black tea and lock eyes with her.
+<Page6>
+"So, what did you want to talk about?"
+"Did you engage in sexual intercourse with the woman
+from last night?"
+"―――!"
+<Page7>
+Not good―――choking, I'm choking.
+Damn it Akiha, you're not supposed to go throwing
+fastballs right out of the gate.
+I nearly choked to death on my tea.
+<Page8>
+"Nii-san. Are you listening to me?"
+"I'm listening. I can hear you loud and clear."
+<Page9>
+"If that's the case, then answer me.
+Tell me about the woman from last night, accurately,
+without deceit, and in as much detail as you can
+without making me upset."
+<Page10>
+"If those are your conditions, then there's nothing I
+can say."
+"Even though I just warned you not to make me upset?"
+So those were her warnings, not her conditions...!
+<Page11>
+"...Man, this is really starting to feel like an
+impossible task..."
+<Page12>
+"What's that? I couldn't hear you because you were too
+quiet. Please speak up.
+Exactly who is that woman to you, Nii-san?"
+<Page13>
+"If I had to say, we're collaborators. Or friends...
+sorta? Or rather―――"
+<Page14>
+"Hmm. Rather close friends for the two of you to be
+going out at night like that.
+Yes, I have no opinion on who you choose to have a
+future relationship with, but isn't it true that you're
+still a student?"
+<Page15>
+"For the eldest son of the Tohno family to――― well,
+rendezvous with an unknown woman night after night.
+Shouldn't you refrain from such indecent acts?"
+<Page16>
+...I see. So that's how our relationship looks to her.
+<Page17>
+"Hold on, Akiha. First things first, we don't have that
+kind of relationship.
+All I'm doing is helping her find something. Once
+that's all over and done with, there'll be no reason
+for us to see each other again."
+<Page18>
+"...That's odd, considering how awfully close you
+looked, but you're suggesting that was simply my
+imagination, Nii-san?
+Are you telling me that your relationship with this
+person is temporary and purely transactional?"
+<Page19>
+Akiha's gaze is cold.
+If I just nod yes, this conversation could end
+peacefully.
+...But I feel strangely reluctant to affirm that
+statement.
+Although we both have something to gain by working
+together, I find it hard to say that's all there is to
+it.
+<Page20>
+"Well I mean... we're not exactly , but it's not
+like I'm helping her purely for mercenary reasons
+either."
+"Of course. After all, I've never seen you in a panic
+like that before. For my otherwise serious brother to
+reveal his emotions, naturally I would wonder what on
+earth could have brought that on."
+<Page21>
+"I didn't panic that hard, and I'm not emotionless
+either. I was just surprised because I didn't expect
+her to visit our house."
+"Really now? Even though that woman remained totally
+calm the entire time she was waiting for you?"
+<Page22>
+Akiha gives me a sidelong glance, as though she has
+something more to say.
+It seems like she thoroughly believes that Arcueid and
+I are going out.
+<Page23>
+"Hey Akiha. Could you stop with the misunderstandings?
+Besides, the only reason we know each other is
+because―――"
+<Page24>
+I stop myself from saying it's because I killed her.
+...It's not like she would believe me even if I did
+tell her the truth. And besides, there's no way I could
+let her know about that sort of thing.
+That being said, I couldn't come up with a better
+explanation, so, just like last night, all I could do
+was mumble some vague words.
+<Page25>
+"If you cannot answer that question then perhaps I
+should pose a different one.
+You've been consistently referring to her as 'that
+woman' for a while now, but what exactly is her name?"
+"Her name is... Arcueid."
+<Page26>
+"Is that so? Then that means you two didn't meet at
+school. There are no exchange students at your high
+school after all."
+<Page27>
+"―――"
+Just as Akiha says, there isn't a single
+foreign-exchange student at our school. ...Wait, why
+does she know that?
+<Page28>
+"And so, how exactly did you two come to know each
+other?"
+"W-We met each other in the city. By chance."
+<Page29>
+"By chance, you say. So then Arcueid-san was the one
+that called out to you, correct?"
+"Ah―――well, actually it was me who called out to
+her..."
+The truth is that there was no calling out to anybody,
+only murder. After that came the chase. Anyhow, I was
+the one who started it.
+<Page30>
+"Why did you call out to her?
+I thought there was nothing between you and
+Arcueid-san. Or are you saying that wasn't your
+intention at first?"
+<Page31>
+Akiha's question was truly precise.
+Step by step, she's honing in on my weak point.
+<Page32>
+I'm like a deer standing transfixed in the path of
+oncoming headlights. Sooner or later, I'll be pushed to
+a point where I can't deceive her anymore.
+...It's depressing, but it is what it is.
+At this point, I should end this conversation even if I
+have to use force.
+<Page33>
+"Oh come on, I'm telling you there's nothing between
+us!
+Besides, what I do with my life has absolutely nothing
+to do with you.
+As for being the eldest son of the Tohno household, we
+both know that's just for show. It shouldn't be a
+problem even if I were to go out with someone."
+<Page34>
+I know it's unfair to bring up the fact that I was
+disowned, but she's not likely to back down unless I
+resort to something like this.
+Akiha raises her eyebrows, and then―――stands up
+without making a sound.
+<Page35>
+"Hmm?"
+...That's odd.
+I thought that she'd have a ruthless counterattack in
+store for me, but contrary to my expectations, Akiha
+turns away, an uneasy expression on her face.
+<Page36>
+"It's not like I wanted to have this conversation
+either.
+I just... have a bad feeling about that person. If it
+were anyone else, I would have simply dropped the
+matter. However, when I see you let your guard down
+around that person, I can't help but feel like I'm
+being foolish."
+<Page37>
+...I don't get it.
+Akiha spoke through pursed lips, visibly frustrated.
+<Page38>
+"What's wrong, Akiha? You're acting a bit strange."
+"That's enough. If that's what you really want to do,
+then do whatever you please...!"
+<Page39>
+With an uncharacteristically violent stride, Akiha
+takes her leave of the living room.
+<Page40>
+"Geez. How could you, Shiki-san.
+I feel sorry for Akiha-sama. If you're going to invite
+a lover over, at least bring one that's a little more
+normal.
+If you had done that, then I'm sure even Akiha-sama
+would have given her approval."
+<Page41>
+Kohaku-san lets out an exaggerated sigh and chases
+after Akiha.

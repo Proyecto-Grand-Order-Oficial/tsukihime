@@ -1,0 +1,298 @@
+<Page1>
+I already heard plenty about vampire fundamentals back
+at the hotel.
+This time I should ask her something more in-depth.
+<Page2>
+"You mentioned some people more dangerous than the Dead
+from earlier...
+The Twenty-Seven Ancestors, was it? You said that Vlov
+was one of them, but what exactly are they?"
+<Page3>
+"Ah! You would ask that, wouldn't you?
+Of course you would wanna ask about that!"
+<Page4>
+"I get it, you're thinking ahead after taking down
+Vlov.# You're really getting into this, aren't you
+Shiki!"
+"H-Huh?"
+<Page5>
+I guess she was hoping I'd ask her about this.
+She's so excited to get into it that I'm actually
+starting to get a little worried.
+<Page6>
+"I've said this before, but the Twenty-Seven Ancestors
+represent the pinnacle of the Dead Apostles. You can
+think of them as kings.
+But in order to talk about the Ancestors, we need to
+lay some groundwork first..."
+<Page7>
+"Ta-da!
+Without further ado, let's begin our Advanced Vampire
+studies course!"
+<Page8>
+With a whoosh, a whiteboard appears out of thin air.
+I'm already used to it at this point, so I'm not
+particularly surprised. I clap my hands in response.
+<Page9>
+"Applause? Is that what they call a round of applause?
+Geez, you've got such a bored look on your face, but at
+least that response showed some enthusiasm!"
+<Page10>
+No, this serious face is just a placeholder, I'm still
+grappling with how to react to all this.
+Arcueid's the one I'd like to see take things a bit
+more seriously.
+<Page11>
+"Humans that have turned into vampires are all
+classified as 'Dead Apostles', however, depending on
+their individual abilities and limitations, they're
+graded differently.
+We represent those grades with these Ranks here."
+<Page12>
+"I'm going to gloss over some details to keep it short.
+Everything up to Rank III are 'living corpses'.
+Ranks IV and V are nocturnal 'Nightkin'.
+And at last, we have Rank VI, a 'vampire' that is
+capable of creating their own community."
+<Page13>
+"Only those that manage to metamorphose all the way to
+Rank VI can become an independent, fully-fledged
+'bloodsucker'.
+They spawn offspring by sucking people's blood and
+corrupting them, eventually coming to stand at the head
+of a group they themselves created.
+However, they cannot create offspring higher than Rank
+VI. For regular vampires, their ascent up the ladder
+ends here."
+<Page14>
+"........."
+Vampires transfer their blood into humans, forcibly
+transforming them into their personal slaves.
+Gather together all the slaves they've produced this
+way and you get a vampire 'community'.
+<Page15>
+If they can't create any children more powerful than
+themselves, then surely that would imply that the
+hierarchy of vampires caps out here.
+However...
+<Page16>
+"But something originally sired them... So that means
+there must exist vampires that stand above regular Dead
+Apostles, right?"
+"Right. That's Rank IX, .
+There are twenty-seven of them, so we call them the
+ ."
+<Page17>
+"I'm jumping around a bit here, but Rank VII are
+  .
+This Rank consists of those from Rank VI who were
+recognized by the Ancestors and granted further
+abilities. They're in a completely different league to
+Rank VIs, even if they're called by the same name."
+<Page18>
+"Those who reach this Rank become a contaminant whose
+mere presence corrupts the land.
+These vampires are heretics that your average Executor
+wouldn't even stand a chance against―――
+Aristocrat vampires who are allowed to exercise their
+own will."
+"Huh? What do you mean by 'their own will'?"
+<Page19>
+"It means that they are no longer slaves.
+Greater Dead Apostles do not necessarily show absolute
+obedience toward the Ancestor that sired them. They can
+even oppose them if they wish."
+<Page20>
+"Not only that; if given the opportunity, Greater Dead
+Apostles can overthrow their parent Ancestor and
+inherit their curse.
+That said, them taking down an Ancestor is practically
+impossible. Even if Greater Dead Apostles have acquired
+the same 'freedoms', Ancestors have lived far longer;
+they have a hard time surpassing their Lifescale."
+<Page21>
+"And so, for those trying to take over as an Ancestor
+we have Rank VIII: .
+Talented vampires that have been recognized by an
+Ancestor as a worthy heir.
+A prince or princess, so to speak.
+There are also some Ancestors who get smitten with a
+non-vampiric being, and promote them all the way to
+this Rank on the spot."
+<Page22>
+"A princess...# in other words, someone like you?"
+I'm pretty sure I remember Arcueid mentioning she was
+royalty.
+<Page23>
+"Hmm, maybe somewhere among them there is a Dead
+Apostle created with attributes resembling mine."
+<Page24>
+"If we assume there are at least two Rank VIIIs per
+Ancestor, then that means there's more than fifty of
+them out there. There's a good chance at least one of
+them is the result of an Ancestor attempting something
+like that.
+That said, I am fundamentally different to them, so no
+matter how hard they try, the best they'll ever manage
+is a pale imitation."
+<Page25>
+"But I won't deny that Rank VIII vampires are extremely
+powerful.
+How to put it. Just in terms of how much they've
+accumulated, they stand head and shoulders above Vlov."
+"――――――"
+They're even worse than Vlov...?
+And there's over fifty of these monsters...?
+<Page26>
+"Aha, I knew it.
+Did the desire to kill whip your blood into a frenzy,
+Mr. Murderer?"
+"Far from it. This is what we refer to as being
+petrified with fear, Ms. Vampire."
+<Page27>
+I respond in the way a human should.
+I may have decided to help her out, but this is
+something I have to emphasize: there are some things
+that humans simply cannot do.
+<Page28>
+"So we've finally reached the topic at hand, Rank IX.
+These Twenty-Seven Ancestors represent the apex of the
+Dead Apostles, right?"
+<Page29>
+"Correct. They're ancient Dead Apostles who once broke
+free from their role as emergency food, winning their
+independence, and establishing themselves as completely
+different beings.
+Crimson stains that dripped from the moon and fell upon
+the earth.
+They are extreme contaminants, each in possession of a
+world that will forever be at odds with any other.
+Beings that give birth to Rank VI Dead Apostles, and
+consume humans like you to top up their unnaturally
+long lifespans."
+<Page30>
+"They are also the ones who laid the foundations for
+vampiric society as we know it today.
+They each vary in the extent of their Lifescale,
+but those who were active before the Common Era are the
+ ,
+and those who came after are the  ."
+<Page31>
+"Going back to Vlov as an example, over the span of the
+past hundred years he went from a Rank VI to Rank IX...
+He killed his parent Ancestor, and took their place as
+a new young blood Ancestor."
+<Page32>
+From a vampire's perspective, Vlov was a Dead Apostle
+that had only recently become an Ancestor.
+Arcueid explains to me that this is why he openly
+showed himself in the city, and caused such carnage
+with no regard for tradition or appearances.
+<Page33>
+That's great and all, but I'm not really concerned
+about the rules vampires are supposed to follow.
+What I really want to know more about are those strange
+abilities of his.
+The curse that made his presence alone enough to
+smother the world around him in a bitter chill.
+The flames he spread just so he could bear that same
+cold.
+That's not the sort of power that anything with human
+form should be able to obtain.
+<Page34>
+"I don't get it...
+Regardless of their lifespan, Dead Apostles are still
+nothing more than an extension of humanity, right? And
+I mean, no matter how long-lived, a human wouldn't be
+able to pull off stuff like that.
+There's something more to these Ancestors, isn't
+there?"
+<Page35>
+"Yeah. In fact, the number of years you've lived has
+absolutely no bearing on whether you become an
+Ancestor.
+What makes an Ancestor an Ancestor is the character of
+their blood."
+<Page36>
+"The foundational sanctions engraved onto their souls;
+The truths they have each been crowned;
+ The worldviews that underpin their thirst;
+The singularities that paint over the planet's physical
+laws just by circulating their blood.
+The  ――― ."
+<Page37>
+"Idea Blood―――"
+That's it.
+That's what the bottomless 'rift' I saw nestled at that
+man's core must have been.
+<Page38>
+"Well, put simply it's a 'crown'.
+Dead Apostles who inherit this blood ascend to Ancestor
+status, regardless of the Rank they held before.
+That said, a millennium-class base is required in order
+to operate the Hemonomic Principle. So even if some
+random Dead Apostle that had only been active for a few
+hundred years inherited it, they'd be crushed by its
+curse."
+"You mean like Vlov?"
+<Page39>
+"Sure, but... now that I think back on it, that guy
+looked like he was able to withstand it pretty well.
+He was only Rank VI as far as Dead Apostles go, so I
+wonder how exactly he managed to maintain his sense of
+self so well..."
+<Page40>
+"Well, I get the picture that they're not a group of
+people you want to mess with.
+But by some stroke of bad luck, one showed up in our
+city, and we dealt with them.
+I'm not sure I want to hear the answer to this, but...
+Is that something that will have angered the other
+Ancestors?"
+<Page41>
+"Ah, you don't have to worry about that. The
+Twenty-Seven Ancestors are mostly at odds with one
+another.
+There isn't a single Ancestor that would lose sleep
+over Vlov disappearing on some faraway island."
+<Page42>
+"So there won't be any retaliation from them, right?"
+"Nope. Only a handful of them are in league with one
+another.
+We'll be fine so long as we don't mess with the five
+old bloods of the    .
+That said, it's not as though each and every one of
+them has it out for humans, and a number of Ancestors
+have already been defeated."
+<Page43>
+"'The Twenty-Seven Ancestors' indicates the way they
+are, rather than their number. In reality there are,
+um... twenty-one Ancestors left, I think?
+There's the Principle Vlov inherited from Offenbaum,
+the Principle of 'Ripening', the Principle of 'Castle,#
+thence Kingdom',
+the Principle of 'Sword',
+and two that were sealed by the Church: the Principle
+of 'Melting',
+and the Principle of 'Four Limbs'..."
+<Page44>
+"These are the ones that have been lost over the past
+three thousand years.
+The Church takes centuries to prepare and carry out the
+sealing of even just a single Ancestor, yet despite
+that, they've only pulled it off twice.
+So? Are you starting to understand how amazing it is
+that you managed to defeat Vlov?"
+<Page45>
+"Well... most of it was thanks to you.
+And amazing or not, my main takeaway is that I never
+want to do something like that again."
+"You can rest easy there. There aren't any of the
+Twenty-Seven Ancestors left in this country."
+<Page46>
+That's good to hear.
+We'd really be in trouble if the sort of monster that
+can overturn a plan hundreds of years in the making
+were to blithely show up now.
+If they did, I guess we'd be better off calling in the
+Self-Defense Force.

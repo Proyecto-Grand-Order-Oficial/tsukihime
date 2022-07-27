@@ -1,0 +1,508 @@
+<Page1>
+We've returned to the park.
+Arcueid must have recuperated while we walked, as she's
+now back to her usual self.
+<Page2>
+"Talk about a speedy recovery... There's no chance all
+that really was just because you let your guard down
+and got wounded, right?"
+"Huh...? No, I was telling the truth when I said that I
+was still recovering."
+<Page3>
+"...You told me the truth, hmm?
+Yet haven't you also told me lies?"
+". What's with that tone? You're being extremely
+unpleasant, you know."
+<Page4>
+"Only because you've been acting so damn suspicious.
+If you have a problem with it, then start by explaining
+what happened back there.
+I think I get the big picture, but how did you end up
+in so much pain?"
+<Page5>
+"......
+Well then! Without further ado, allow me to explain
+what I was up to, as requested!"
+<Page6>
+"........."
+What a brazen way to change the subject...
+Well, this is what I really wanted to know about
+anyway.
+I'll circle back on her physical condition later.
+<Page7>
+"Alright, let me confirm something first.
+That guy from earlier, he was one of those Dead that
+act as a vampire's worker drones, wasn't he?
+Which means the one controlling him is your real enemy,
+correct?"
+"Oh my. You're rather quick on the uptake today,
+Shiki."
+<Page8>
+"Why thank you. Even I can put two and two together
+after all. I think I have a pretty good handle on what
+was going on earlier."
+<Page9>
+"Yeah. Marvelous. Splendid.
+It seems the only cute misunderstanding of yours was
+about Vlov."
+"Don't call it cute... And cut me some slack, alright.
+At the time, I had my hands full just dealing with my
+own problems."
+<Page10>
+"Hmm. You had your hands full with your own problems,
+huh.
+Well, let's just leave it at that."
+<Page11>
+Seemingly amused, Arcueid twirls around and peers at my
+face... It makes me a little uncomfortable.
+<Page12>
+"That's enough, now talk... That man from earlier, he
+was already long dead, wasn't he?"
+<Page13>
+"That's right. He was an underling belonging to that
+guy, so I disposed of him.
+He was just a low-rank Dead, but if I left him alone
+he'd end up killing humans and accumulate power.
+Shiki, do you remember the conversation we had about
+vampires back at the hotel?"
+<Page14>
+Of course, I nod back.
+...The ecology of vampires.
+Suzerains and how they make use of their minions...
+<Page15>
+Those vampires grow their clans by hunting humans,
+killing them, and then turning them into underlings
+known as the Dead. That done, they conceal themselves
+and leave the work of collecting blood to their
+underlings.
+I remember Arcueid referring to them as 'Suzerains', or
+the 'traditional type'.
+Vampires that fit the stereotype of being immortal and
+weak to sunlight.
+<Page16>
+"You've already taught me a bit about them.
+...So, this vampire you're going after now, you're
+certain they're the one behind the serial killings?"
+<Page17>
+"Yeah, I'm sure of it.
+Even if he was only directly involved in the first one,
+all the subsequent murders committed by his Dead can
+still be ascribed to him.
+That's why―――"
+<Page18>
+"That's why you were wandering the city like that, you
+were searching for these underlings.
+Are you able to locate the sire just by doing that...?"
+<Page19>
+"If the underlings have a strong enough bond with their
+'sire', then yes. They've been nothing but duds so far
+though.
+His coffin... The only reason I haven't been able to
+find his hiding place is because of how many Dead he's
+using."
+<Page20>
+"That guy only had to dirty his hands a couple of
+times. After that, all he had to do was puppet the
+people he's turned into Dead and he can expand his
+territory while he sleeps.
+There have already been over a hundred victims in this
+city.
+The victims that you people are fussing over are only a
+small fraction of those that are actually missing."
+<Page21>
+"――――"
+...Yet again, I hear something that makes my blood run
+cold.
+Two days ago, I thought Vlov was the one responsible.
+Because of that, I channeled this feeling toward the
+sole aim of killing him. In doing so, I was able to
+maintain my spiritual equilibrium.
+<Page22>
+But I no longer can.
+This tragedy is still ongoing.
+Over a hundred victims. Over a hundred people attacked,
+drained of their blood, and finally killed by those
+things that were once their fellow humans.
+<Page23>
+Those victims that have their blood sucked then become
+new monsters in turn. Ambulant corpses, just like that
+mass of lines from earlier, that go on to prowl the
+city―――
+<Page24>
+Three days ago.
+I remember all the people staying at the hotel whose
+lives were extinguished.
+Even though I was there, I didn't witness that scene
+unfold in its entirety.
+As a result, I could only imagine it in words, I
+couldn't viscerally feel the extent of the horrifying
+violence that had taken place.
+<Page25>
+The same is true now.
+Even though I've just been told a vampire that sucks
+the blood of humans is slowly expanding their dominion
+in this city, it's not enough to provoke any emotions
+in me.
+<Page26>
+―――However.
+What if―――without meaning, and without
+warning―――someone close to me was killed like
+that... How would I feel then?
+<Page27>
+...I imagine it for only a single moment, realizing the
+immorality behind such a thought.
+I picture Akiha's body, sucked of its blood and
+discarded like so much garbage.
+<Page28>
+"―――――――――"
+The feeling of vertigo, as though my brain were being
+slowly whittled away, gives way to exhaustion.
+My heart, which ought to have been burning with
+indignation, is strangely calm.
+<Page29>
+I tell myself that now is the time to think, not to
+tremble.
+I'm cognizant of the fact that under these
+circumstances, such an event could still happen at any
+time.
+I can beat myself up over my stupidity for not
+realizing we're still in danger some other time.
+<Page30>
+"I was afraid you'd get angry like this, Shiki.
+That's why I didn't want to tell you... It isn't
+something that the hunted―――that humans can do
+anything about.
+I'm sure that in your eyes, the behavior of vampires is
+unacceptable."
+<Page31>
+Of course it is. I couldn't define for you the border
+between good and evil, or right and wrong.
+But even so, I can say with certainty that I feel this
+is something I cannot abide.
+<Page32>
+Even people whose faces I don't know have lived their
+lives and accumulated a past. And in proportion to that
+past, they each still have some amount of future
+remaining to them.
+Even if that future has nothing to do with me, or is
+something I can't even begin to comprehend, I can't
+cast it aside so easily.
+<Page33>
+...I wouldn't want to be killed for sport like that
+either.
+Such a death would be far too frustrating. Such a death
+would be far too lamentable.
+Such a death―――would be far, far too meaningless.
+<Page34>
+"But you don't have to worry, Shiki.
+It doesn't seem like vampires have any natural enemies
+in this country, but luckily for you, I'm here now.
+I mentioned this before, didn't I? My objective is to
+exterminate the vampire that's invading this city."
+<Page35>
+I don't know what happened to her dispassionate
+demeanor from earlier, but Arcueid has done a complete
+180 and is now quite chipper.
+I have to say, her words are reassuring.
+I'm aware of how amazing she is, and the lengths she'll
+go to in order to protect human life.
+She defended the city against Vlov's cold waves with no
+regard for her own safety.
+<Page36>
+...But there's something that just doesn't make sense
+to me about that.
+Right up until we fought Vlov, I harbored doubts about
+her, as any human would.
+<Page37>
+"...I don't get it.
+You're a vampire yourself, aren't you? Why are you
+acting like some sort of ally of humanity?"
+<Page38>
+"It's not like I'm trying to side with humans or
+anything.
+I'm just doing it because I have nothing better to do."
+"Huh?"
+She has... nothing better to do...?
+<Page39>
+"Well, some people do have it out for me as a result
+though. I guess that's―――what do you call
+it―――the cost of doing business?"
+"...No. I haven't the faintest idea what you're trying
+to say, but I'm pretty sure that's not the phrase
+you're looking for."
+<Page40>
+"Now, now, don't sweat the small stuff.
+Despite the fact that a lot of people hate me and are
+out to get me, you still helped me take down Vlov,
+right? With him gone, there's nothing left to get in my
+way."
+<Page41>
+"All that's left now is to find the 'enemy' hiding in
+this city, and then I should have no trouble disposing
+of them one way or another.
+You can just go back to your ordinary life now, there's
+no longer any reason for you to be mixed up in all
+this."
+<Page42>
+"Ah―――yeah. That's great, but―――"
+But―――are you really going to be okay on your own?
+Those words surface in my mind, but I shake my head to
+drive them off.
+<Page43>
+...What's wrong with me?
+Why do I feel so guilty about making her take on such a
+dangerous task alone?
+<Page44>
+"........."
+"Shiki? What's wrong, why are you making such a serious
+face again?
+That answers your question, doesn't it? I don't think
+there's anything left to discuss."
+<Page45>
+...You're wrong. There are still a ton of things I want
+to ask you, but more importantly―――
+<Page46>
+"...You idiot, of course I'm making a serious face.
+This is a situation that impacts the city we live in."
+<Page47>
+"Like I said, you don't have to worry about it.
+From now on, I'll be patrolling the city every day,
+keeping an eye out to make sure that there aren't any
+more victims.
+Or are you saying that you don't have any faith in my
+abilities?"
+<Page48>
+I'll admit that I don't really want to get involved.
+But those words...
+I'm the one who lives here, so I should be the one
+stepping up to say that I'll protect the city, not
+Arcueid―――
+<Page49>
+"...Arcueid. Um... is this 'enemy' of yours strong?
+Stronger than someone like Vlov?"
+"No way. Despite his appearance, Vlov was still a
+member of the Ancestors.
+Compared to him, the vampire lurking in this city is of
+a much lower purity."
+"I see. Then he shouldn't pose much of a threat to you,
+right?"
+<Page50>
+"I can't say for sure. If we were talking about me from
+a couple of days ago, it'd be no problem, but right now
+I'm still recuperating. There's a high chance that the
+enemy is now more powerful than me."
+.........
+<Page51>
+Wait, hold up, I was just nodding along without really
+listening.
+Arcueid is... recuperating...?
+<Page52>
+"Back up. Did you catch a cold or something?!
+Scratch that, can vampires even catch colds?!"
+<Page53>
+"Of course, I caught a bad case of homicidal maniac
+myself.
+I believe it's caused by a malignant virus called
+'Tohno Shiki', does that name ring any bells?"
+"Ah―――well, that is, um... sorry."
+I just stirred up a hornet's nest.
+<Page54>
+"I'm kidding. The wounds you gave me have already
+healed. Though, despite that I still get tired if I end
+up having to use more energy than I bargained for.
+What hurts are the wounds I got from Vlov. Those are
+still in the process of closing up."
+<Page55>
+Arcueid gently caresses her abdomen.
+―――That wound too.
+A needless injury she sustained because she was
+protecting me.
+<Page56>
+"―――――"
+I'm speechless.
+I'm the root cause of everything that's ailing Arcueid.
+So how...
+How can she continue to smile so unguardedly at me,
+without so much as a trace of reproach―――
+<Page57>
+"...That's enough. You should find somewhere to rest
+for a bit, at least until your wounds have healed. It's
+not as though taking a day or two off is going to make
+much of a difference at this point, right?"
+<Page58>
+"I can't do that. Thanks to our fight with Vlov, it's
+extremely likely the enemy has caught wind that I'm
+here. If I were to take a break now, it would only
+serve to let them know that I'm weak."
+<Page59>
+"...I guess, but do you really plan on keeping this up,
+night after night?"
+"Yeah. Since I don't know where he's hiding, all I can
+do is pick off and destroy the Dead that are sending
+him blood, one by one.
+Once I've cut off his supply of blood, he'll be forced
+to come out into the open in order to replenish it
+himself."
+<Page60>
+"But what would you do if that were to happen
+tomorrow?!
+Even if you hide the fact that you're weak right now,
+with your body in that state you're just going to get
+yourself killed...! That's why―――"
+<Page61>
+I start to beg her not to push herself, but trail off
+and look down at the ground.
+It's just as Arcueid said――If she were to reveal how
+weak she is, then the enemy would likely take the
+opportunity to go in for the kill.
+<Page62>
+And above all, I realized something during those two
+days.
+When it comes to battle, Arcueid is strictly
+no-nonsense.
+She doesn't fight with an eye toward minimizing her own
+injuries. The sole focus of her strategy is ensuring
+that her opponent is defeated.
+Arcueid prioritizes achieving her goal above all else.
+She isn't about to let herself be talked out of it.
+<Page63>
+"――――"
+Arcueid will not stop.
+But if I let her go, I won't be able to talk to her
+like this anymore.
+This girl is so unafraid of her own death that it's
+enough to drive me mad.
+<Page64>
+...So then why do I find myself picturing her smile?
+If only I hadn't seen that face―――If only she acted
+more like a vampire, then maybe I never would have
+developed these feelings.
+<Page65>
+"What's wrong, Shiki?
+Your body is shaking. Do you need to go to the toilet?"
+"Arcueid, you... how can you―――"
+How can she be so unreasonably calm about all this?
+<Page66>
+...I raise my head.
+<Page67>
+"Hm?"
+Before my eyes stands the figure of a woman in white.
+<Page68>
+...I can't pretend she never existed.
+I don't understand what this emotion is.
+All I know is that the two days I spent with Arcueid
+are something I'll never forget.
+<Page69>
+That's why―――The idea of parting ways with her here
+and now, and then spending tomorrow night wondering
+whether she's alive or dead, then the next night, and
+the next... Forever regretting my decision and kicking
+myself for being such a fool―――It would be
+unbearable.
+<Page70>
+"...Give me a break. I've already got two messed up
+eyes, and now it seems like there's something wrong
+with my head..."
+<Page71>
+I've already had my fill of vampires.
+I recall the fight against Vlov. The fear I felt back
+then while skirting the precipice of death is so burned
+into my mind that simply thinking back on it sends a
+shiver down my spine.
+<Page72>
+This time will be no different. He's no ordinary
+opponent. There's absolutely no need for me to get
+involved.
+Arcueid said she'd take care of it, so I should just
+leave it to her.
+<Page73>
+And yet...
+Even though that reasoning makes total sense to me...
+...I still can't allow her to go alone―――
+<Page74>
+"Ah geez, there must be something seriously wrong with
+me!"
+I kick the ground.
+Whatever logic I come up with, however I try to
+persuade myself, it's useless. I'm furious at my own
+stubbornness.
+<Page75>
+"H-Huh? What's wrong Shiki? Why are you angry all of a
+sudden?"
+"Of course I'm angry! Even after all I've been through,
+I still can't stop myself from uttering such nonsense!"
+I start to feel even dizzier after saying that.
+If I saw my idiotic self in the mirror right now, I
+would smash it without a second thought!
+<Page76>
+"C-Calm down. You're not acting normal."
+"You're right, I'm not! If I were acting normally,
+there's no way that I'd be able to say something like
+this...!"
+<Page77>
+Cursing, I scratch my head in annoyance.
+I don't want to admit it, but I've already made up my
+mind.
+Heck, I even went and said it out loud just then.
+<Page78>
+"Geez, I don't understand you at all!
+Explain yourself! You've been going on about this and
+that for a while, but what are you trying to say?!"
+<Page79>
+"Here's what I want to say:# until your body gets
+better, I'm going to help you out!"
+"―――Huh?"
+<Page80>
+Arcueid stares back at me, dumbfounded.
+As for me, I finally―――or perhaps, I barely―――or
+rather...
+Enough of that. I told her exactly what I wanted to
+say, and have calmed down at last.
+<Page81>
+"Shiki. Do you really mean that?"
+"......"
+, I groan.
+I still can't even believe it myself.
+<Page82>
+"I think I might have missed what you said.
+I'm sorry, but could you repeat that one more time?"
+"........."
+, I groan even louder.
+<Page83>
+But it's too late to regret it now.
+The moment I uttered those words, I lost every right I
+had to lie to myself.
+<Page84>
+"Come on. I want to hear that line just one more time."
+<Page85>
+Arcueid's coaxing voice is little more than a whisper.
+Averting my gaze from her efflorescent smile, I do my
+best to try and speak in an irritated voice.
+<Page86>
+"...Like I said. I'm the one responsible for the fact
+that you're weak right now, and I can't just let these
+monsters run rampant in the city.
+I just can't let you take this on by yourself, not in
+the state you're in. I want to help you... if you'll
+let me."
+<Page87>
+"Shiki――――!"
+Arcueid's eyes light up.
+She grabs my hand and shakes it up and down with glee.
+<Page88>
+"...Well, I don't think I'll be of much help, but it
+should be better than nothing."
+"Yeah! If I have you around, there's nothing to be
+afraid of!"
+<Page89>
+. . . Arcueid still hasn't let go of my
+hand.
+I'm afraid that sooner or later her brute strength will
+tear my hand clean off, but even so, I have no desire
+to stop her.
+...How do I put this.
+She really was smiling so exuberantly.
+<Page90>
+That was enough―――I felt, with some small amount of
+pride, that my foolish decision wasn't a mistake after
+all.

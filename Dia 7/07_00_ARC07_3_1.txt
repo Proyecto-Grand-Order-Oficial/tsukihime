@@ -1,0 +1,48 @@
+<Page1>
+I'll talk with Arcueid a little longer.
+Even though I've decided to help exterminate the
+vampire, there are still many things I don't know.
+<Page2>
+"No, my nausea hasn't subsided, so I'll stick around
+until I'm feeling better. I've got some questions for
+you as well, since we're here.
+Patrolling the city may be off the table, but just
+talking should be no problem, right?"
+<Page3>
+"R-Really? I'm up for it, but are you sure?
+Don't humans usually get sleepy at this time of night?"
+"It's no big deal. I've never been much good at
+sleeping anyway."
+<Page4>
+"Not good at it... as in insomnia?"
+"No, I can get to sleep just fine. I simply don't like
+doing it."
+"Hmm. You don't get any dreams?"
+<Page5>
+Dreams...?
+...No.# I don't concern myself with such vagaries#.
+<Page6>
+"Anyway, I'll keep you company until midnight.
+Although I can leave if you're getting tired of all the
+talking."
+<Page7>
+"No, I'm not tired at all!
+On the contrary, I'm raring to go!"
+<Page8>
+"...I-I see. I respect your enthusiasm, but please
+don't get carried away and start roughhousing. No
+punching the ground or anything like that."
+<Page9>
+"I wouldn't do something as pointless as that.
+Geez, what kind of person do you take me for?! Are you
+misunderstanding something again?!"
+"Don't worry, I know exactly what to take you for. A
+vampire who goes too far and doesn't know how to hold
+back."
+<Page10>
+Now then, without further ado, I should throw some
+questions her way.
+What I want to ask her about is―――
+C:> ...More details regarding vampires.
+C:> ...What are the Twenty-Seven Ancestors?
+C:> ...Those clothes she wore when fighting Vlov.

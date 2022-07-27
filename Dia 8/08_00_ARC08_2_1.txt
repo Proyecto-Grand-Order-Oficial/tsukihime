@@ -1,0 +1,107 @@
+<Page1>
+...I should find out more about their intentions.
+I can't deal with them effectively if I don't even know
+what it is they're after.
+<Page2>
+"If you're okay with talking to me, then I'll hear you
+out at least...
+What do you want?"
+<Page3>
+"Well, it's about the fire at the north gate.
+The security firm that was on the scene both the day of
+the incident and the day after, they're one of your
+family's subsidiaries, right? I was hoping to talk to
+the person that was in charge on the day, but
+unfortunately for me, they've already withdrawn. Do you
+have their contact info by any chance?"
+"―――Oh, is that so? I'm afraid I wasn't aware of
+that.
+So, unfortunately, I don't think I can help."
+<Page4>
+"Really? You're the eldest son and you don't know? Well
+that sucks. I guess your little sister's the one who
+holds all the power, huh?"
+"What is it you want to ask them about...? Are you
+implying that the Tohno group was responsible for that
+fire? I find that a bit preposterous myself."
+<Page5>
+"Hmm? That's not my intent at all, no sir. It was
+spontaneous combustion, pure and simple.
+The issue lies a little elsewhere, uh... Well, you're
+one of the family members, so I can probably let you in
+on it. I'm sure you already know anyway."
+<Page6>
+"So yesterday, we found something under the rubble from
+that cave-in that was rather unpleasant... The
+forensics team couldn't make heads or tails of it. Now,
+that land belongs to the Tohno family, no?"
+<Page7>
+"According to the records, around ten years ago, Tohno
+Makihisa bought that land, and paid well over market
+value for it.
+That's the part that I wanted to ask about. Why did he
+buy a prime piece of real estate in front of the
+station and turn it into something like a park?"
+<Page8>
+"I haven't got a clue. Makihisa has passed away after
+all.
+Is that all you wanted to ask?"
+"Huh? Wait, are you not going to forward my message to
+your sister? I told you who I am and what I'm looking
+for, right?"
+<Page9>
+"Unfortunately, my sister is a very busy person.
+I'm going to have to ask you to leave. If you wish to
+speak with her, then I suggest you arrange to do so
+through the proper channels."
+<Page10>
+I turn my back and begin to follow the road down the
+hill.
+I know what they're after now...
+I don't fully understand the situation, but I'm not
+about to let those shady detectives meet with Akiha.
+<Page11>
+"'Ey."
+The high-pitched voice brings me to a halt.
+If it had been Detective Andou's then I would have
+simply ignored it, but that boy's voice commanded such
+authority that I found it strangely difficult to
+oppose.
+<Page12>
+"Playin' hero and all's fine, but know your fuckin'
+place. If you want your death to be an ordinary human
+one, now's the time to quit."
+"What did you say...?"
+I stop in my tracks and stare at the young boy.
+Did this guy say 'ordinary human death' just now...?
+<Page13>
+"...What are you trying to say?"
+"Said all I wanted just now, dumbass. If ya don't wanna
+listen to it, then go die for all I care.
+'Ey, we're leavin', Andou. Let's get eatin' already,
+goddamn. Get me some cake, alright? Cake that's got
+tons of cheese and honey!"
+"Yeah, yeah, your wish is my command... Why did I come
+all the way to Japan just to babysit this spoiled rich
+kid..."
+<Page14>
+The strange duo get in a car that was parked by the
+side of the road, and head off in the direction of the
+station.
+<Page15>
+Those two didn't give off the impression of being
+police, but apparently the authorities are keeping an
+eye on our mansion... Not only that, but the land in
+front of the station where the incident occurred
+belongs to the Tohno family...?
+"No... that's just a coincidence."
+It must be, right?
+I mean, the cave-in only happened because of Arcueid's
+thoughtless way of doing things. There's no connection
+between the killings and the land in front of the north
+gate.
+<Page16>
+"........."
+I shoo away my foreboding thoughts.
+Pulling myself together, I begin the long descent down
+the hill.

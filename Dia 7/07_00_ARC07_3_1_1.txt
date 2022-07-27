@@ -1,0 +1,421 @@
+<Page1>
+I really ought to deepen my understanding of
+vampires...
+Vampire sires, and the Dead they keep as underlings.
+I'll ask her about their relationship in more detail.
+<Page2>
+"Hmm... That's a pretty mundane topic to pursue."
+"Well, sorry for starting with the basics. Weren't you
+the one that said everything follows from the
+fundamentals?"
+<Page3>
+"Wow, just what I'd expect from the  that
+constructed the pyramids with nothing but their human
+strength! So dependable and reliable.
+Alright then, tonight let's crack open our textbooks
+for Intermediate Vampire Studies and delve into the
+structure of vampire society!"
+<Page4>
+It's not a course that I particularly want to take,
+but... I was the one that signed myself up for it.
+I'll stay quiet and listen to what Arcueid-sensei has
+to say.
+<Page5>
+"I say that, but it would take way too long to explain
+their whole history. For now, I'll limit the scope to
+our current enemy: the Dead Apostles.
+The majority of Dead Apostles are traditional types,
+and so the way they reproduce... propagate is by
+sucking blood to increase their numbers.
+I don't need to explain this any further, right?"
+<Page6>
+"Yeah. The whole Suzerains and underlings thing, right?
+One leader commanding a large number of workers...
+something along those lines?"
+<Page7>
+"Yeah. Those workers come in different varieties as
+well.
+We touched on this before, but here are the Ranks."
+<Page8>
+"First we have Rank I, .
+These have no will of their own, and are merely puppets
+that follow their master's orders. If the master
+doesn't command them to do anything and leaves them as
+corpses, they will eventually die.
+Basically just cannon fodder. They are just beings that
+have had their blood sucked and replaced with that of
+the vampire. One of the type of creature we
+collectively refer to as the Dead."
+<Page9>
+"Next we have Rank II, .
+Although they have a will, they're incapable of
+deliberate thought. These Dead are able to emulate the
+appearance they had while they were still alive.
+The magical energy of their sire prevents them from
+decomposing entirely, but they're still falling apart
+on the inside.
+Since their brains are in the process of rotting away,
+they are ruled by their instincts; as a result, they
+are far more ferocious than the Rank I Dead. I guess
+you could call them the rank and file. Also a part of
+the Dead, by the way."
+<Page10>
+"Rank III, .
+From here on, we're dealing with creatures that could
+arguably be referred to as vampires.
+Living corpses, the Undead. Their cognitive abilities
+aren't what they once were, but they can still blend in
+with human society on their own.
+These are higher-ranking soldiers, whose brains have
+been completely reconstructed since their initial
+death. Sunlight doesn't faze them either. However,
+their true form can easily be exposed if they don't
+take pains to keep themselves properly embalmed.
+And that's all for the 'Dead' category."
+<Page11>
+I see...
+I guess there are grades even to these zombies... these
+'Dead'.
+So basically, the higher their rank, the more they
+develop from ordinary corpses, to ones that can take
+action.
+This has got me wondering...
+<Page12>
+"Not to go off on a tangent, but who was it that
+started calling these things 'Corpses' and 'Ghouls' and
+so on? Was it you?"
+<Page13>
+"Sorry to disappoint, but this terminology was the work
+of the Church. It's a handy set of terms, so people
+picked up on it, and eventually it became a de facto
+standard in the Magecraft world.
+The real question is,       
+  ... Well, it doesn't really
+matter."
+<Page14>
+"Next we have Rank IV, .
+These undead retain the personality they had when they
+were alive, and act as vampire apprentices.
+Their physical abilities far outstrip those of a human,
+but the price they pay for it is to suffer extreme
+chills and thirst. These are low-ranking knights,
+fledgling vampires if you will."
+<Page15>
+"If a vampire of Rank VI or above sucks the blood of
+their prey carefully, little by little... then that
+victim will start out as a Rank IV vampire. If a
+Nightkin is exposed to sunlight, they may become
+anemic, but it won't cause them to burn up.
+In the Magecraft world, this is the final Rank that
+people would still consider to be a 'person'."
+<Page16>
+"Vampire apprentices... so does that mean they're no
+longer classed as 'Dead'?"
+"Yeah. Vampires that reach Rank IV can survive even if
+they're separated from their sire. From the sire's
+point of view, they've gone from 'things' to 'living
+things', or something like that.
+Only about one in a thousand reach Rank IV."
+<Page17>
+"Next we have Rank V, .
+The vampiric curse runs so deep in their blood that on
+top of the capabilities of Rank IV vampires, they are
+also capable of manifesting an ability that is either
+inherited from their sire or intrinsic to the
+individual themselves.
+These are high-ranking knights: fully-fledged
+vampires."
+<Page18>
+"And finally, we have Rank VI,  .
+Completely independent 'bloodsuckers'. Through
+bloodsucking and corruption they can create offspring,
+though not ones higher than Rank VI.
+As an upstart, this is about as far you'll go. You
+could say that vampires of this rank are like a citadel
+unto themselves.
+The vampire lurking in this city belongs to this Rank.
+They're calamities that 'sire' offspring in the form of
+underlings, eating communities whole."
+<Page19>
+"That's all for the Dead Apostle class system. Anything
+else in particular you were wondering about?"
+"Which Rank would Vlov fall into?"
+"He would of course be Rank VI, a Dead Apostle.
+Technically, he managed to skip a few Ranks beyond that
+one, but that's a story for another time."
+<Page20>
+"Alright, one more question. This is the big one.
+You said that it was a class system, so who decides it?
+Or rather...  is it decided? If vampires propagate
+themselves by sucking blood, why are these all so
+different from one another?"
+<Page21>
+"Ah, that's a very astute observation.
+That's the greatest flaw of the Dead Apostles... or
+rather, what distinguishes them, I guess?
+Not everyone who has their blood sucked by a Dead
+Apostle is able to become a vampire, nor do Dead
+Apostles turn just anybody into a vampire."
+<Page22>
+"Spawning underlings and feeding are two different
+things.
+Humans who only have their blood sucked simply die
+without turning into vampires.
+But if the Dead Apostle instead transfers some of their
+own blood into the human, it will take control, and
+then kill them. Afterward, they are reborn as cursed
+vampires.
+These Ranks are a representation of the depth of their
+curse."
+<Page23>
+"So... that means that guy from earlier wasn't killed
+and then later resurrected...# his 'sire' killed him
+with the express intention of turning him into a
+vampire."
+<Page24>
+"Yeah. However, creating underlings isn't a walk in the
+park. It's not quite that easy for vampires to expand
+their clans.
+If it's just a Rank I Corpse they're after, they can
+forcibly turn people into their soldiers just by
+killing and then transferring their blood into them.
+But to increase the number of Rank II vampires and
+above, the victim's own talents# and aptitude become
+necessary."
+<Page25>
+"Aptitude...? Aptitude for what, exactly?"
+"Something like an immunity against bloodsuckers, I
+guess?"
+<Page26>
+"Most humans don't have this aptitude. As a result,
+once they've been injected with vampire blood, the
+vampire can use their own powers to control them. It's
+like a disease that keeps the human working for them
+even after death.
+But you could hardly call that a high-quality
+underling. Underlings that can't even fend for
+themselves would be a huge burden for the vampire sire.
+Having to personally tend to each of your workers every
+time you wanted to have them do something would be
+putting the cart before the horse, no?"
+<Page27>
+She's right.
+Vampires that have sired a bunch of Dead usually spend
+most of their time sleeping in their coffins.
+As I understand it, vampires that have been alive for a
+long time aren't very fuel efficient. As such, even if
+they don't take action very often and use up their
+blood, they still need their servants to collect it for
+them.
+ So it would go against that purpose if they needed to
+expend their own energy on those underlings.
+<Page28>
+"Humans who do possess that aptitude can fend off the
+vampiric curse.
+Past that, it's just a question if they can survive.
+Whether they lose to the vampire blood and perish, or
+overcome it and are reborn.
+The corpses that are being found in this city are
+humans who had that aptitude, but ultimately succumbed.
+The end result is simply a corpse of someone that has
+been 'killed', abandoned in the street. Since the Dead
+can move around on their own after they've been killed,
+the only bodies that would remain to be found are those
+of people that couldn't turn into them, right?"
+<Page29>
+"I see... If you turned into one of those zombies, then
+you wouldn't leave a corpse behind."
+"Exactly. The victims you see highlighted on the news
+are actually the exceptions, not the norm. They had
+enough aptitude to catch the attention of the vampire,
+but ultimately passed away as humans."
+<Page30>
+"Around one in a hundred people possesses this
+aptitude. Of those, only the ones that can adapt to and
+withstand the foreign substance that has entered them
+are able to become a Rank IV vampire or higher.
+People often say that vampires are like a pyramid
+scheme in this regard, but it's not like they can turn
+just anyone into their kin by transferring their blood.
+In fact, as times change, the number of beings that can
+truly be called 'vampires' is dwindling."
+<Page31>
+"........."
+Arcueid said that it isn't so easy for them to grow
+their clans.
+For vampires, 'minions' and 'offspring' are two
+different things.
+The Dead that Arcueid took down earlier was nothing
+more than a 'minion', only capable of basic tasks.
+<Page32>
+"So, does that mean the man from earlier had already
+been killed long ago, and was following the vampire's
+orders without any sort of awareness of what he was
+doing?"
+<Page33>
+"Whether they're aware or not would depend on their
+Rank.
+Rank Is are nothing more than automatons, but Rank IIIs
+still have functioning brains. They are able to
+comprehend what kind of creature they've become, yet
+continue to serve. They make the conscious choice to
+kill humans, and send the blood to their vampire sire."
+<Page34>
+"Wait... that can't be right.
+These are people that were killed out of nowhere and
+then woke up to find that they'd been turned into
+moving corpses. They've obviously been forced into
+doing this against their will."
+<Page35>
+"I've run into Dead like that before... ones that
+begged for their life with excuses along those lines.
+'I'll be killed if I disobey.'
+'I was only doing what I was told.'
+In other words, they kill other humans because they
+don't want to die. How is that any different from
+killing of your own free will?"
+<Page36>
+"――――――Well, that's..."
+"Dead that are still lucid will say their hands were
+tied, that they had no choice in the matter.
+But they still had the option to go against their
+master and die. Despite this, they chose to kill
+humans. That sure reads to me like they're killing
+their former kin of their own volition."
+<Page37>
+"Well, not that it matters to me either way. I'm simply
+out to kill anyone that's connected with the Dead
+Apostles."
+<Page38>
+"........."
+I'm speechless...
+What Arcueid said was correct. It makes complete sense.
+But the logic behind it is that of a vampire... of a
+powerful being.
+We humans do not live our lives so correctly, nor do we
+live our lives so simply.
+<Page39>
+"And there's one more thing I need to clear up. The
+underlings  defy their sire.
+The vampires we call Dead Apostles grant their
+underlings free will. It's as if they are inviting
+those underlings to turn against them, to challenge
+them. Vlov is a perfect example of this: a vampire who
+killed his sire and in doing so became a Dead Apostle."
+<Page40>
+"Listen, I need you to remember this, Shiki.
+The vampires classified as Dead Apostles... they
+actually love humans.
+No, it's more like they love the things that humanity
+embodies. That's why they can be as cruel as they like.
+You humans are the primary... no, the sole creatures on
+this planet capable of extinguishing life   
+    ."
+<Page41>
+'The things that humanity embody'... Like intelligence
+and emotions?
+Arcueid said something earlier.
+That humans cannot comprehend the death of inorganic
+matter.
+In the same way, rocks and animals cannot comprehend
+the death of humans.
+The death of another's emotions... their psychological
+suffering... these are things only humans can take
+pleasure in.
+<Page42>
+"Are you telling me they're left with this freedom just
+so they can suffer?
+I don't get it... Why would a vampire do something like
+that? That's just so meaningless, so sickening."
+<Page43>
+"I guess so. I won't deny that vampires are quite
+sickening.
+But this behavior is limited to Dead Apostles. Those
+who were bloodsuckers from the start would never do
+something like this."
+"Hmm?"
+Those who were vampires from the start...?
+<Page44>
+"That's right... you mentioned that there are two types
+of vampires, didn't you?
+Those that started off as vampires, and those that were
+once human but became vampires.
+So... by 'those that were once human' you mean the Dead
+Apostles, right?"
+<Page45>
+"Yeah... more or less.
+There are some who became immortal as a result of
+Magecraft, while others had their blood sucked by a
+True Ancestor and became their underlings."
+<Page46>
+"Shiki... you said that it was sickening for that man
+we killed earlier to be used like that, but there are
+far worse fates out there. There are those among the
+Dead Apostles with even more unimaginable ways of
+amusing themselves."
+"Amusement―――Are you saying that they kill humans
+and turn them into playthings just to amuse
+themselves...?"
+<Page47>
+"I won't deny it...
+For Dead Apostles, entertainment is as important as
+breathing.
+While they were once short-lived humans, as they've
+come close to immortality, imperfect as it may be,
+their greatest foe has become boredom.
+Unlike us, they became immortal with no clear goal in
+mind. The moment they attained that immortality, they
+lost all of their material wants.
+Since their goal was immortality in and of itself, I
+suppose it was a foregone conclusion."
+<Page48>
+"What the hell... Playing around just because they're
+bored, don't give me that crap.
+Besides, if you don't have to worry about dying from
+old age, shouldn't that be more than enough? What kind
+of entertainment could they really need?"
+<Page49>
+"That's the thing―――unfortunately for them, it 
+more than enough.
+But because of that, their lives end up having no
+meaning at all.
+Intelligent beings that recognize the pointlessness and
+stagnation of their own lives lose all point to their
+existence."
+<Page50>
+"Being gradually worn down scares them so much that
+they start to devise their own amusement. It's as if
+they're trying to affirm to themselves that they're
+still alive, that there are still things they can
+enjoy. Such is the origin of the aristocracy."
+<Page51>
+"They came up with their own little game, mimicking
+humans by building empires of Suzerains and expanding
+their influence#.
+A pithy name for it might be the Kingdom of the Dead. I
+would never have guessed it, but they seem to find it
+quite engrossing."
+<Page52>
+"I've said this before, haven't I? That they like to
+pretend to be human.
+In order to amuse themselves, Dead Apostles distribute
+their own blood to the humans they fed on and killed.
+One in ten thousand corpses will survive against the
+odds, mature, and eventually kill their own parent and
+become a new Dead Apostle."
+<Page53>
+"Through their military exploits, the knight becomes a
+ruler.
+From there, they strive to someday dethrone the
+king―――Without engaging in such games, they wouldn't
+be able to go on living.
+I suppose that's how delicate the lives of the
+diabolical are.
+Even assuming that you were immortal, if your life has
+no meaning, then you're no different than the air."
+<Page54>
+Arcueid shrugs her shoulders, as if to dismiss it all
+as ridiculous.
+By all rights, she ought to be no different from the
+vampires she's described, but there's no sign that she
+shares such tastes.
