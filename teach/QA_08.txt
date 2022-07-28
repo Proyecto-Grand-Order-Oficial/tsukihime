@@ -1,0 +1,71 @@
+<Page1>
+Why do birds sing?
+#Why do shrimp leap?
+<Page2>
+Why did the protagonist break into a locked room?
+<Page3>
+The intellectual program that tackles the countless
+mysteries of human history head-on,
+#'Teach Me, Ciel-Sensei!'―――
+<Page4>
+Starts right now!
+<Page5>
+Hello there. Are you feeling well-rested after the
+#lack of dead ends in days 6-8?
+<Page6>
+The story is really starting to heat up now.
+#From here on out, the number of dead ends will
+only increase.
+<Page7>
+I hope that the wise and prudent Tohno-kun will
+#choose his path with great care going forward.
+<Page8>
+Now, as for the cause of this dead end...
+#You were stabbed in the back, weren't you?
+<Page9>
+Seems like four-eyes didn't get the memo about being
+careful nya.# Or maybe that bandaged guy is more capable
+than he looks?
+<Page10>
+As strange and captivating as that room may be...
+#Tohno-kun is squarely at fault for being so careless.
+<Page11>
+Besides,# this kind of undercover work is
+best done in pairs.
+<Page12>
+One person to watch the door to spot anyone coming,
+#while the other examines the documents...
+<Page13>
+It would be best to refrain from investigating this study
+#until you are able to team up with someone you can rely on.
+<Page14>
+Just like an S-P-Y!
+Mmm, but do we know anyone who fits the bill?
+<Page15>
+Ciel is a martial artist, so I don't think
+#she's cut out for that kind of thing.
+<Page16>
+As a lone operator, there's nothing I can't do,
+#but supporting Tohno-kun while infiltrating...
+<Page17>
+Frankly, it would not suit me at all.
+#It would be nice if you could find that ally someday.
+<Page18>
+Hehehe... you just revealed a new flag...
+#Who could it be? One of the maids? Sacchin?
+<Page19>
+Well, I guess we'll see.
+<Page20>
+Either way, whatever is going on here has
+#no connection to our vampire case.
+<Page21>
+Now then. The cause of death is clear this time,
+#so you can simply go back and pick the other choice.
+<Page22>
+A wise man steers clear of danger.
+#Maybe give Tohno Makihisa's study a miss, and
+head somewhere a little safer!
+<Page23>
+The inside of that mansion is lousy with
+#death traps, just what the heck is going
+on in there?

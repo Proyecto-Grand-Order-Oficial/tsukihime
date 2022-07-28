@@ -1,0 +1,96 @@
+<Page1>
+Oh dear, a dead end!
+<Page2>
+Hey, Tohno-kun!# Stop right there, you are
+under arrest for speeding!
+<Page3>
+Why do you look so happy, Ciel?
+#There's a BBQ'd protagonist right here, y'know?
+<Page4>
+Pardon me. The big battle had finally begun,
+#so I got a bit carried away...
+<Page5>
+This Q&A corner is brought to you by your host:
+#me, Ciel, together with this outsider, Neco...
+<Page6>
+Welcome to 'Teach Me, Ciel-Sensei!'
+<Page7>
+Depending on how you've played,
+#this may have been your first dead end.
+<Page8>
+Well, then, it simply must have been the
+natural choice to make,# or at least, this
+time it was.
+<Page9>
+But let's stay calm and assess the situation carefully.
+#After all, humans cannot survive being on fire!
+<Page10>
+Well, from a feline point of view,
+#I can appreciate this kind of dead end nya.
+<Page11>
+Think about it, there's a woman of unrivaled beauty
+fighting in front of you.# Who in their right mind could keep
+their cool? There's a phrase for this.
+<Page12>
+'Picking chestnuts out of the fire for
+someone else's picnic.
+#Welcome, welcome, well-done.'
+<Page13>
+What do you think?
+#Does it irresistibly whet your appetite, mademoiselle?
+<Page14>
+No, I have no idea what you're saying...
+#Although, I personally like my meat
+well-done...
+<Page15>
+Oh really? That was unexpected.
+#You don't like your steak a little bloody even though
+you're from France?
+<Page16>
+I like tender meat the most when it comes to beef curry,
+#but rare steak is a bit... much.
+<Page17>
+The people who like rare, or something like 
+raw sashimi,# would be someone like Akiha-san,
+I guess.
+<Page18>
+I mean, Japanese people are known for preparing sashimi
+#from raw fish, right? It's hard to believe.
+<Page19>
+You fool. Fish is better the fresher it is.
+<Page20>
+If you don't take my word for it,
+#I'll buy you a round of S-rank sushi next
+time.
+<Page21>
+
+You do like <'karei'|r i g h t e y e   f l o u n d e r>, right, otaku?
+<Page22>
+...Well, it's not like I eat it every#day either...
+<Page23>
+
+Sometimes seafood is the way to go...
+<Page24>
+Right. It seems that we have completely different tastes.
+#Oh well. Come on, wrap it up. We'll have dinner after
+this.
+<Page25>
+R-Right, of course.# We're still
+in the middle of the lesson.
+<Page26>
+Well, suffice to say, a fight between vampires
+#is extremely dangerous, so please stay calm and watch
+the fight from a safe distance.
+<Page27>
+Don't worry. I'm sure Tohno-kun will have his chance to
+shine.# So until then, make sure that you preserve your
+stamina!
+<Page28>
+―――Right, that's a job well done!
+#We're going straight to Messiaen!
+<Page29>
+
+...This time, it's seafood curry!
+<Page30>
+
+Told ya ☆
